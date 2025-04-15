@@ -1,6 +1,8 @@
 # QGIS GML Validation Tool
 
-Strumento di validazione per file GML (Geography Markup Language) del catasto, progettato per funzionare in QGIS.
+Strumento di validazione per file GML (Geography Markup Language) del catasto, progettato per funzionare in QGIS. 
+
+L'obiettivo di questo repository è quello di raccogliere le problematiche riscontrate nei file e segnalarlo all'AdE.
 
 ## Descrizione
 
