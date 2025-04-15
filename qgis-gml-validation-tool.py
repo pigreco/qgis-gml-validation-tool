@@ -1,3 +1,30 @@
+"""
+QGIS GML Validation Tool
+------------------------
+Questo script è un'utility per QGIS che consente di validare file GML (Geography Markup Language).
+Lo strumento verifica la validità delle geometrie contenute nei file GML e genera report
+dettagliati dei problemi riscontrati.
+
+Funzionalità principali:
+- Scansione di una cartella contenente file GML
+- Validazione delle geometrie di ciascun file utilizzando la libreria GEOS
+- Generazione di un riepilogo della validazione
+- Esportazione dei risultati in formato CSV
+
+Tecnologie utilizzate:
+- GEOS (Geometry Engine Open Source): utilizzato attraverso QGIS per la validazione
+  delle geometrie spaziali, verifica la conformità con gli standard OGC (Open Geospatial Consortium)
+- GML (Geography Markup Language): formato standard OGC basato su XML per la rappresentazione
+  di informazioni geografiche
+
+Librerie utilizzate:
+- os: per operazioni sul filesystem
+- qgis.core: per accedere alle funzionalità di QGIS (QgsVectorLayer, QgsGeometry)
+- qgis.PyQt.QtWidgets: per interfaccia utente (QFileDialog, QMessageBox)
+- qgis.utils: per interagire con l'interfaccia di QGIS (iface)
+- csv: per l'esportazione dei risultati in formato CSV
+"""
+
 import os
 from qgis.core import QgsVectorLayer, QgsGeometry
 from qgis.PyQt.QtWidgets import QFileDialog, QMessageBox
