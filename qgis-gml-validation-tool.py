@@ -20,7 +20,9 @@ Tecnologie utilizzate:
 Librerie utilizzate:
 - os: per operazioni sul filesystem
 - qgis.core: per accedere alle funzionalità di QGIS (QgsVectorLayer, QgsGeometry)
-- qgis.PyQt.QtWidgets: per interfaccia utente (QFileDialog, QMessageBox)
+- qgis.PyQt.QtWidgets: per interfaccia utente (QFileDialog, QMessageBox, QDialog, QVBoxLayout, 
+                               QHBoxLayout, QLabel, QLineEdit, QPushButton, 
+                               QDialogButtonBox)
 - qgis.utils: per interagire con l'interfaccia di QGIS (iface)
 - csv: per l'esportazione dei risultati in formato CSV
 """
@@ -28,18 +30,85 @@ Librerie utilizzate:
 import os
 import csv
 from qgis.core import QgsVectorLayer, QgsGeometry
-from qgis.PyQt.QtWidgets import QFileDialog, QMessageBox
+from qgis.PyQt.QtWidgets import (QFileDialog, QMessageBox, QDialog, QVBoxLayout, 
+                               QHBoxLayout, QLabel, QLineEdit, QPushButton, 
+                               QDialogButtonBox)
 from qgis.utils import iface
 
-def valida_gml():
-    # Chiedi all'utente di selezionare la cartella contenente i file GML
-    cartella_gml = QFileDialog.getExistingDirectory(iface.mainWindow(), "Seleziona la cartella contenente i file GML")
+class GmlValidationDialog(QDialog):
+    def __init__(self, parent=None):
+        super(GmlValidationDialog, self).__init__(parent)
+        self.setWindowTitle("Validazione GML")
+        self.resize(500, 150)
+        
+        # Creo il layout principale
+        layout = QVBoxLayout()
+        
+        # Sezione cartella input
+        input_layout = QHBoxLayout()
+        input_label = QLabel("Cartella GML:")
+        self.input_path = QLineEdit()
+        input_button = QPushButton("Sfoglia...")
+        input_button.clicked.connect(self.sfoglia_input)
+        input_layout.addWidget(input_label)
+        input_layout.addWidget(self.input_path)
+        input_layout.addWidget(input_button)
+        
+        # Sezione cartella output
+        output_layout = QHBoxLayout()
+        output_label = QLabel("Cartella output:")
+        self.output_path = QLineEdit()
+        output_button = QPushButton("Sfoglia...")
+        output_button.clicked.connect(self.sfoglia_output)
+        output_layout.addWidget(output_label)
+        output_layout.addWidget(self.output_path)
+        output_layout.addWidget(output_button)
+        
+        # Pulsanti standard (OK e Annulla)
+        buttons = QDialogButtonBox(QDialogButtonBox.Ok | QDialogButtonBox.Cancel)
+        buttons.accepted.connect(self.accept)
+        buttons.rejected.connect(self.reject)
+        
+        # Assemblo il layout
+        layout.addLayout(input_layout)
+        layout.addLayout(output_layout)
+        layout.addWidget(buttons)
+        
+        self.setLayout(layout)
+    
+    def sfoglia_input(self):
+        cartella = QFileDialog.getExistingDirectory(self, "Seleziona la cartella contenente i file GML")
+        if cartella:
+            self.input_path.setText(cartella)
+    
+    def sfoglia_output(self):
+        cartella = QFileDialog.getExistingDirectory(self, "Seleziona la cartella per i file di output")
+        if cartella:
+            self.output_path.setText(cartella)
 
-    # Verifica se l'utente ha annullato la selezione
-    if not cartella_gml:
+def valida_gml():
+    # Mostra la finestra di dialogo per selezionare le cartelle
+    dialog = GmlValidationDialog(iface.mainWindow())
+    result = dialog.exec_()
+    
+    # Verifica se l'utente ha annullato
+    if result != QDialog.Accepted:
         print("Operazione annullata.")
         return
-        
+    
+    # Ottieni i percorsi dalle caselle di testo
+    cartella_gml = dialog.input_path.text()
+    cartella_output = dialog.output_path.text()
+    
+    # Verifica se la cartella GML è stata specificata
+    if not cartella_gml:
+        QMessageBox.warning(iface.mainWindow(), "Errore", "La cartella GML non è stata specificata.")
+        return
+    
+    # Verifica se la cartella di output è stata specificata
+    if not cartella_output:
+        cartella_output = cartella_gml  # Usa la stessa cartella di input se non specificata
+    
     # Ottieni il nome della cartella di input (per usarlo nel nome dei file di output)
     nome_cartella = os.path.basename(cartella_gml)
     if not nome_cartella:  # Nel caso di percorso radice
@@ -51,7 +120,7 @@ def valida_gml():
     # Conta i file GML trovati
     num_gml_files = len([f for f in os.listdir(cartella_gml) if f.lower().endswith('.gml')])
     if num_gml_files == 0:
-        print(f"Nessun file GML trovato nella cartella: {cartella_gml}")
+        QMessageBox.warning(iface.mainWindow(), "Avviso", f"Nessun file GML trovato nella cartella: {cartella_gml}")
         return
     else:
         print(f"Trovati {num_gml_files} file GML nella cartella: {cartella_gml}")
@@ -125,60 +194,48 @@ def valida_gml():
         
         print("----------------------------------------")
 
-    # Chiedi all'utente se vuole salvare i risultati in un file CSV
+    # Genera e salva automaticamente i file CSV
     if risultati:
-        reply = QMessageBox.question(iface.mainWindow(), 'Salvare i risultati?',
-                                    'Vuoi salvare i risultati della validazione in un file CSV?',
-                                    QMessageBox.Yes | QMessageBox.No, QMessageBox.Yes)
+        # Genera i nomi dei file basati sul nome della cartella
+        output_file = os.path.join(cartella_output, f"{nome_cartella}_validazione.csv")
+        output_detail_file = os.path.join(cartella_output, f"{nome_cartella}_validazione_dettagli.csv")
         
-        if reply == QMessageBox.Yes:
-            # Genera automaticamente i nomi dei file basati sul nome della cartella
-            output_file = os.path.join(cartella_gml, f"{nome_cartella}_validazione.csv")
-            output_detail_file = os.path.join(cartella_gml, f"{nome_cartella}_validazione_dettagli.csv")
+        # File CSV principale con riepilogo
+        with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(['File', 'Stato', 'Totale feature', 'Feature invalide'])
             
-            # Chiedi all'utente dove salvare il file riepilogativo
-            output_file, _ = QFileDialog.getSaveFileName(iface.mainWindow(), "Salva risultati come CSV", 
-                                                      output_file,
-                                                      "File CSV (*.csv)")
+            for file_name, info in risultati.items():
+                writer.writerow([
+                    file_name, 
+                    info['stato'], 
+                    info.get('totale_feature', 'N/A'), 
+                    info.get('numero_invalide', 'N/A')
+                ])
+        
+        # File CSV dettagliato con tutti gli errori
+        with open(output_detail_file, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(['File', 'Feature ID', 'Messaggio di errore'])
             
-            if output_file:
-                # Adatta il percorso dei dettagli in base alla scelta dell'utente
-                output_dir = os.path.dirname(output_file)
-                output_basename = os.path.basename(output_file)
-                output_basename_noext = os.path.splitext(output_basename)[0]
-                output_detail_file = os.path.join(output_dir, f"{output_basename_noext}_dettagli.csv")
-                
-                # File CSV principale con riepilogo
-                with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
-                    writer = csv.writer(csvfile)
-                    writer.writerow(['File', 'Stato', 'Totale feature', 'Feature invalide'])
-                    
-                    for file_name, info in risultati.items():
+            for file_name, info in risultati.items():
+                if 'dettagli' in info and info['dettagli']:
+                    for errore in info['dettagli']:
                         writer.writerow([
-                            file_name, 
-                            info['stato'], 
-                            info.get('totale_feature', 'N/A'), 
-                            info.get('numero_invalide', 'N/A')
+                            file_name,
+                            errore['id'],
+                            errore['errore']
                         ])
-                
-                # File CSV dettagliato con tutti gli errori
-                with open(output_detail_file, 'w', newline='', encoding='utf-8') as csvfile:
-                    writer = csv.writer(csvfile)
-                    writer.writerow(['File', 'Feature ID', 'Messaggio di errore'])
-                    
-                    for file_name, info in risultati.items():
-                        if 'dettagli' in info and info['dettagli']:
-                            for errore in info['dettagli']:
-                                writer.writerow([
-                                    file_name,
-                                    errore['id'],
-                                    errore['errore']
-                                ])
-                
-                print(f"Risultati salvati in: {output_file}")
-                print(f"Dettagli completi degli errori salvati in: {output_detail_file}")
-            else:
-                print("Salvataggio CSV annullato.")
+        
+        print(f"Risultati salvati in: {output_file}")
+        print(f"Dettagli completi degli errori salvati in: {output_detail_file}")
+        
+        # Mostra un messaggio di completamento
+        QMessageBox.information(iface.mainWindow(), "Validazione completata",
+                               f"La validazione di {num_gml_files} file GML è stata completata.\n\n"
+                               f"Risultati salvati in:\n- {output_file}\n- {output_detail_file}")
+    else:
+        print("Nessun risultato da salvare.")
 
     print("Validazione completata!")
 
