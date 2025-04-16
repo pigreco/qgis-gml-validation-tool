@@ -36,7 +36,8 @@ cartella_gml = QFileDialog.getExistingDirectory(iface.mainWindow(), "Seleziona l
 # Verifica se l'utente ha annullato la selezione
 if not cartella_gml:
     print("Operazione annullata.")
-    exit()
+    # Rimuovi exit() per evitare la chiusura di QGIS
+    return  # Usa 'return' per uscire solo dallo script, non da QGIS completamente
 
 # Ottieni il nome della cartella di input (per usarlo nel nome dei file di output)
 nome_cartella = os.path.basename(cartella_gml)
@@ -50,7 +51,7 @@ risultati = {}
 num_gml_files = len([f for f in os.listdir(cartella_gml) if f.lower().endswith('.gml')])
 if num_gml_files == 0:
     print(f"Nessun file GML trovato nella cartella: {cartella_gml}")
-    exit()
+    return  # Usa 'return' invece di exit()
 else:
     print(f"Trovati {num_gml_files} file GML nella cartella: {cartella_gml}")
     print("Inizio della validazione...")
