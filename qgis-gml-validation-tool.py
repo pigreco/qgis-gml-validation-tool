@@ -29,6 +29,8 @@ Librerie utilizzate:
 
 import os
 import csv
+import xml.etree.ElementTree as ET
+from xml.parsers.expat import ExpatError
 from qgis.core import QgsVectorLayer, QgsGeometry
 from qgis.PyQt.QtWidgets import (QFileDialog, QMessageBox, QDialog, QVBoxLayout, 
                                QHBoxLayout, QLabel, QLineEdit, QPushButton, 
@@ -118,6 +120,24 @@ def trova_file_gml_ricorsivamente(cartella_base, ricorsivo=True):
     
     return file_gml
 
+def verifica_xml_ben_formato(file_path):
+    """
+    Verifica se un file è un XML ben formato.
+    
+    Args:
+        file_path (str): Percorso del file da verificare
+        
+    Returns:
+        tuple: (bool, str) dove bool indica se il file è valido e str contiene eventuali messaggi di errore
+    """
+    try:
+        ET.parse(file_path)
+        return True, ""
+    except ExpatError as e:
+        return False, f"XML malformato: {str(e)}"
+    except Exception as e:
+        return False, f"Errore nella lettura del file: {str(e)}"
+
 def valida_gml():
     # Mostra la finestra di dialogo per selezionare le cartelle
     dialog = GmlValidationDialog(iface.mainWindow())
@@ -169,12 +189,24 @@ def valida_gml():
         
         print(f"Elaborazione {idx+1}/{len(file_gml_trovati)}: {percorso_relativo}")
         
+        # Verifica se il file è un XML ben formato
+        xml_valido, xml_errore = verifica_xml_ben_formato(file_path)
+        if not xml_valido:
+            risultati[percorso_relativo] = {
+                "stato": "XML malformato", 
+                "dettagli": xml_errore
+            }
+            continue
+        
         # Carica il layer GML
         layer = QgsVectorLayer(file_path, file_name, "ogr")
         
         # Controlla se il layer è stato caricato correttamente
         if not layer.isValid():
-            risultati[percorso_relativo] = {"stato": "Errore di caricamento", "dettagli": "Impossibile caricare il layer"}
+            risultati[percorso_relativo] = {
+                "stato": "Errore di caricamento", 
+                "dettagli": ["Impossibile caricare il layer. Il file potrebbe non essere un GML valido o utilizzare uno schema non supportato."]
+            }
             continue
         
         # Controlla la validità di ogni geometria nel layer
@@ -256,13 +288,29 @@ def valida_gml():
             writer.writerow(['File', 'Feature ID', 'Messaggio di errore'])
             
             for file_percorso, info in risultati.items():
-                if 'dettagli' in info and info['dettagli']:
+                # Gestione diversa a seconda del tipo di errore
+                if info['stato'] == "XML malformato" or info['stato'] == "Errore di caricamento":
+                    # Per errori XML o di caricamento, gestisci la stringa di errore come un messaggio unico
+                    writer.writerow([
+                        file_percorso,
+                        'N/A',
+                        str(info['dettagli']) if isinstance(info['dettagli'], str) else str(info['dettagli'][0])
+                    ])
+                # Per errori di geometria, usa la gestione esistente per i dettagli di feature
+                elif 'dettagli' in info and info['dettagli']:
                     for errore in info['dettagli']:
-                        writer.writerow([
-                            file_percorso,
-                            errore['id'],
-                            errore['errore']
-                        ])
+                        if isinstance(errore, dict) and 'id' in errore and 'errore' in errore:
+                            writer.writerow([
+                                file_percorso,
+                                errore['id'],
+                                errore['errore']
+                            ])
+                        else:
+                            writer.writerow([
+                                file_percorso,
+                                'N/A',
+                                str(errore)
+                            ])
         
         print(f"Risultati salvati in: {output_file}")
         print(f"Dettagli completi degli errori salvati in: {output_detail_file}")
