@@ -6,6 +6,8 @@ L'obiettivo di questo repository è quello di raccogliere le problematiche risco
 
 ## Descrizione
 
+![](./imgs/img_01.png)
+
 Questo strumento consente di validare geometricamente i file GML del catasto, verificando la conformità con gli standard OGC (Open Geospatial Consortium). Esegue una scansione approfondita di tutti i file GML presenti in una cartella selezionata e produce report dettagliati sui problemi riscontrati.
 
 ## Funzionalità principali
