@@ -1,0 +1,36 @@
+File,Feature ID,Messaggio di errore
+Abruzzo\C750_CITTA` SANT`ANGELO_map.gml,400,Auto intersezione
+Calabria\A773_BELVEDERE MARITTIMO_map.gml,20,Auto intersezione
+Calabria\I388_SAN VINCENZO LA COSTA_map.gml,700,Auto intersezione
+Emilia-Romagna\F463_MONTECCHIO EMILIA_map.gml,1300,Auto intersezione
+Lazio\D945_GAVIGNANO_map.gml,400,Auto intersezione
+Lombardia\B929_CASANOVA LONATI_map.gml,500,Auto intersezione con anello
+Marche\E690_LORETO_map.gml,6,Troppi pochi punti nella geometria
+Piemonte\F846_NARZOLE_map.gml,2800,Auto intersezione con anello
+Piemonte\G676_PINO D`ASTI_map.gml,400,Auto intersezione
+Piemonte\H188_RASSA_map.gml,1100,Auto intersezione
+Piemonte\H462_ROCCHETTA BELBO_map.gml,600,Troppi pochi punti nella geometria
+Sardegna\A359_ARBUS_map.gml,10100,Troppi pochi punti nella geometria
+Sardegna\F270_MOGORELLA_map.gml,800,Auto intersezione
+Sardegna\L154_TEULADA_map.gml,801,Auto intersezione
+Sardegna\M274_GOLFO ARANCI_map.gml,56,Auto intersezione
+Sicilia\A028_ACIREALE_map.gml,6100,Auto intersezione
+Sicilia\A070_AGIRA_map.gml,6000,Auto intersezione con anello
+Sicilia\C067_CASTELBUONO_map.gml,1500,Auto intersezione
+Sicilia\F231_MIRABELLA IMBACCARI_map.gml,600,Auto intersezione
+Sicilia\G253_PALAGONIA_map.gml,2300,Auto intersezione
+Sicilia\H163_RAGUSA_map.gml,27600,Auto intersezione
+Sicilia\I035_SAN MICHELE DI GANZARIA_map.gml,1200,Auto intersezione
+Sicilia\I240_SANTA MARIA DI LICODIA_map.gml,1900,Auto intersezione
+Sicilia\M100_VIZZINI_map.gml,8000,Auto intersezione
+Toscana\A576_BAGNONE_map.gml,7500,Auto intersezione
+Toscana\E960_MARLIANA_map.gml,1000,Auto intersezione
+Umbria\C744_CITTA` DELLA PIEVE_map.gml,4300,Auto intersezione con anello
+Umbria\E256_GUBBIO_map.gml,46600,Auto intersezione
+Umbria\G478_PERUGIA_map.gml,39600,Auto intersezione
+Veneto\A001_ABANO TERME_map.gml,7,Il buco si trova all'esterno del confine
+Veneto\A757_BELLUNO_map.gml,7100,Auto intersezione
+Veneto\E429_LAMON_map.gml,5300,Auto intersezione con anello
+Veneto\I821_SOMMACAMPAGNA_map.gml,1900,Troppi pochi punti nella geometria
+Veneto\L736_VENEZIA_map.gml,4833,Troppi pochi punti nella geometria
+Veneto\M401_BARBARANO MOSSANO_map.gml,500,Auto intersezione con anello
