@@ -129,7 +129,7 @@
 | Valle d'Aosta         |     9 |     1.02 |
 | Molise                |     7 |     0.79 |
 
-![alt text](./img/image-2.png)
+![alt text](../imgs/image-2.png)
 
 Questo errore si verifica quando una geometria tocca se stessa.
 
@@ -155,7 +155,7 @@ Questo errore si verifica quando una geometria tocca se stessa.
 | Liguria               |     3 |     1.04 |
 | Umbria                |     3 |     1.04 |
 
-![alt text](./img/image-1.png)
+![alt text](../imgs/image-1.png)
 
 Questo errore si verifica quando una geometria tocca se stessa e genera un anello.
 
@@ -196,8 +196,10 @@ Questo errore è bloccante, QGIS non riesce a leggerlo.
 | ------- | ------------------------ | ---------- | ------------------------------------------------------------------ |
 | Veneto  | A001_ABANO TERME_map.gml | 7          | Il buco si trova all'esterno del confine (Hole lies outside shell) |
 
-![alt text](./img/image.png)
+![alt text](../imgs/image.png)
 
 [gis.stackexchange](https://gis.stackexchange.com/questions/254413/how-to-fix-hole-lies-outside-shell)
 
 [Doc QGIS](https://download.qgis.org/qgisdata/QGIS-Documentation-3.16/live/html/it/docs/user_manual/processing_algs/qgis/vectorgeometry.html#types-of-error-messages-and-their-meanings)
+
+![](../imgs/img_ita.png)
