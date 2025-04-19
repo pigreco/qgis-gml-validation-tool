@@ -88,7 +88,7 @@
 
 ##  Invalidità Particelle
 
-## Auto intersezione
+## Auto intersezione - Self-intersection
 
 | Regione               | count | percent% |
 | --------------------- | ----: | -------: |
@@ -116,7 +116,7 @@
 
 Questo errore si verifica quando una geometria tocca se stessa.
 
-## Auto intersezione con anelli
+## Auto intersezione con anelli - Ring self-intersection
 
 | Regione               | count | percent% |
 | --------------------- | ----: | -------: |
@@ -142,7 +142,7 @@ Questo errore si verifica quando una geometria tocca se stessa.
 
 Questo errore si verifica quando una geometria tocca se stessa e genera un anello.
 
-## Troppi pochi punti nella geometria 
+## Troppi pochi punti nella geometria - Too few points
 
 | Regione               | count | percent% |
 | --------------------- | ----: | -------: |
@@ -175,10 +175,12 @@ Questo errore si verifica quando una geometria tocca se stessa e genera un anell
 
 ##  Invalidità Mappe
 
-| Regione | File                     | Feature ID | Messaggio di errore                      |
-| ------- | ------------------------ | ---------- | ---------------------------------------- |
-| Veneto  | A001_ABANO TERME_map.gml | 7          | Il buco si trova all'esterno del confine |
+| Regione | File                     | Feature ID | Messaggio di errore                                                |
+| ------- | ------------------------ | ---------- | ------------------------------------------------------------------ |
+| Veneto  | A001_ABANO TERME_map.gml | 7          | Il buco si trova all'esterno del confine (Hole lies outside shell) |
 
 ![alt text](./img/image.png)
+
+[gis.stackexchange](https://gis.stackexchange.com/questions/254413/how-to-fix-hole-lies-outside-shell)
 
 [Doc QGIS](https://download.qgis.org/qgisdata/QGIS-Documentation-3.16/live/html/it/docs/user_manual/processing_algs/qgis/vectorgeometry.html#types-of-error-messages-and-their-meanings)
