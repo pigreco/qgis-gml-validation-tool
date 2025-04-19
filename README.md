@@ -102,3 +102,8 @@ Lo strumento produce due file CSV:
 - QGIS 3.x o superiore
 - Accesso in lettura alla cartella contenente i file GML
 - Accesso in scrittura alla cartella di destinazione per i file CSV di output
+
+## Utility
+
+- [VisiData](https://www.visidata.org/)
+- [QGIS](https://www.qgis.org/)
