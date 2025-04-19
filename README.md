@@ -4,6 +4,10 @@ Strumento di validazione per file GML (Geography Markup Language) del catasto, p
 
 L'obiettivo di questo repository è quello di raccogliere le problematiche riscontrate nei file e segnalarlo all'AdE.
 
+## Risultati Analisi
+
+[Vai](./output/README.md)
+
 ## Descrizione
 
 ![](./imgs/img_01.png)
