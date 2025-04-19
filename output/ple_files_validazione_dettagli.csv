@@ -1,1338 +1,1338 @@
-File,Feature ID,Messaggio di errore
-Abruzzo\A018_ACCIANO_ple.gml,20823,Troppi pochi punti nella geometria
-Abruzzo\A345_L`AQUILA_ple.gml,63645,Auto intersezione con anello
-Abruzzo\A345_L`AQUILA_ple.gml,132451,Auto intersezione
-Abruzzo\A398_ARI_ple.gml,8506,Auto intersezione con anello
-Abruzzo\A488_ATRI_ple.gml,13042,Auto intersezione con anello
-Abruzzo\A488_ATRI_ple.gml,20064,Auto intersezione con anello
-Abruzzo\A488_ATRI_ple.gml,20380,Troppi pochi punti nella geometria
-Abruzzo\A488_ATRI_ple.gml,20384,Auto intersezione
-Abruzzo\A667_BARISCIANO_ple.gml,42902,Auto intersezione con anello
-Abruzzo\A746_BELLANTE_ple.gml,13345,Auto intersezione con anello
-Abruzzo\A945_BOLOGNANO_ple.gml,8718,Auto intersezione
-Abruzzo\B294_BUSSI SUL TIRINO_ple.gml,8895,Troppi pochi punti nella geometria
-Abruzzo\B515_CAMPLI_ple.gml,15201,Auto intersezione con anello
-Abruzzo\B515_CAMPLI_ple.gml,28648,Auto intersezione
-Abruzzo\B526_CAMPO DI GIOVE_ple.gml,4412,Auto intersezione
-Abruzzo\B624_CANSANO_ple.gml,2428,Auto intersezione
-Abruzzo\B722_CARAMANICO TERME_ple.gml,30023,Auto intersezione
-Abruzzo\C517_CERMIGNANO_ple.gml,13654,Auto intersezione
-Abruzzo\C632_CHIETI_ple.gml,43668,Auto intersezione
-Abruzzo\C783_CIVITELLA ROVETO_ple.gml,8796,Auto intersezione
-Abruzzo\C856_COLLEDIMEZZO_ple.gml,5659,Troppi pochi punti nella geometria
-Abruzzo\D076_CORTINO_ple.gml,14942,Troppi pochi punti nella geometria
-Abruzzo\D736_FOSSA_ple.gml,4964,Auto intersezione
-Abruzzo\D738_FOSSACESIA_ple.gml,18933,Auto intersezione
-Abruzzo\D763_FRANCAVILLA AL MARE_ple.gml,25767,Auto intersezione con anello
-Abruzzo\E811_MAGLIANO DE` MARSI_ple.gml,2626,Auto intersezione con anello
-Abruzzo\F022_MASSA D`ALBE_ple.gml,11929,Troppi pochi punti nella geometria
-Abruzzo\F578_MONTENERODOMO_ple.gml,5409,Auto intersezione
-Abruzzo\F582_MONTEODORISIO_ple.gml,5100,Auto intersezione
-Abruzzo\F582_MONTEODORISIO_ple.gml,7487,Auto intersezione
-Abruzzo\F585_ROSETO DEGLI ABRUZZI_ple.gml,23332,Auto intersezione con anello
-Abruzzo\F690_MONTORIO AL VOMANO_ple.gml,25917,Troppi pochi punti nella geometria
-Abruzzo\F852_NAVELLI_ple.gml,31373,Auto intersezione con anello
-Abruzzo\G002_OFENA_ple.gml,15282,Auto intersezione con anello
-Abruzzo\G200_OVINDOLI_ple.gml,1659,Auto intersezione
-Abruzzo\G200_OVINDOLI_ple.gml,10449,Auto intersezione con anello
-Abruzzo\G237_PAGLIETA_ple.gml,9783,Auto intersezione
-Abruzzo\G290_PALMOLI_ple.gml,11619,Auto intersezione
-Abruzzo\G484_PESCASSEROLI_ple.gml,4251,Auto intersezione
-Abruzzo\G524_PETTORANO SUL GIZIO_ple.gml,4345,Auto intersezione
-Abruzzo\G524_PETTORANO SUL GIZIO_ple.gml,13854,Auto intersezione
-Abruzzo\G608_PIETRACAMELA_ple.gml,5282,Auto intersezione con anello
-Abruzzo\G608_PIETRACAMELA_ple.gml,5486,Auto intersezione con anello
-Abruzzo\G608_PIETRACAMELA_ple.gml,10466,Auto intersezione con anello
-Abruzzo\G760_POGGIOFIORITO_ple.gml,5592,Auto intersezione
-Abruzzo\H007_PRATOLA PELIGNA_ple.gml,9671,Auto intersezione
-Abruzzo\H007_PRATOLA PELIGNA_ple.gml,17182,Auto intersezione
-Abruzzo\H166_RAIANO_ple.gml,2650,Auto intersezione
-Abruzzo\H166_RAIANO_ple.gml,3704,Auto intersezione
-Abruzzo\H166_RAIANO_ple.gml,9524,Auto intersezione
-Abruzzo\H166_RAIANO_ple.gml,13972,Auto intersezione
-Abruzzo\H353_RIVISONDOLI_ple.gml,2335,Auto intersezione
-Abruzzo\H389_ROCCACASALE_ple.gml,4460,Auto intersezione
-Abruzzo\H402_ROCCA DI MEZZO_ple.gml,31462,Auto intersezione con anello
-Abruzzo\H819_S DEMETRIO NE` VESTINI_ple.gml,15623,Troppi pochi punti nella geometria
-Abruzzo\I394_SAN VITO CHIETINO_ple.gml,4254,Auto intersezione
-Abruzzo\I543_SCONTRONE_ple.gml,6762,Auto intersezione
-Abruzzo\I543_SCONTRONE_ple.gml,9215,Auto intersezione
-Abruzzo\I546_SCOPPITO_ple.gml,13648,Auto intersezione
-Abruzzo\L103_TERAMO_ple.gml,62928,Auto intersezione
-Abruzzo\L173_TIONE DEGLI ABRUZZI_ple.gml,9738,Auto intersezione
-Abruzzo\L227_TORNIMPARTE_ple.gml,22671,Auto intersezione
-Abruzzo\L227_TORNIMPARTE_ple.gml,23084,Auto intersezione
-Abruzzo\L253_TORREBRUNA_ple.gml,1995,Auto intersezione
-Abruzzo\L295_TORRICELLA SICURA_ple.gml,16619,Auto intersezione con anello
-Abruzzo\L295_TORRICELLA SICURA_ple.gml,17308,Troppi pochi punti nella geometria
-Abruzzo\L307_TORTORETO_ple.gml,14711,Troppi pochi punti nella geometria
-Abruzzo\L958_VILLALAGO_ple.gml,11426,Auto intersezione
-Basilicata\A131_ALBANO DI LUCANIA_ple.gml,8501,Auto intersezione
-Basilicata\A321_ANZI_ple.gml,7643,Auto intersezione
-Basilicata\A612_BANZI_ple.gml,3721,Auto intersezione
-Basilicata\A743_BELLA_ple.gml,328,Auto intersezione
-Basilicata\A743_BELLA_ple.gml,2987,Auto intersezione
-Basilicata\A743_BELLA_ple.gml,11459,Auto intersezione
-Basilicata\B173_BRIENZA_ple.gml,16568,Auto intersezione
-Basilicata\B173_BRIENZA_ple.gml,17741,Auto intersezione
-Basilicata\B173_BRIENZA_ple.gml,29448,Auto intersezione
-Basilicata\B173_BRIENZA_ple.gml,30426,Auto intersezione
-Basilicata\B173_BRIENZA_ple.gml,32067,Auto intersezione
-Basilicata\B580_CANCELLARA_ple.gml,1091,Auto intersezione
-Basilicata\B580_CANCELLARA_ple.gml,7816,Auto intersezione
-Basilicata\C345_CASTRONUOVO SANT`ANDREA_ple.gml,10829,Auto intersezione
-Basilicata\C619_CHIAROMONTE_ple.gml,4159,Auto intersezione
-Basilicata\C619_CHIAROMONTE_ple.gml,12673,Auto intersezione
-Basilicata\D766_FRANCAVILLA IN SINNI_ple.gml,4087,Auto intersezione
-Basilicata\E093_GORGOGLIONE_ple.gml,7160,Auto intersezione con anello
-Basilicata\E221_GRUMENTO NOVA_ple.gml,8563,Auto intersezione
-Basilicata\E246_GUARDIA PERTICARA_ple.gml,9578,Auto intersezione
-Basilicata\E976_MARSICO NUOVO_ple.gml,11752,Auto intersezione
-Basilicata\E977_MARSICOVETERE_ple.gml,15584,Auto intersezione
-Basilicata\F006_MASCHITO_ple.gml,4784,Auto intersezione
-Basilicata\F295_MOLITERNO_ple.gml,2727,Auto intersezione
-Basilicata\F295_MOLITERNO_ple.gml,6537,Auto intersezione
-Basilicata\F568_MONTEMILONE_ple.gml,2550,Auto intersezione
-Basilicata\F573_MONTEMURRO_ple.gml,367,Auto intersezione
-Basilicata\F573_MONTEMURRO_ple.gml,10589,Auto intersezione
-Basilicata\F637_MONTESCAGLIOSO_ple.gml,8169,Auto intersezione
-Basilicata\F637_MONTESCAGLIOSO_ple.gml,29509,Troppi pochi punti nella geometria
-Basilicata\F637_MONTESCAGLIOSO_ple.gml,29510,Troppi pochi punti nella geometria
-Basilicata\F917_NOEPOLI_ple.gml,2192,Auto intersezione
-Basilicata\F917_NOEPOLI_ple.gml,4524,Auto intersezione
-Basilicata\G037_OLIVETO LUCANO_ple.gml,6565,Troppi pochi punti nella geometria
-Basilicata\G623_PIETRAPERTOSA_ple.gml,12135,Auto intersezione
-Basilicata\G663_PIGNOLA_ple.gml,7620,Auto intersezione
-Basilicata\G806_POMARICO_ple.gml,2801,Auto intersezione
-Basilicata\H426_ROCCANOVA_ple.gml,1750,Auto intersezione
-Basilicata\H426_ROCCANOVA_ple.gml,9175,Auto intersezione
-Basilicata\H808_SAN COSTANTINO ALBANESE_ple.gml,6620,Auto intersezione
-Basilicata\H831_SAN FELE_ple.gml,987,Auto intersezione
-Basilicata\I157_SAN SEVERINO LUCANO_ple.gml,13140,Auto intersezione
-Basilicata\I305_SANT`ARCANGELO_ple.gml,5830,Auto intersezione
-Basilicata\I305_SANT`ARCANGELO_ple.gml,19168,Auto intersezione
-Basilicata\L181_TITO_ple.gml,2071,Auto intersezione
-Basilicata\L181_TITO_ple.gml,20094,Auto intersezione
-Basilicata\L326_TRAMUTOLA_ple.gml,9549,Auto intersezione
-Basilicata\L326_TRAMUTOLA_ple.gml,9963,Auto intersezione
-Basilicata\L418_TRICARICO_ple.gml,20050,Auto intersezione con anello
-Basilicata\L738_VENOSA_ple.gml,17248,Auto intersezione
-Basilicata\L859_VIETRI DI POTENZA_ple.gml,12274,Auto intersezione
-Basilicata\L873_VIGGIANELLO_ple.gml,32143,Auto intersezione con anello
-Calabria\A160_ALBIDONA_ple.gml,6889,Auto intersezione
-Calabria\A253_AMANTEA_ple.gml,18535,Auto intersezione
-Calabria\A340_APRIGLIANO_ple.gml,8512,Auto intersezione
-Calabria\A340_APRIGLIANO_ple.gml,10332,Auto intersezione
-Calabria\A912_BOCCHIGLIERO_ple.gml,205,Auto intersezione
-Calabria\B002_BORGIA_ple.gml,12150,Auto intersezione
-Calabria\B002_BORGIA_ple.gml,14127,Auto intersezione
-Calabria\B591_CANDIDONI_ple.gml,1275,Auto intersezione
-Calabria\B968_CASTELSILANO_ple.gml,N/A,"Errore nella lettura del file: not well-formed (invalid token): line 16, column 74"
-Calabria\C002_CASSANO ALLO IONIO_ple.gml,26146,Auto intersezione
-Calabria\C108_CASTROLIBERO_ple.gml,1490,Auto intersezione con anello
-Calabria\C108_CASTROLIBERO_ple.gml,6420,Auto intersezione con anello
-Calabria\C352_CATANZARO_ple.gml,6183,Auto intersezione
-Calabria\C352_CATANZARO_ple.gml,8133,Auto intersezione
-Calabria\C352_CATANZARO_ple.gml,15137,Auto intersezione
-Calabria\C352_CATANZARO_ple.gml,15241,Auto intersezione
-Calabria\C352_CATANZARO_ple.gml,20910,Auto intersezione con anello
-Calabria\C352_CATANZARO_ple.gml,32037,Auto intersezione
-Calabria\C352_CATANZARO_ple.gml,42203,Auto intersezione
-Calabria\C616_CHIARAVALLE CENTRALE_ple.gml,6853,Auto intersezione
-Calabria\C695_CIMINA`_ple.gml,2508,Auto intersezione
-Calabria\C726_CIRO` MARINA_ple.gml,16657,Troppi pochi punti nella geometria
-Calabria\C795_CLETO_ple.gml,2480,Auto intersezione
-Calabria\D049_CORTALE_ple.gml,4483,Auto intersezione
-Calabria\D086_COSENZA_ple.gml,14747,Auto intersezione
-Calabria\D086_COSENZA_ple.gml,27518,Auto intersezione
-Calabria\D189_CRUCOLI_ple.gml,8287,Troppi pochi punti nella geometria
-Calabria\D290_SCIGLIANO_ple.gml,5586,Auto intersezione
-Calabria\D464_FAGNANO CASTELLO_ple.gml,6555,Auto intersezione
-Calabria\D544_FEROLETO ANTICO_ple.gml,6137,Auto intersezione
-Calabria\D746_MONTEBELLO JONICO_ple.gml,2682,Auto intersezione
-Calabria\D746_MONTEBELLO JONICO_ple.gml,17889,Auto intersezione
-Calabria\D746_MONTEBELLO JONICO_ple.gml,21490,Auto intersezione
-Calabria\D828_FUSCALDO_ple.gml,16773,Auto intersezione
-Calabria\E068_GIZZERIA_ple.gml,14572,Auto intersezione
-Calabria\E212_GROTTERIA_ple.gml,7895,Auto intersezione
-Calabria\E212_GROTTERIA_ple.gml,11857,Auto intersezione
-Calabria\E407_LAGO_ple.gml,11374,Auto intersezione
-Calabria\E407_LAGO_ple.gml,14012,Auto intersezione
-Calabria\E419_LAINO CASTELLO_ple.gml,9460,Auto intersezione
-Calabria\E419_LAINO CASTELLO_ple.gml,10741,Auto intersezione
-Calabria\E479_LAUREANA DI BORRELLO_ple.gml,6137,Auto intersezione
-Calabria\E479_LAUREANA DI BORRELLO_ple.gml,8656,Auto intersezione
-Calabria\E479_LAUREANA DI BORRELLO_ple.gml,9352,Auto intersezione
-Calabria\E678_LONGOBUCCO_ple.gml,818,Auto intersezione
-Calabria\E745_LUNGRO_ple.gml,1189,Auto intersezione
-Calabria\E834_MAIDA_ple.gml,6445,Auto intersezione
-Calabria\E834_MAIDA_ple.gml,10827,Auto intersezione
-Calabria\E914_MARANO MARCHESATO_ple.gml,4047,Troppi pochi punti nella geometria
-Calabria\F207_MILETO_ple.gml,1863,Auto intersezione con anello
-Calabria\F207_MILETO_ple.gml,13721,Auto intersezione
-Calabria\F301_MOLOCHIO_ple.gml,74,Auto intersezione
-Calabria\F416_MONTALTO UFFUGO_ple.gml,10860,Auto intersezione
-Calabria\F519_MONTEGIORDANO_ple.gml,1865,Auto intersezione
-Calabria\F519_MONTEGIORDANO_ple.gml,5666,Auto intersezione
-Calabria\F519_MONTEGIORDANO_ple.gml,8536,Auto intersezione
-Calabria\F708_MORANO CALABRO_ple.gml,8783,Auto intersezione
-Calabria\F780_MOTTA SANTA LUCIA_ple.gml,6952,Auto intersezione
-Calabria\F910_NOCERA TERINESE_ple.gml,832,Auto intersezione con anello
-Calabria\G082_OPPIDO MAMERTINA_ple.gml,554,Auto intersezione
-Calabria\G082_OPPIDO MAMERTINA_ple.gml,13318,Auto intersezione
-Calabria\G082_OPPIDO MAMERTINA_ple.gml,14658,Auto intersezione
-Calabria\G129_ORSOMARSO_ple.gml,13200,Auto intersezione
-Calabria\G272_PALERMITI_ple.gml,676,Auto intersezione
-Calabria\G277_PALIZZI_ple.gml,2615,Auto intersezione
-Calabria\G288_PALMI_ple.gml,21185,Troppi pochi punti nella geometria
-Calabria\G733_PLATACI_ple.gml,5708,Auto intersezione
-Calabria\G734_PLATANIA_ple.gml,5290,Auto intersezione
-Calabria\H235_RENDE_ple.gml,18082,Auto intersezione
-Calabria\H265_RIACE_ple.gml,464,Auto intersezione
-Calabria\H572_ROSETO CAPO SPULICO_ple.gml,134,Auto intersezione
-Calabria\H825_SAN DONATO DI NINEA_ple.gml,4712,Auto intersezione
-Calabria\H877_SANGINETO_ple.gml,10400,Auto intersezione
-Calabria\H992_SAN MARTINO DI FINITA_ple.gml,3724,Auto intersezione
-Calabria\I139_SAN ROBERTO_ple.gml,4326,Auto intersezione
-Calabria\I139_SAN ROBERTO_ple.gml,11280,Auto intersezione
-Calabria\I165_SAN SOSTI_ple.gml,314,Auto intersezione
-Calabria\I165_SAN SOSTI_ple.gml,4757,Auto intersezione
-Calabria\I198_SANT`AGATA DEL BIANCO_ple.gml,220,Auto intersezione
-Calabria\I333_S EUFEMIA D`ASPROMONTE_ple.gml,250,Auto intersezione
-Calabria\I388_SAN VINCENZO LA COSTA_ple.gml,12,Auto intersezione
-Calabria\I536_SCIDO_ple.gml,2562,Auto intersezione
-Calabria\I537_SCILLA_ple.gml,3780,Troppi pochi punti nella geometria
-Calabria\I600_SEMINARA_ple.gml,12728,Auto intersezione
-Calabria\I655_SERRASTRETTA_ple.gml,12008,Auto intersezione
-Calabria\I955_STIGNANO_ple.gml,3450,Auto intersezione
-Calabria\I956_STILO_ple.gml,10341,Auto intersezione
-Calabria\L063_TAURIANOVA_ple.gml,18558,Auto intersezione con anello
-Calabria\L070_TAVERNA_ple.gml,4306,Auto intersezione
-Calabria\M403_CORIGLIANO-ROSSANO_ple.gml,13762,Auto intersezione
-Calabria\M403_CORIGLIANO-ROSSANO_ple.gml,57156,Auto intersezione
-Calabria\M403_CORIGLIANO-ROSSANO_ple.gml,69542,Auto intersezione
-Campania\A023_ACERNO_ple.gml,7847,Auto intersezione
-Campania\A091_AGROPOLI_ple.gml,10428,Auto intersezione
-Campania\A243_ALVIGNANO_ple.gml,8611,Auto intersezione
-Campania\A243_ALVIGNANO_ple.gml,11663,Auto intersezione
-Campania\A330_APOLLOSA_ple.gml,10623,Auto intersezione con anello
-Campania\A455_ARZANO_ple.gml,5438,Troppi pochi punti nella geometria
-Campania\A484_ATENA LUCANA_ple.gml,2466,Auto intersezione con anello
-Campania\A484_ATENA LUCANA_ple.gml,2484,Auto intersezione con anello
-Campania\A484_ATENA LUCANA_ple.gml,10909,Troppi pochi punti nella geometria
-Campania\A535_BACOLI_ple.gml,3357,Auto intersezione con anello
-Campania\A674_BARONISSI_ple.gml,4791,Auto intersezione
-Campania\A674_BARONISSI_ple.gml,9963,Auto intersezione
-Campania\A881_BISACCIA_ple.gml,27439,Auto intersezione
-Campania\B242_BUCCINO_ple.gml,25731,Auto intersezione
-Campania\B242_BUCCINO_ple.gml,29144,Auto intersezione
-Campania\B644_CAPACCIO_ple.gml,16865,Auto intersezione
-Campania\B644_CAPACCIO_ple.gml,21545,Auto intersezione
-Campania\B644_CAPACCIO_ple.gml,23383,Auto intersezione
-Campania\B866_CASALBORE_ple.gml,5691,Auto intersezione
-Campania\B888_CASALETTO SPARTANO_ple.gml,1953,Auto intersezione
-Campania\B895_CASAL VELINO_ple.gml,3547,Auto intersezione
-Campania\B895_CASAL VELINO_ple.gml,9113,Auto intersezione
-Campania\B959_CASELLE IN PITTARI_ple.gml,5971,Auto intersezione
-Campania\C058_CASTEL BARONIA_ple.gml,3732,Auto intersezione
-Campania\C069_CASTELCIVITA_ple.gml,1348,Auto intersezione
-Campania\C125_CASTELLABATE_ple.gml,7344,Auto intersezione
-Campania\C245_CASTELPAGANO_ple.gml,13400,Auto intersezione
-Campania\C262_CASTEL SAN LORENZO_ple.gml,2220,Auto intersezione
-Campania\C283_CASTELVETERE SUL CALORE_ple.gml,992,Auto intersezione
-Campania\C470_CENTOLA_ple.gml,1525,Auto intersezione
-Campania\C470_CENTOLA_ple.gml,3221,Auto intersezione
-Campania\C470_CENTOLA_ple.gml,9349,Auto intersezione
-Campania\C470_CENTOLA_ple.gml,19256,Auto intersezione
-Campania\C470_CENTOLA_ple.gml,23999,Auto intersezione
-Campania\C675_CICCIANO_ple.gml,6666,Auto intersezione con anello
-Campania\C676_CICERALE_ple.gml,5103,Auto intersezione
-Campania\C846_COLLE SANNITA_ple.gml,650,Auto intersezione
-Campania\C973_CONTRONE_ple.gml,1621,Auto intersezione
-Campania\C974_CONTURSI TERME_ple.gml,7319,Auto intersezione
-Campania\C974_CONTURSI TERME_ple.gml,9710,Auto intersezione
-Campania\C974_CONTURSI TERME_ple.gml,10241,Auto intersezione
-Campania\C974_CONTURSI TERME_ple.gml,12346,Auto intersezione
-Campania\D230_CUSANO MUTRI_ple.gml,8466,Auto intersezione
-Campania\D469_FAICCHIO_ple.gml,8444,Auto intersezione
-Campania\D527_FELITTO_ple.gml,2017,Auto intersezione
-Campania\D527_FELITTO_ple.gml,4696,Auto intersezione
-Campania\D638_FLUMERI_ple.gml,7369,Auto intersezione
-Campania\D755_FRAGNETO L`ABATE_ple.gml,994,Auto intersezione
-Campania\D784_FRASSO TELESINO_ple.gml,3208,Auto intersezione
-Campania\D886_GALLUCCIO_ple.gml,6474,Auto intersezione
-Campania\E026_GIFFONI SEI CASALI_ple.gml,1842,Auto intersezione
-Campania\E131_GRAGNANO_ple.gml,9240,Auto intersezione con anello
-Campania\E131_GRAGNANO_ple.gml,9242,Auto intersezione con anello
-Campania\E161_GRECI_ple.gml,8437,Auto intersezione
-Campania\E396_LACCO AMENO_ple.gml,4674,Auto intersezione con anello
-Campania\E485_LAURINO_ple.gml,7673,Auto intersezione
-Campania\E486_LAURITO_ple.gml,1579,Auto intersezione
-Campania\E605_LIONI_ple.gml,9797,Auto intersezione
-Campania\E814_MAGLIANO VETERE_ple.gml,2564,Auto intersezione
-Campania\E814_MAGLIANO VETERE_ple.gml,2735,Auto intersezione
-Campania\F397_MONTAGUTO_ple.gml,4113,Auto intersezione
-Campania\F426_MONTANO ANTILIA_ple.gml,5492,Auto intersezione
-Campania\F448_MONTECALVO IRPINO_ple.gml,11937,Auto intersezione
-Campania\F559_MONTEMARANO_ple.gml,2601,Auto intersezione
-Campania\F559_MONTEMARANO_ple.gml,12949,Auto intersezione
-Campania\F744_MORRA DE SANCTIS_ple.gml,8901,Auto intersezione
-Campania\F924_NOLA_ple.gml,16813,Auto intersezione con anello
-Campania\F924_NOLA_ple.gml,16848,Auto intersezione con anello
-Campania\G226_PADULA_ple.gml,2023,Auto intersezione
-Campania\G226_PADULA_ple.gml,18321,Auto intersezione
-Campania\G227_PADULI_ple.gml,19368,Auto intersezione con anello
-Campania\G227_PADULI_ple.gml,19369,Auto intersezione
-Campania\G311_PANNARANO_ple.gml,7055,Troppi pochi punti nella geometria
-Campania\G370_PATERNOPOLI_ple.gml,6863,Auto intersezione
-Campania\G370_PATERNOPOLI_ple.gml,9528,Auto intersezione
-Campania\G626_PIETRAROIA_ple.gml,2115,Auto intersezione
-Campania\G902_PORTICI_ple.gml,5667,Auto intersezione con anello
-Campania\G939_POSTIGLIONE_ple.gml,13571,Auto intersezione
-Campania\H045_PRESENZANO_ple.gml,3291,Auto intersezione
-Campania\H045_PRESENZANO_ple.gml,3339,Auto intersezione
-Campania\H114_QUARTO_ple.gml,11964,Auto intersezione con anello
-Campania\H128_QUINDICI_ple.gml,5689,Auto intersezione
-Campania\H227_REINO_ple.gml,6019,Auto intersezione
-Campania\H382_ROCCABASCERANA_ple.gml,12019,Auto intersezione
-Campania\H398_ROCCA D`EVANDRO_ple.gml,6089,Auto intersezione
-Campania\H423_ROCCAMONFINA_ple.gml,1754,Auto intersezione
-Campania\H423_ROCCAMONFINA_ple.gml,10873,Auto intersezione
-Campania\H438_ROCCA SAN FELICE_ple.gml,6000,Auto intersezione
-Campania\H764_SAN BARTOLOMEO IN GALDO_ple.gml,1219,Auto intersezione
-Campania\H860_SAN GENNARO VESUVIANO_ple.gml,8102,Troppi pochi punti nella geometria
-Campania\I089_SAN PIETRO AL TANAGRO_ple.gml,6616,Auto intersezione con anello
-Campania\I197_SANT`AGATA DE` GOTI_ple.gml,7477,Auto intersezione
-Campania\I281_S ANGELO DEI LOMBARDI_ple.gml,39351,Auto intersezione
-Campania\I469_SAVIANO_ple.gml,6133,Auto intersezione con anello
-Campania\I630_SERINO_ple.gml,5653,Auto intersezione
-Campania\I630_SERINO_ple.gml,8888,Auto intersezione
-Campania\I630_SERINO_ple.gml,12710,Auto intersezione
-Campania\L083_TEANO_ple.gml,7333,Auto intersezione
-Campania\L254_TORRECUSO_ple.gml,2717,Auto intersezione
-Campania\L254_TORRECUSO_ple.gml,7246,Auto intersezione
-Campania\L274_TORRE ORSAIA_ple.gml,5566,Auto intersezione
-Campania\L461_TUFO_ple.gml,5830,Troppi pochi punti nella geometria
-Campania\L589_VALLATA_ple.gml,319,Auto intersezione
-Campania\L589_VALLATA_ple.gml,524,Auto intersezione
-Campania\L589_VALLATA_ple.gml,13084,Auto intersezione
-Campania\M092_VITULAZIO_ple.gml,6749,Auto intersezione
-Campania\M093_VITULANO_ple.gml,11119,Auto intersezione
-Campania\M330_MONTORO_ple.gml,20266,Auto intersezione con anello
-Emilia-Romagna\A393_ARGENTA_ple.gml,22913,Auto intersezione
-Emilia-Romagna\A393_ARGENTA_ple.gml,26002,Auto intersezione
-Emilia-Romagna\A393_ARGENTA_ple.gml,30998,Auto intersezione
-Emilia-Romagna\A393_ARGENTA_ple.gml,33673,Auto intersezione con anello
-Emilia-Romagna\A393_ARGENTA_ple.gml,33674,Auto intersezione con anello
-Emilia-Romagna\A393_ARGENTA_ple.gml,33675,Auto intersezione con anello
-Emilia-Romagna\A393_ARGENTA_ple.gml,33676,Auto intersezione con anello
-Emilia-Romagna\A393_ARGENTA_ple.gml,33677,Auto intersezione con anello
-Emilia-Romagna\A393_ARGENTA_ple.gml,33678,Auto intersezione con anello
-Emilia-Romagna\A393_ARGENTA_ple.gml,33679,Auto intersezione
-Emilia-Romagna\A547_BAGNACAVALLO_ple.gml,9689,Auto intersezione con anello
-Emilia-Romagna\A785_BENTIVOGLIO_ple.gml,8173,Auto intersezione con anello
-Emilia-Romagna\A987_BORE_ple.gml,11883,Auto intersezione con anello
-Emilia-Romagna\B034_FIDENZA_ple.gml,758,Auto intersezione
-Emilia-Romagna\B034_FIDENZA_ple.gml,1503,Auto intersezione
-Emilia-Romagna\B034_FIDENZA_ple.gml,5765,Auto intersezione
-Emilia-Romagna\B188_BRISIGHELLA_ple.gml,25890,Troppi pochi punti nella geometria
-Emilia-Romagna\B188_BRISIGHELLA_ple.gml,26198,Auto intersezione con anello
-Emilia-Romagna\B188_BRISIGHELLA_ple.gml,26199,Auto intersezione con anello
-Emilia-Romagna\B332_CADEO_ple.gml,6192,Auto intersezione
-Emilia-Romagna\B405_CALENDASCO_ple.gml,5165,Troppi pochi punti nella geometria
-Emilia-Romagna\B408_CALESTANO_ple.gml,14739,Troppi pochi punti nella geometria
-Emilia-Romagna\B689_MARZABOTTO_ple.gml,7108,Auto intersezione con anello
-Emilia-Romagna\B825_CARPINETI_ple.gml,26897,Auto intersezione
-Emilia-Romagna\B982_CASOLA VALSENIO_ple.gml,12078,Auto intersezione
-Emilia-Romagna\C265_CASTEL SAN PIETRO TERME_ple.gml,23141,Auto intersezione
-Emilia-Romagna\C287_CASTELVETRO DI MODENA_ple.gml,11909,Auto intersezione
-Emilia-Romagna\C339_CASTROCARO TERME T SOLE_ple.gml,7518,Troppi pochi punti nella geometria
-Emilia-Romagna\C339_CASTROCARO TERME T SOLE_ple.gml,7519,Troppi pochi punti nella geometria
-Emilia-Romagna\C553_CERVIA_ple.gml,20643,Troppi pochi punti nella geometria
-Emilia-Romagna\C573_CESENA_ple.gml,68462,Auto intersezione
-Emilia-Romagna\C573_CESENA_ple.gml,91382,Auto intersezione
-Emilia-Romagna\C573_CESENA_ple.gml,91547,Troppi pochi punti nella geometria
-Emilia-Romagna\C574_CESENATICO_ple.gml,17956,Auto intersezione
-Emilia-Romagna\C852_COLLECCHIO_ple.gml,10829,Troppi pochi punti nella geometria
-Emilia-Romagna\C951_CONCORDIA SULLA SECCHIA_ple.gml,10185,Auto intersezione
-Emilia-Romagna\C980_COPPARO_ple.gml,22281,Auto intersezione con anello
-Emilia-Romagna\D037_CORREGGIO_ple.gml,16318,Auto intersezione con anello
-Emilia-Romagna\D450_FABBRICO_ple.gml,3550,Auto intersezione con anello
-Emilia-Romagna\D486_FANANO_ple.gml,22853,Auto intersezione con anello
-Emilia-Romagna\D526_FELINO_ple.gml,8814,Auto intersezione con anello
-Emilia-Romagna\D548_FERRARA_ple.gml,88162,Auto intersezione
-Emilia-Romagna\D704_FORLI_ple.gml,66600,Auto intersezione
-Emilia-Romagna\D728_FORNOVO DI TARO_ple.gml,11986,Auto intersezione con anello
-Emilia-Romagna\D783_FRASSINORO_ple.gml,32986,Troppi pochi punti nella geometria
-Emilia-Romagna\E289_IMOLA_ple.gml,47305,Auto intersezione con anello
-Emilia-Romagna\E438_LANGHIRANO_ple.gml,10419,Auto intersezione con anello
-Emilia-Romagna\E547_LESIGNANO DE` BAGNI_ple.gml,120,Auto intersezione
-Emilia-Romagna\F139_MERCATO SARACENO_ple.gml,19922,Auto intersezione
-Emilia-Romagna\F156_MESOLA_ple.gml,14671,Auto intersezione
-Emilia-Romagna\F240_MIRANDOLA_ple.gml,19609,Troppi pochi punti nella geometria
-Emilia-Romagna\F288_MOLINELLA_ple.gml,515,Auto intersezione con anello
-Emilia-Romagna\F288_MOLINELLA_ple.gml,15620,Troppi pochi punti nella geometria
-Emilia-Romagna\F288_MOLINELLA_ple.gml,15621,Auto intersezione
-Emilia-Romagna\F960_NOVELLARA_ple.gml,6586,Auto intersezione
-Emilia-Romagna\F966_NOVI DI MODENA_ple.gml,9415,Auto intersezione con anello
-Emilia-Romagna\G255_PALANZANO_ple.gml,12684,Auto intersezione
-Emilia-Romagna\G424_PELLEGRINO PARMENSE_ple.gml,6821,Auto intersezione
-Emilia-Romagna\G570_PIANORO_ple.gml,21008,Auto intersezione
-Emilia-Romagna\G916_PORTOMAGGIORE_ple.gml,12912,Auto intersezione con anello
-Emilia-Romagna\G916_PORTOMAGGIORE_ple.gml,17575,Troppi pochi punti nella geometria
-Emilia-Romagna\G972_SASSO MARCONI_ple.gml,22003,Auto intersezione
-Emilia-Romagna\H199_RAVENNA_ple.gml,90572,Auto intersezione
-Emilia-Romagna\H199_RAVENNA_ple.gml,90844,Troppi pochi punti nella geometria
-Emilia-Romagna\H199_RAVENNA_ple.gml,92563,Troppi pochi punti nella geometria
-Emilia-Romagna\H223_REGGIO NELL`EMILIA_ple.gml,11369,Auto intersezione
-Emilia-Romagna\H350_RIVERGARO_ple.gml,9459,Troppi pochi punti nella geometria
-Emilia-Romagna\H593_ROTTOFRENO_ple.gml,6529,Auto intersezione
-Emilia-Romagna\H720_SALSOMAGGIORE_ple.gml,15101,Auto intersezione
-Emilia-Romagna\H720_SALSOMAGGIORE_ple.gml,20008,Auto intersezione
-Emilia-Romagna\H887_SAN GIORGIO PIACENTINO_ple.gml,6225,Troppi pochi punti nella geometria
-Emilia-Romagna\H887_SAN GIORGIO PIACENTINO_ple.gml,6272,Auto intersezione
-Emilia-Romagna\I191_SANT`AGATA BOLOGNESE_ple.gml,3490,Auto intersezione con anello
-Emilia-Romagna\I496_SCANDIANO_ple.gml,15707,Auto intersezione con anello
-Emilia-Romagna\I903_SPILAMBERTO_ple.gml,7998,Auto intersezione con anello
-Emilia-Romagna\L034_TALAMELLO_ple.gml,724,Auto intersezione con anello
-Emilia-Romagna\L034_TALAMELLO_ple.gml,783,Auto intersezione con anello
-Emilia-Romagna\L299_TORRILE_ple.gml,1808,Auto intersezione
-Emilia-Romagna\L346_TRAVERSETOLO_ple.gml,2865,Auto intersezione
-Emilia-Romagna\L348_TRAVO_ple.gml,23172,Auto intersezione
-Emilia-Romagna\L361_TREDOZIO_ple.gml,4171,Auto intersezione
-Emilia-Romagna\L361_TREDOZIO_ple.gml,4273,Auto intersezione con anello
-Emilia-Romagna\L361_TREDOZIO_ple.gml,4830,Auto intersezione
-Emilia-Romagna\L361_TREDOZIO_ple.gml,7143,Auto intersezione con anello
-Emilia-Romagna\L689_VARSI_ple.gml,26773,Auto intersezione
-Emilia-Romagna\L764_VERGHERETO_ple.gml,1056,Auto intersezione
-Emilia-Romagna\L764_VERGHERETO_ple.gml,2102,Auto intersezione
-Emilia-Romagna\L764_VERGHERETO_ple.gml,5089,Auto intersezione
-Emilia-Romagna\L764_VERGHERETO_ple.gml,19226,Auto intersezione con anello
-Emilia-Romagna\L764_VERGHERETO_ple.gml,19579,Auto intersezione
-Emilia-Romagna\L772_VERNASCA_ple.gml,17826,Auto intersezione
-Emilia-Romagna\M110_VOGHIERA_ple.gml,234,Auto intersezione
-Emilia-Romagna\M323_FISCAGLIA_ple.gml,6404,Auto intersezione
-Emilia-Romagna\M386_ALTA VAL TIDONE_ple.gml,17233,Auto intersezione
-Friuli-VeneziaGiulia\A267_AMPEZZO_ple.gml,10527,Auto intersezione con anello
-Friuli-VeneziaGiulia\A491_ATTIMIS_ple.gml,14880,Auto intersezione con anello
-Friuli-VeneziaGiulia\A553_BAGNARIA ARSA_ple.gml,324,Auto intersezione
-Friuli-VeneziaGiulia\A855_BICINICCO_ple.gml,693,Auto intersezione
-Friuli-VeneziaGiulia\A855_BICINICCO_ple.gml,2355,Auto intersezione
-Friuli-VeneziaGiulia\B483_CAMINO AL TAGLIAMENTO_ple.gml,3567,Auto intersezione
-Friuli-VeneziaGiulia\B940_CASARSA DELLA DELIZIA_ple.gml,7699,Auto intersezione con anello
-Friuli-VeneziaGiulia\C817_CODROIPO_ple.gml,7507,Auto intersezione
-Friuli-VeneziaGiulia\C817_CODROIPO_ple.gml,13245,Auto intersezione
-Friuli-VeneziaGiulia\D085_COSEANO_ple.gml,4502,Auto intersezione
-Friuli-VeneziaGiulia\D455_FAEDIS_ple.gml,20424,Troppi pochi punti nella geometria
-Friuli-VeneziaGiulia\D804_FRISANCO_ple.gml,12153,Auto intersezione con anello
-Friuli-VeneziaGiulia\G966_POZZUOLO DEL FRIULI_ple.gml,12682,Troppi pochi punti nella geometria
-Friuli-VeneziaGiulia\H040_PREPOTTO_ple.gml,5482,Auto intersezione
-Friuli-VeneziaGiulia\H206_REANA DEL ROIALE_ple.gml,6822,Auto intersezione
-Friuli-VeneziaGiulia\H242_RESIA_ple.gml,5240,Auto intersezione con anello
-Friuli-VeneziaGiulia\I479_SAVOGNA D`ISONZO_ple.gml,6538,Auto intersezione
-Friuli-VeneziaGiulia\I621_SEQUALS_ple.gml,1234,Auto intersezione con anello
-Friuli-VeneziaGiulia\L424_TRIESTE_ple.gml,54699,Auto intersezione con anello
-Friuli-VeneziaGiulia\L686_VARMO_ple.gml,7706,Auto intersezione
-Friuli-VeneziaGiulia\M317_RIVIGNANO TEOR_ple.gml,12141,Auto intersezione
-Friuli-VeneziaGiulia\M317_RIVIGNANO TEOR_ple.gml,12224,Troppi pochi punti nella geometria
-Lazio\A123_ALATRI_ple.gml,19508,Auto intersezione
-Lazio\A123_ALATRI_ple.gml,29912,Auto intersezione
-Lazio\A123_ALATRI_ple.gml,47515,Auto intersezione
-Lazio\A244_ALVITO_ple.gml,5355,Auto intersezione
-Lazio\A256_AMASENO_ple.gml,4691,Auto intersezione
-Lazio\A315_ANTRODOCO_ple.gml,557,Auto intersezione
-Lazio\A341_APRILIA_ple.gml,10452,Auto intersezione con anello
-Lazio\A341_APRILIA_ple.gml,46769,Auto intersezione
-Lazio\A341_APRILIA_ple.gml,46854,Auto intersezione
-Lazio\A401_ARICCIA_ple.gml,3233,Auto intersezione
-Lazio\A449_ARTENA_ple.gml,2239,Auto intersezione
-Lazio\A449_ARTENA_ple.gml,8324,Auto intersezione
-Lazio\A704_BASSANO ROMANO_ple.gml,895,Auto intersezione
-Lazio\A707_BASSIANO_ple.gml,4123,Auto intersezione con anello
-Lazio\A707_BASSIANO_ple.gml,4207,Auto intersezione con anello
-Lazio\A765_BELMONTE IN SABINA_ple.gml,3395,Auto intersezione
-Lazio\A996_BORGO VELINO_ple.gml,5954,Auto intersezione
-Lazio\B008_BORGOROSE_ple.gml,10571,Auto intersezione
-Lazio\B496_CAMPAGNANO DI ROMA_ple.gml,6157,Auto intersezione
-Lazio\B527_CAMPODIMELE_ple.gml,4675,Troppi pochi punti nella geometria
-Lazio\B604_CANINO_ple.gml,2390,Auto intersezione
-Lazio\B828_CARPINETO ROMANO_ple.gml,9701,Auto intersezione
-Lazio\C340_CASTROCIELO_ple.gml,8087,Auto intersezione
-Lazio\C552_CERVETERI_ple.gml,11146,Auto intersezione
-Lazio\C740_CISTERNA DI LATINA_ple.gml,7270,Auto intersezione
-Lazio\C740_CISTERNA DI LATINA_ple.gml,11936,Auto intersezione
-Lazio\C740_CISTERNA DI LATINA_ple.gml,21373,Auto intersezione
-Lazio\C740_CISTERNA DI LATINA_ple.gml,24323,Auto intersezione
-Lazio\C740_CISTERNA DI LATINA_ple.gml,27218,Auto intersezione
-Lazio\C746_CITTADUCALE_ple.gml,8162,Auto intersezione
-Lazio\C746_CITTADUCALE_ple.gml,16931,Auto intersezione
-Lazio\C773_CIVITAVECCHIA_ple.gml,2685,Auto intersezione
-Lazio\C773_CIVITAVECCHIA_ple.gml,3799,Auto intersezione
-Lazio\C773_CIVITAVECCHIA_ple.gml,9372,Auto intersezione
-Lazio\C836_COLFELICE_ple.gml,6492,Auto intersezione con anello
-Lazio\C841_COLLALTO SABINO_ple.gml,9430,Troppi pochi punti nella geometria
-Lazio\C857_COLLE DI TORA_ple.gml,1831,Auto intersezione
-Lazio\C864_COLLEPARDO_ple.gml,1687,Auto intersezione
-Lazio\C876_COLLEVECCHIO_ple.gml,4386,Auto intersezione
-Lazio\C946_CONCERVIANO_ple.gml,5287,Auto intersezione
-Lazio\C998_CORENO AUSONIO_ple.gml,10221,Auto intersezione
-Lazio\D539_FERENTINO_ple.gml,3592,Auto intersezione
-Lazio\D539_FERENTINO_ple.gml,24487,Auto intersezione
-Lazio\D662_FONDI_ple.gml,4723,Auto intersezione
-Lazio\D682_FONTECHIARI_ple.gml,3050,Auto intersezione
-Lazio\D682_FONTECHIARI_ple.gml,3369,Auto intersezione
-Lazio\D682_FONTECHIARI_ple.gml,4744,Auto intersezione
-Lazio\D945_GAVIGNANO_ple.gml,4127,Auto intersezione
-Lazio\D972_GENZANO DI ROMA_ple.gml,9600,Auto intersezione
-Lazio\E057_GIULIANO DI ROMA_ple.gml,7203,Auto intersezione
-Lazio\E057_GIULIANO DI ROMA_ple.gml,7596,Auto intersezione
-Lazio\E091_GORGA_ple.gml,1377,Auto intersezione
-Lazio\E091_GORGA_ple.gml,1879,Auto intersezione
-Lazio\E091_GORGA_ple.gml,1956,Auto intersezione
-Lazio\E128_GRAFFIGNANO_ple.gml,5863,Auto intersezione
-Lazio\E204_GROTTAFERRATA_ple.gml,5687,Auto intersezione
-Lazio\E204_GROTTAFERRATA_ple.gml,7646,Auto intersezione
-Lazio\E236_GUARCINO_ple.gml,3850,Auto intersezione
-Lazio\E263_GUIDONIA MONTECELIO_ple.gml,25323,Auto intersezione con anello
-Lazio\E535_LEONESSA_ple.gml,15260,Auto intersezione con anello
-Lazio\E535_LEONESSA_ple.gml,23854,Auto intersezione con anello
-Lazio\E798_MAENZA_ple.gml,5370,Auto intersezione
-Lazio\E924_MARCELLINA_ple.gml,8904,Auto intersezione
-Lazio\F064_MAZZANO ROMANO_ple.gml,2023,Auto intersezione
-Lazio\F064_MAZZANO ROMANO_ple.gml,3661,Auto intersezione
-Lazio\F064_MAZZANO ROMANO_ple.gml,6784,Auto intersezione
-Lazio\F064_MAZZANO ROMANO_ple.gml,8064,Auto intersezione
-Lazio\F064_MAZZANO ROMANO_ple.gml,8067,Auto intersezione
-Lazio\F064_MAZZANO ROMANO_ple.gml,8148,Auto intersezione
-Lazio\F419_MONTALTO DI CASTRO_ple.gml,2977,Auto intersezione
-Lazio\F477_MONTECOMPATRI_ple.gml,8059,Auto intersezione
-Lazio\F499_MONTEFIASCONE_ple.gml,2000,Auto intersezione con anello
-Lazio\F499_MONTEFIASCONE_ple.gml,21715,Auto intersezione con anello
-Lazio\F619_MONTE S GIOVANNI SABINA_ple.gml,1448,Auto intersezione
-Lazio\F619_MONTE S GIOVANNI SABINA_ple.gml,4541,Auto intersezione
-Lazio\F619_MONTE S GIOVANNI SABINA_ple.gml,4543,Auto intersezione
-Lazio\F687_MONTOPOLI DI SABINA_ple.gml,3605,Auto intersezione
-Lazio\F740_MOROLO_ple.gml,103,Auto intersezione
-Lazio\F880_NETTUNO_ple.gml,26122,Auto intersezione con anello
-Lazio\G135_ORTE_ple.gml,2666,Auto intersezione
-Lazio\G135_ORTE_ple.gml,3742,Auto intersezione
-Lazio\G135_ORTE_ple.gml,8996,Auto intersezione
-Lazio\G811_POMEZIA_ple.gml,19876,Troppi pochi punti nella geometria
-Lazio\G934_POSTA_ple.gml,4526,Auto intersezione
-Lazio\H421_ROCCAMASSIMA_ple.gml,4637,Auto intersezione con anello
-Lazio\H446_ROCCA SINIBALDA_ple.gml,5757,Auto intersezione
-Lazio\H501_ROMA_ple.gml,86899,Auto intersezione
-Lazio\H501_ROMA_ple.gml,493300,Auto intersezione
-Lazio\H501_ROMA_ple.gml,493302,Auto intersezione
-Lazio\H647_SABAUDIA_ple.gml,10759,Auto intersezione
-Lazio\I408_SAN VITTORE DEL LAZIO_ple.gml,5519,Auto intersezione
-Lazio\L286_TORRI IN SABINA_ple.gml,3482,Auto intersezione
-Lazio\L398_TREVI NEL LAZIO_ple.gml,6279,Auto intersezione
-Lazio\L614_VALLEROTONDA_ple.gml,23535,Auto intersezione
-Lazio\L614_VALLEROTONDA_ple.gml,23624,Auto intersezione
-Lazio\L719_VELLETRI_ple.gml,58057,Auto intersezione
-Lazio\L814_VETRALLA_ple.gml,9116,Auto intersezione
-Lazio\M213_ARDEA_ple.gml,23938,Auto intersezione con anello
-Liguria\A422_ARNASCO_ple.gml,3791,Auto intersezione con anello
-Liguria\A931_BOISSANO_ple.gml,3005,Auto intersezione
-Liguria\B020_BORGOMARO_ple.gml,1078,Auto intersezione
-Liguria\C657_CHIUSANICO_ple.gml,9472,Auto intersezione
-Liguria\D522_ORCO FEGLINO_ple.gml,9246,Auto intersezione
-Liguria\D969_GENOVA_ple.gml,178999,Auto intersezione
-Liguria\E064_GIUSTENICE_ple.gml,5303,Auto intersezione
-Liguria\E463_LA SPEZIA_ple.gml,63206,Auto intersezione con anello
-Liguria\E542_LERICI_ple.gml,17083,Auto intersezione con anello
-Liguria\E695_LORSICA_ple.gml,3045,Auto intersezione
-Liguria\F445_MONTEBRUNO_ple.gml,13344,Auto intersezione
-Liguria\F813_MURIALDO_ple.gml,3242,Auto intersezione
-Liguria\G093_ORERO_ple.gml,5702,Auto intersezione
-Liguria\G093_ORERO_ple.gml,7971,Auto intersezione
-Liguria\H126_QUILIANO_ple.gml,3139,Auto intersezione
-Liguria\H180_RANZO_ple.gml,9639,Auto intersezione
-Liguria\H581_ROSSIGLIONE_ple.gml,4111,Auto intersezione
-Liguria\I368_SANTO STEFANO D`AVETO_ple.gml,761,Auto intersezione
-Liguria\I368_SANTO STEFANO D`AVETO_ple.gml,24590,Auto intersezione
-Liguria\L681_VARESE LIGURE_ple.gml,33689,Troppi pochi punti nella geometria
-Liguria\L681_VARESE LIGURE_ple.gml,34093,Troppi pochi punti nella geometria
-Liguria\M177_ZIGNAGO_ple.gml,7912,Auto intersezione
-Lombardia\A087_AGRATE BRIANZA_ple.gml,3362,Auto intersezione
-Lombardia\A087_AGRATE BRIANZA_ple.gml,3710,Auto intersezione
-Lombardia\A172_ALBOSAGGIA_ple.gml,1103,Auto intersezione
-Lombardia\A375_ARCONATE_ple.gml,5330,Auto intersezione con anello
-Lombardia\A634_BARBIANELLO_ple.gml,2473,Auto intersezione
-Lombardia\A668_BARLASSINA_ple.gml,2671,Auto intersezione
-Lombardia\A712_BASTIDA PANCARANA_ple.gml,2082,Auto intersezione con anello
-Lombardia\A759_BELLUSCO_ple.gml,4032,Auto intersezione
-Lombardia\A804_BERNATE TICINO_ple.gml,995,Auto intersezione
-Lombardia\A811_BERTONICO_ple.gml,1596,Auto intersezione
-Lombardia\A940_BOLLATE_ple.gml,7538,Auto intersezione
-Lombardia\A995_BORGHETTO LODIGIANO_ple.gml,5343,Auto intersezione
-Lombardia\B162_BRESSO_ple.gml,309,Auto intersezione
-Lombardia\B162_BRESSO_ple.gml,1393,Auto intersezione
-Lombardia\B240_BUCCINASCO_ple.gml,5576,Auto intersezione
-Lombardia\B272_BURAGO DI MOLGORA_ple.gml,1186,Auto intersezione
-Lombardia\C157_CASTELLETTO BRANDUZZO_ple.gml,2272,Auto intersezione
-Lombardia\C523_CERNUSCO SUL NAVIGLIO_ple.gml,9938,Auto intersezione con anello
-Lombardia\C585_CETO_ple.gml,5683,Auto intersezione con anello
-Lombardia\C751_CITTIGLIO_ple.gml,6005,Auto intersezione con anello
-Lombardia\C894_COLOGNO AL SERIO_ple.gml,6634,Troppi pochi punti nella geometria
-Lombardia\C911_COMABBIO_ple.gml,1888,Auto intersezione
-Lombardia\D266_DELEBIO_ple.gml,3270,Auto intersezione
-Lombardia\D352_DOSSENA_ple.gml,4245,Auto intersezione con anello
-Lombardia\D901_GAMBOLO_ple.gml,18218,Auto intersezione
-Lombardia\D925_GARLASCO_ple.gml,7791,Auto intersezione
-Lombardia\D999_GHEDI_ple.gml,2193,Auto intersezione con anello
-Lombardia\D999_GHEDI_ple.gml,11577,Auto intersezione con anello
-Lombardia\E072_GODIASCO_ple.gml,7458,Auto intersezione
-Lombardia\E090_GORDONA_ple.gml,5172,Auto intersezione
-Lombardia\E090_GORDONA_ple.gml,6856,Auto intersezione
-Lombardia\E090_GORDONA_ple.gml,6886,Auto intersezione
-Lombardia\E090_GORDONA_ple.gml,29195,Auto intersezione
-Lombardia\E342_MADESIMO_ple.gml,15507,Auto intersezione
-Lombardia\E342_MADESIMO_ple.gml,21753,Auto intersezione
-Lombardia\E627_LIVRAGA_ple.gml,3180,Auto intersezione
-Lombardia\E896_MANTELLO_ple.gml,3998,Auto intersezione
-Lombardia\E896_MANTELLO_ple.gml,4115,Auto intersezione
-Lombardia\F028_MASSALENGO_ple.gml,1094,Auto intersezione con anello
-Lombardia\F122_MENCONICO_ple.gml,9008,Auto intersezione
-Lombardia\F170_MEZZANA BIGLI_ple.gml,3342,Auto intersezione
-Lombardia\F205_MILANO_ple.gml,61532,Auto intersezione con anello
-Lombardia\F393_MONTAGNA IN VALTELLINA_ple.gml,4820,Auto intersezione
-Lombardia\F440_MONTEBELLO BATTAGLIA_ple.gml,3271,Auto intersezione
-Lombardia\F704_MONZA_ple.gml,23837,Auto intersezione con anello
-Lombardia\G025_OLGIATE COMASCO_ple.gml,7617,Auto intersezione con anello
-Lombardia\G275_PALESTRO_ple.gml,5371,Auto intersezione
-Lombardia\G342_PARONA_ple.gml,2810,Auto intersezione
-Lombardia\G350_PARZANICA_ple.gml,2110,Auto intersezione con anello
-Lombardia\G407_SAN PAOLO_ple.gml,210,Auto intersezione
-Lombardia\G407_SAN PAOLO_ple.gml,3854,Auto intersezione
-Lombardia\G412_PEDRENGO_ple.gml,2195,Auto intersezione con anello
-Lombardia\G469_PERSICO DOSIMO_ple.gml,347,Auto intersezione con anello
-Lombardia\G469_PERSICO DOSIMO_ple.gml,3543,Auto intersezione con anello
-Lombardia\G993_PRATA CAMPORTACCIO_ple.gml,12670,Auto intersezione
-Lombardia\H259_VAL REZZO_ple.gml,2536,Auto intersezione con anello
-Lombardia\H752_SAMOLACO_ple.gml,14728,Auto intersezione
-Lombardia\H868_SAN GIACOMO FILIPPO_ple.gml,23656,Auto intersezione
-Lombardia\I274_SANT`ANGELO LODIGIANO_ple.gml,8232,Auto intersezione
-Lombardia\I632_SERMIDE E FELONICA_ple.gml,14663,Auto intersezione con anello
-Lombardia\I683_SESTO ED UNITI_ple.gml,4406,Auto intersezione con anello
-Lombardia\I815_SOMAGLIA_ple.gml,4699,Auto intersezione
-Lombardia\I828_SONDALO_ple.gml,29474,Auto intersezione
-Lombardia\I906_SPINADESCO_ple.gml,2131,Auto intersezione
-Lombardia\I914_SPINO D`ADDA_ple.gml,5011,Auto intersezione
-Lombardia\I935_STAGNO LOMBARDO_ple.gml,370,Auto intersezione
-Lombardia\L175_TIRANO_ple.gml,7151,Auto intersezione
-Lombardia\L563_VALDISOTTO_ple.gml,21442,Auto intersezione
-Lombardia\L576_VALFURVA_ple.gml,3907,Auto intersezione
-Lombardia\L576_VALFURVA_ple.gml,9590,Auto intersezione
-Lombardia\L593_VALLE LOMELLINA_ple.gml,4064,Troppi pochi punti nella geometria
-Lombardia\L799_VERVIO_ple.gml,7854,Auto intersezione
-Lombardia\L872_VIGEVANO_ple.gml,591,Auto intersezione
-Lombardia\L872_VIGEVANO_ple.gml,32268,Troppi pochi punti nella geometria
-Lombardia\L872_VIGEVANO_ple.gml,32934,Auto intersezione
-Lombardia\M180_ZINASCO_ple.gml,257,Auto intersezione
-Lombardia\M180_ZINASCO_ple.gml,6383,Auto intersezione
-Lombardia\M396_BORGO MANTOVANO_ple.gml,5622,Auto intersezione con anello
-Marche\A044_ACQUASANTA TERME_ple.gml,10441,Auto intersezione con anello
-Marche\A044_ACQUASANTA TERME_ple.gml,19613,Auto intersezione
-Marche\A044_ACQUASANTA TERME_ple.gml,39375,Auto intersezione
-Marche\A044_ACQUASANTA TERME_ple.gml,40082,Auto intersezione
-Marche\A044_ACQUASANTA TERME_ple.gml,40418,Auto intersezione con anello
-Marche\A252_AMANDOLA_ple.gml,24674,Troppi pochi punti nella geometria
-Marche\A252_AMANDOLA_ple.gml,24689,Troppi pochi punti nella geometria
-Marche\A252_AMANDOLA_ple.gml,25001,Auto intersezione con anello
-Marche\A252_AMANDOLA_ple.gml,25010,Auto intersezione con anello
-Marche\A334_APPIGNANO_ple.gml,4892,Auto intersezione con anello
-Marche\A437_ARQUATA DEL TRONTO_ple.gml,10130,Auto intersezione
-Marche\A437_ARQUATA DEL TRONTO_ple.gml,14320,Auto intersezione con anello
-Marche\A462_ASCOLI PICENO_ple.gml,12804,Auto intersezione con anello
-Marche\A462_ASCOLI PICENO_ple.gml,32360,Auto intersezione
-Marche\A462_ASCOLI PICENO_ple.gml,61366,Auto intersezione con anello
-Marche\A462_ASCOLI PICENO_ple.gml,61535,Auto intersezione con anello
-Marche\B562_CAMPOROTONDO FIASTRONE_ple.gml,419,Auto intersezione
-Marche\C251_CASTELRAIMONDO_ple.gml,2128,Auto intersezione
-Marche\C251_CASTELRAIMONDO_ple.gml,8110,Auto intersezione
-Marche\C770_CIVITANOVA MARCHE_ple.gml,18232,Auto intersezione
-Marche\C935_COMUNANZA_ple.gml,23663,Auto intersezione
-Marche\D541_FERMIGNANO_ple.gml,11598,Auto intersezione
-Marche\D542_FERMO_ple.gml,7969,Auto intersezione
-Marche\D542_FERMO_ple.gml,37109,Auto intersezione
-Marche\D564_FIASTRA_ple.gml,5750,Auto intersezione
-Marche\E351_ISOLA DEL PIANO_ple.gml,4720,Auto intersezione con anello
-Marche\E694_LORO PICENO_ple.gml,239,Auto intersezione
-Marche\E783_MACERATA_ple.gml,25854,Auto intersezione con anello
-Marche\E785_MACERATA FELTRIA_ple.gml,3967,Auto intersezione
-Marche\F044_MASSIGNANO_ple.gml,5203,Auto intersezione
-Marche\F454_MONTECASSIANO_ple.gml,7401,Auto intersezione
-Marche\F493_MONTEFALCONE APPENNINO_ple.gml,7041,Auto intersezione con anello
-Marche\F496_MONTEFANO_ple.gml,5157,Troppi pochi punti nella geometria
-Marche\F509_MONTEFORTINO_ple.gml,18777,Auto intersezione
-Marche\F516_MONTEGALLO_ple.gml,16125,Auto intersezione con anello
-Marche\F567_POLLENZA_ple.gml,6306,Auto intersezione
-Marche\F591_MONTEPRANDONE_ple.gml,6,Auto intersezione
-Marche\F621_MONTE SAN GIUSTO_ple.gml,1465,Auto intersezione con anello
-Marche\G137_ORTEZZANO_ple.gml,2631,Auto intersezione
-Marche\G479_PESARO_ple.gml,61917,Auto intersezione
-Marche\G479_PESARO_ple.gml,62338,Troppi pochi punti nella geometria
-Marche\G921_PORTO SANT`ELPIDIO_ple.gml,13178,Auto intersezione
-Marche\H211_RECANATI_ple.gml,4844,Auto intersezione
-Marche\H211_RECANATI_ple.gml,8520,Auto intersezione
-Marche\H809_SAN COSTANZO_ple.gml,4037,Auto intersezione con anello
-Marche\I324_SANT`ELPIDIO A MARE_ple.gml,16830,Auto intersezione con anello
-Marche\I324_SANT`ELPIDIO A MARE_ple.gml,17227,Auto intersezione con anello
-Marche\I461_SASSOFERRATO_ple.gml,43906,Auto intersezione con anello
-Marche\I569_SEFRO_ple.gml,4867,Auto intersezione
-Marche\I774_SMERILLO_ple.gml,7,Auto intersezione con anello
-Marche\I912_SPINETOLI_ple.gml,6643,Auto intersezione con anello
-Marche\L500_URBINO_ple.gml,49765,Troppi pochi punti nella geometria
-Marche\L517_USSITA_ple.gml,2331,Auto intersezione
-Marche\L517_USSITA_ple.gml,10262,Auto intersezione
-Marche\M380_COLLI AL METAURO_ple.gml,14700,Auto intersezione
-Molise\A080_AGNONE_ple.gml,52111,Troppi pochi punti nella geometria
-Molise\C246_CASTELPETROSO_ple.gml,24790,Auto intersezione
-Molise\F495_MONTEFALCONE NEL SANNIO_ple.gml,15694,Troppi pochi punti nella geometria
-Molise\H420_ROCCAMANDOLFI_ple.gml,4357,Auto intersezione
-Molise\H589_ROTELLO_ple.gml,2938,Auto intersezione
-Molise\I096_SAN PIETRO AVELLANA_ple.gml,15,Auto intersezione
-Molise\I096_SAN PIETRO AVELLANA_ple.gml,1506,Auto intersezione
-Molise\I282_SANT`ANGELO DEL PESCO_ple.gml,963,Auto intersezione
-Molise\L725_VENAFRO_ple.gml,7829,Auto intersezione
-Piemonte\A405_ARIGNANO_ple.gml,2974,Auto intersezione
-Piemonte\B058_BORRIANA_ple.gml,2250,Auto intersezione
-Piemonte\B280_BURONZO_ple.gml,1148,Auto intersezione
-Piemonte\B285_BUSCA_ple.gml,8331,Auto intersezione
-Piemonte\B285_BUSCA_ple.gml,14823,Auto intersezione
-Piemonte\B425_CALOSSO_ple.gml,6566,Auto intersezione
-Piemonte\B425_CALOSSO_ple.gml,6581,Auto intersezione con anello
-Piemonte\B431_CALTIGNAGA_ple.gml,2461,Auto intersezione con anello
-Piemonte\B482_CAMINO_ple.gml,2392,Auto intersezione
-Piemonte\B752_CARCOFORO_ple.gml,2021,Auto intersezione
-Piemonte\B782_CARISIO_ple.gml,1609,Auto intersezione
-Piemonte\B823_CARPIGNANO SESIA_ple.gml,6737,Auto intersezione
-Piemonte\C047_CASTAGNOLE MONFERRATO_ple.gml,1745,Auto intersezione con anello
-Piemonte\C049_CASTAGNOLE LANZE_ple.gml,11420,Troppi pochi punti nella geometria
-Piemonte\C166_CASTELLETTO TICINO_ple.gml,11578,Troppi pochi punti nella geometria
-Piemonte\C550_CERVERE_ple.gml,1117,Auto intersezione
-Piemonte\C792_CLAVESANA_ple.gml,4205,Auto intersezione
-Piemonte\C819_COGGIOLA_ple.gml,10654,Auto intersezione
-Piemonte\D119_COSTIGLIOLE D`ASTI_ple.gml,17588,Troppi pochi punti nella geometria
-Piemonte\D120_COSTIGLIOLE SALUZZO_ple.gml,813,Auto intersezione
-Piemonte\D207_CUNICO_ple.gml,3414,Troppi pochi punti nella geometria
-Piemonte\D332_DOMODOSSOLA_ple.gml,10962,Auto intersezione
-Piemonte\D332_DOMODOSSOLA_ple.gml,30891,Troppi pochi punti nella geometria
-Piemonte\D332_DOMODOSSOLA_ple.gml,30894,Troppi pochi punti nella geometria
-Piemonte\D332_DOMODOSSOLA_ple.gml,30904,Troppi pochi punti nella geometria
-Piemonte\D332_DOMODOSSOLA_ple.gml,30906,Troppi pochi punti nella geometria
-Piemonte\D492_FARA NOVARESE_ple.gml,3938,Auto intersezione con anello
-Piemonte\D528_FELIZZANO_ple.gml,920,Auto intersezione
-Piemonte\D528_FELIZZANO_ple.gml,5042,Auto intersezione
-Piemonte\D675_FONTANETO D`AGOGNA_ple.gml,14709,Auto intersezione
-Piemonte\D706_FORMAZZA_ple.gml,3880,Auto intersezione
-Piemonte\D706_FORMAZZA_ple.gml,5486,Auto intersezione
-Piemonte\D706_FORMAZZA_ple.gml,9074,Troppi pochi punti nella geometria
-Piemonte\D712_FORMIGLIANA_ple.gml,431,Auto intersezione
-Piemonte\D781_FRASSINETTO_ple.gml,14098,Auto intersezione
-Piemonte\D872_GALLIATE_ple.gml,23058,Auto intersezione con anello
-Piemonte\D944_GAVI_ple.gml,13859,Auto intersezione
-Piemonte\D944_GAVI_ple.gml,15843,Auto intersezione
-Piemonte\E020_GIAVENO_ple.gml,24160,Auto intersezione
-Piemonte\E130_GRAGLIA_ple.gml,7967,Troppi pochi punti nella geometria
-Piemonte\E130_GRAGLIA_ple.gml,7968,Auto intersezione
-Piemonte\E191_GRONDONA_ple.gml,6741,Auto intersezione
-Piemonte\E314_INVORIO_ple.gml,15016,Auto intersezione
-Piemonte\E338_ISOLA D`ASTI_ple.gml,4997,Auto intersezione
-Piemonte\E583_LIGNANA_ple.gml,427,Auto intersezione
-Piemonte\E790_MACUGNAGA_ple.gml,6589,Auto intersezione
-Piemonte\E790_MACUGNAGA_ple.gml,8339,Auto intersezione
-Piemonte\E808_MAGLIANO ALPI_ple.gml,818,Auto intersezione
-Piemonte\F015_MASIO_ple.gml,6360,Auto intersezione
-Piemonte\F281_MOLARE_ple.gml,1868,Auto intersezione
-Piemonte\F281_MOLARE_ple.gml,4165,Auto intersezione
-Piemonte\F351_MONDOVI`_ple.gml,15864,Auto intersezione
-Piemonte\F351_MONDOVI`_ple.gml,26472,Auto intersezione
-Piemonte\F369_MONGRANDO_ple.gml,13485,Auto intersezione
-Piemonte\F385_MONTA_ple.gml,2412,Auto intersezione con anello
-Piemonte\F527_MONTEGROSSO D`ASTI_ple.gml,2853,Auto intersezione con anello
-Piemonte\F556_MONTEMAGNO MONFERRATO_ple.gml,7676,Troppi pochi punti nella geometria
-Piemonte\F707_MORANO SUL PO_ple.gml,1786,Auto intersezione
-Piemonte\F774_MOTTA DEI CONTI_ple.gml,3395,Auto intersezione
-Piemonte\F814_MURISENGO_ple.gml,6186,Auto intersezione
-Piemonte\F846_NARZOLE_ple.gml,10181,Auto intersezione con anello
-Piemonte\F952_NOVARA_ple.gml,19137,Auto intersezione
-Piemonte\F965_NOVI LIGURE_ple.gml,16039,Auto intersezione con anello
-Piemonte\F972_NUCETTO_ple.gml,322,Auto intersezione
-Piemonte\F997_ODALENGO GRANDE_ple.gml,2738,Auto intersezione
-Piemonte\G087_ORBASSANO_ple.gml,9258,Auto intersezione con anello
-Piemonte\G528_PEZZANA_ple.gml,1848,Auto intersezione
-Piemonte\G960_POZZOL GROPPO_ple.gml,3380,Auto intersezione
-Piemonte\G970_PRADLEVES_ple.gml,394,Auto intersezione con anello
-Piemonte\H085_PRUNETTO_ple.gml,167,Auto intersezione
-Piemonte\H367_ROBASSOMERO_ple.gml,21,Auto intersezione
-Piemonte\H386_ROCCA CANAVESE_ple.gml,16731,Auto intersezione
-Piemonte\H465_ROCCHETTA LIGURE_ple.gml,3011,Auto intersezione
-Piemonte\H538_RONCO BIELLESE_ple.gml,5312,Troppi pochi punti nella geometria
-Piemonte\H900_SAN GIORIO DI SUSA_ple.gml,933,Auto intersezione con anello
-Piemonte\I076_SAN PAOLO SOLBRITO_ple.gml,4160,Auto intersezione
-Piemonte\I144_S SALVATORE MONFERRATO_ple.gml,2317,Auto intersezione
-Piemonte\I144_S SALVATORE MONFERRATO_ple.gml,9738,Auto intersezione
-Piemonte\I249_SANTA MARIA MAGGIORE_ple.gml,8773,Auto intersezione con anello
-Piemonte\I466_SAUZE D`OULX_ple.gml,10533,Auto intersezione
-Piemonte\I470_SAVIGLIANO_ple.gml,18137,Auto intersezione con anello
-Piemonte\I545_SCOPELLO_ple.gml,1212,Auto intersezione
-Piemonte\I678_SESSAME_ple.gml,3437,Troppi pochi punti nella geometria
-Piemonte\I847_SORDEVOLO_ple.gml,2749,Auto intersezione con anello
-Piemonte\I880_SOZZAGO_ple.gml,341,Auto intersezione con anello
-Piemonte\I970_STRAMBINO_ple.gml,14896,Auto intersezione
-Piemonte\I984_STROPPIANA_ple.gml,4141,Auto intersezione
-Piemonte\L165_TICINETO_ple.gml,3422,Auto intersezione
-Piemonte\L356_TRECATE_ple.gml,2208,Auto intersezione con anello
-Piemonte\L516_USSEGLIO_ple.gml,8504,Auto intersezione con anello
-Piemonte\L556_VALDENGO_ple.gml,3582,Auto intersezione
-Piemonte\L580_VALGRANA_ple.gml,7068,Auto intersezione con anello
-Piemonte\L727_VENARIA_ple.gml,6280,Auto intersezione con anello
-Piemonte\M094_VIU`_ple.gml,27279,Auto intersezione
-Piemonte\M123_VOLTAGGIO_ple.gml,650,Auto intersezione
-Piemonte\M133_VOLVERA_ple.gml,3987,Auto intersezione con anello
-Piemonte\M373_CAMPIGLIA CERVO_ple.gml,17076,Troppi pochi punti nella geometria
-Piemonte\M373_CAMPIGLIA CERVO_ple.gml,17077,Troppi pochi punti nella geometria
-Piemonte\M417_VALDILANA_ple.gml,14159,Auto intersezione
-Piemonte\M417_VALDILANA_ple.gml,34863,Auto intersezione
-Piemonte\M417_VALDILANA_ple.gml,35388,Troppi pochi punti nella geometria
-Piemonte\M417_VALDILANA_ple.gml,35670,Auto intersezione
-Piemonte\M417_VALDILANA_ple.gml,35702,Troppi pochi punti nella geometria
-Puglia\A055_ADELFIA_ple.gml,16306,Auto intersezione con anello
-Puglia\A185_ALEZIO_ple.gml,9586,Troppi pochi punti nella geometria
-Puglia\A339_APRICENA_ple.gml,3344,Auto intersezione
-Puglia\A339_APRICENA_ple.gml,6940,Auto intersezione
-Puglia\A339_APRICENA_ple.gml,8990,Auto intersezione
-Puglia\A463_ASCOLI SATRIANO_ple.gml,2494,Auto intersezione con anello
-Puglia\A463_ASCOLI SATRIANO_ple.gml,6268,Auto intersezione con anello
-Puglia\A463_ASCOLI SATRIANO_ple.gml,18113,Auto intersezione
-Puglia\A669_BARLETTA_ple.gml,2625,Auto intersezione
-Puglia\A669_BARLETTA_ple.gml,2881,Auto intersezione
-Puglia\A669_BARLETTA_ple.gml,3131,Auto intersezione
-Puglia\A669_BARLETTA_ple.gml,35191,Auto intersezione
-Puglia\A669_BARLETTA_ple.gml,79935,Auto intersezione
-Puglia\B180_BRINDISI_ple.gml,52815,Auto intersezione con anello
-Puglia\B357_CAGNANO VARANO_ple.gml,10798,Auto intersezione
-Puglia\B357_CAGNANO VARANO_ple.gml,14020,Auto intersezione
-Puglia\B616_CANNOLE_ple.gml,911,Auto intersezione con anello
-Puglia\B822_CARPIGNANO SALENTINO_ple.gml,9627,Auto intersezione con anello
-Puglia\B917_CASALVECCHIO DI PUGLIA_ple.gml,7859,Auto intersezione
-Puglia\B923_CASAMASSIMA_ple.gml,2962,Auto intersezione con anello
-Puglia\C134_CASTELLANA GROTTE_ple.gml,16915,Auto intersezione
-Puglia\C134_CASTELLANA GROTTE_ple.gml,18061,Auto intersezione
-Puglia\C136_CASTELLANETA_ple.gml,31789,Troppi pochi punti nella geometria
-Puglia\C514_CERIGNOLA_ple.gml,57835,Auto intersezione
-Puglia\C514_CERIGNOLA_ple.gml,72082,Auto intersezione
-Puglia\C514_CERIGNOLA_ple.gml,91340,Auto intersezione
-Puglia\C975_CONVERSANO_ple.gml,12330,Auto intersezione
-Puglia\C983_CORATO_ple.gml,11707,Auto intersezione
-Puglia\C983_CORATO_ple.gml,12065,Auto intersezione
-Puglia\C983_CORATO_ple.gml,15468,Auto intersezione
-Puglia\C983_CORATO_ple.gml,39953,Auto intersezione
-Puglia\C983_CORATO_ple.gml,46645,Auto intersezione
-Puglia\D237_CUTROFIANO_ple.gml,12342,Auto intersezione con anello
-Puglia\D237_CUTROFIANO_ple.gml,25887,Troppi pochi punti nella geometria
-Puglia\D754_FRAGAGNANO_ple.gml,6141,Auto intersezione con anello
-Puglia\D761_FRANCAVILLA FONTANA_ple.gml,47448,Auto intersezione
-Puglia\E036_GINOSA_ple.gml,48350,Troppi pochi punti nella geometria
-Puglia\E205_GROTTAGLIE_ple.gml,30657,Auto intersezione con anello
-Puglia\E223_GRUMO APPULA_ple.gml,4662,Auto intersezione
-Puglia\E469_LATERZA_ple.gml,29363,Auto intersezione con anello
-Puglia\E549_LESINA_ple.gml,2681,Auto intersezione
-Puglia\E716_LUCERA_ple.gml,4268,Auto intersezione
-Puglia\E716_LUCERA_ple.gml,37989,Auto intersezione con anello
-Puglia\E716_LUCERA_ple.gml,38002,Auto intersezione con anello
-Puglia\E882_MANDURIA_ple.gml,59112,Troppi pochi punti nella geometria
-Puglia\E882_MANDURIA_ple.gml,59188,Auto intersezione
-Puglia\E946_MARGHERITA DI SAVOIA_ple.gml,3564,Auto intersezione
-Puglia\F027_MASSAFRA_ple.gml,17102,Auto intersezione con anello
-Puglia\F027_MASSAFRA_ple.gml,26366,Troppi pochi punti nella geometria
-Puglia\F027_MASSAFRA_ple.gml,26380,Auto intersezione con anello
-Puglia\F059_MATTINATA_ple.gml,10770,Auto intersezione
-Puglia\F059_MATTINATA_ple.gml,13922,Auto intersezione
-Puglia\F784_MOTTOLA_ple.gml,13087,Auto intersezione con anello
-Puglia\F784_MOTTOLA_ple.gml,27038,Troppi pochi punti nella geometria
-Puglia\F784_MOTTOLA_ple.gml,27039,Auto intersezione con anello
-Puglia\F784_MOTTOLA_ple.gml,27040,Troppi pochi punti nella geometria
-Puglia\F816_MURO LECCESE_ple.gml,4164,Auto intersezione
-Puglia\F842_NARDO`_ple.gml,16577,Auto intersezione
-Puglia\F842_NARDO`_ple.gml,38199,Auto intersezione con anello
-Puglia\F915_NOCI_ple.gml,13039,Auto intersezione
-Puglia\G098_ORIA_ple.gml,26426,Auto intersezione
-Puglia\G098_ORIA_ple.gml,26603,Troppi pochi punti nella geometria
-Puglia\G136_ORTELLE_ple.gml,674,Auto intersezione
-Puglia\G136_ORTELLE_ple.gml,946,Auto intersezione
-Puglia\G188_OTRANTO_ple.gml,13865,Auto intersezione
-Puglia\G487_PESCHICI_ple.gml,5379,Auto intersezione
-Puglia\G604_PIETRAMONTECORVINO_ple.gml,10162,Auto intersezione con anello
-Puglia\H096_PUTIGNANO_ple.gml,250,Auto intersezione
-Puglia\H096_PUTIGNANO_ple.gml,8950,Auto intersezione
-Puglia\H632_RUFFANO_ple.gml,5559,Auto intersezione
-Puglia\H632_RUFFANO_ple.gml,6719,Auto intersezione
-Puglia\H708_SALICE SALENTINO_ple.gml,11,Auto intersezione
-Puglia\H749_SAMMICHELE DI BARI_ple.gml,2199,Auto intersezione con anello
-Puglia\H757_SANARICA_ple.gml,5361,Auto intersezione
-Puglia\H926_SAN GIOVANNI ROTONDO_ple.gml,24718,Auto intersezione
-Puglia\H926_SAN GIOVANNI ROTONDO_ple.gml,26083,Auto intersezione
-Puglia\H926_SAN GIOVANNI ROTONDO_ple.gml,37167,Auto intersezione
-Puglia\I054_SANNICANDRO GARGANICO_ple.gml,3150,Auto intersezione
-Puglia\I054_SANNICANDRO GARGANICO_ple.gml,17940,Auto intersezione
-Puglia\I158_SAN SEVERO_ple.gml,792,Auto intersezione
-Puglia\I158_SAN SEVERO_ple.gml,7092,Auto intersezione
-Puglia\I158_SAN SEVERO_ple.gml,49754,Troppi pochi punti nella geometria
-Puglia\I172_SANTA CESAREA TERME_ple.gml,1426,Auto intersezione
-Puglia\I172_SANTA CESAREA TERME_ple.gml,6786,Auto intersezione
-Puglia\I172_SANTA CESAREA TERME_ple.gml,10173,Auto intersezione
-Puglia\I193_SANT`AGATA DI PUGLIA_ple.gml,4768,Auto intersezione
-Puglia\I193_SANT`AGATA DI PUGLIA_ple.gml,16424,Auto intersezione
-Puglia\I193_SANT`AGATA DI PUGLIA_ple.gml,21176,Auto intersezione
-Puglia\I193_SANT`AGATA DI PUGLIA_ple.gml,24225,Auto intersezione
-Puglia\I396_SAN VITO DEI NORMANNI_ple.gml,2372,Auto intersezione
-Puglia\I907_SPINAZZOLA_ple.gml,1172,Auto intersezione
-Puglia\I907_SPINAZZOLA_ple.gml,4960,Auto intersezione
-Puglia\I907_SPINAZZOLA_ple.gml,8327,Auto intersezione
-Puglia\L049_TARANTO_ple.gml,52554,Auto intersezione
-Puglia\L064_TAURISANO_ple.gml,16847,Auto intersezione
-Puglia\L109_TERLIZZI_ple.gml,20142,Auto intersezione
-Puglia\L213_TORCHIAROLO_ple.gml,7870,Auto intersezione
-Puglia\L273_TORREMAGGIORE_ple.gml,6061,Auto intersezione con anello
-Puglia\L273_TORREMAGGIORE_ple.gml,14367,Auto intersezione
-Puglia\L273_TORREMAGGIORE_ple.gml,26966,Auto intersezione
-Puglia\L273_TORREMAGGIORE_ple.gml,29604,Auto intersezione
-Puglia\L328_TRANI_ple.gml,20510,Auto intersezione
-Puglia\L383_TREPUZZI_ple.gml,15221,Auto intersezione
-Puglia\L425_TRIGGIANO_ple.gml,16618,Auto intersezione con anello
-Puglia\L842_VICO DEL GARGANO_ple.gml,20857,Auto intersezione
-Puglia\L842_VICO DEL GARGANO_ple.gml,23854,Auto intersezione
-Puglia\L842_VICO DEL GARGANO_ple.gml,24382,Auto intersezione con anello
-Puglia\L920_VILLA CASTELLI_ple.gml,14543,Auto intersezione con anello
-Puglia\L920_VILLA CASTELLI_ple.gml,14544,Auto intersezione con anello
-Puglia\M298_STATTE_ple.gml,8973,Troppi pochi punti nella geometria
-Puglia\M298_STATTE_ple.gml,9034,Auto intersezione con anello
-Puglia\M298_STATTE_ple.gml,9035,Auto intersezione con anello
-Sardegna\A180_ALES_ple.gml,5957,Auto intersezione con anello
-Sardegna\A379_ARDARA_ple.gml,2345,Auto intersezione
-Sardegna\A477_ASSOLO_ple.gml,3766,Troppi pochi punti nella geometria
-Sardegna\A621_BARATILI SAN PIETRO_ple.gml,5867,Auto intersezione
-Sardegna\A895_BITTI_ple.gml,872,Auto intersezione
-Sardegna\D287_DESULO_ple.gml,7884,Auto intersezione
-Sardegna\E252_GUASILA_ple.gml,9391,Auto intersezione
-Sardegna\E270_GUSPINI_ple.gml,8535,Auto intersezione
-Sardegna\E270_GUSPINI_ple.gml,8617,Auto intersezione
-Sardegna\E387_JERZU_ple.gml,6651,Auto intersezione
-Sardegna\E747_LUOGOSANTO_ple.gml,3508,Auto intersezione
-Sardegna\E903_MARACALAGONIS_ple.gml,6564,Auto intersezione
-Sardegna\E903_MARACALAGONIS_ple.gml,19544,Auto intersezione
-Sardegna\E903_MARACALAGONIS_ple.gml,22007,Auto intersezione
-Sardegna\E972_MARRUBIU_ple.gml,27158,Auto intersezione con anello
-Sardegna\E972_MARRUBIU_ple.gml,27415,Troppi pochi punti nella geometria
-Sardegna\F208_MILIS_ple.gml,2973,Auto intersezione con anello
-Sardegna\F667_MONTI_ple.gml,5038,Auto intersezione
-Sardegna\F727_MORGONGIORI_ple.gml,5068,Troppi pochi punti nella geometria
-Sardegna\F841_NARCAO_ple.gml,13341,Auto intersezione
-Sardegna\F980_NURACHI_ple.gml,12103,Troppi pochi punti nella geometria
-Sardegna\F983_NURAMINIS_ple.gml,5145,Auto intersezione
-Sardegna\F983_NURAMINIS_ple.gml,6371,Auto intersezione
-Sardegna\F986_NURRI_ple.gml,8259,Auto intersezione con anello
-Sardegna\G156_OSILO_ple.gml,14654,Auto intersezione con anello
-Sardegna\G191_OTTANA_ple.gml,6159,Auto intersezione
-Sardegna\G191_OTTANA_ple.gml,8876,Auto intersezione
-Sardegna\G207_PABILLONIS_ple.gml,2873,Auto intersezione
-Sardegna\G207_PABILLONIS_ple.gml,6856,Auto intersezione
-Sardegna\G207_PABILLONIS_ple.gml,10949,Auto intersezione
-Sardegna\G287_SAN GIOVANNI SUERGIU_ple.gml,991,Auto intersezione
-Sardegna\G287_SAN GIOVANNI SUERGIU_ple.gml,25507,Auto intersezione
-Sardegna\G379_PAU_ple.gml,3163,Auto intersezione con anello
-Sardegna\G384_PAULILATINO_ple.gml,13164,Troppi pochi punti nella geometria
-Sardegna\G450_PERFUGAS_ple.gml,8414,Auto intersezione con anello
-Sardegna\G929_POSADA_ple.gml,4162,Auto intersezione
-Sardegna\G929_POSADA_ple.gml,4669,Auto intersezione
-Sardegna\H659_SADALI_ple.gml,2113,Auto intersezione
-Sardegna\H756_SAMUGHEO_ple.gml,12912,Troppi pochi punti nella geometria
-Sardegna\I205_SANTA GIUSTA_ple.gml,13024,Auto intersezione con anello
-Sardegna\I374_SANTU LUSSURGIU_ple.gml,1687,Auto intersezione con anello
-Sardegna\I452_SASSARI_ple.gml,88737,Troppi pochi punti nella geometria
-Sardegna\I503_SCANO DI MONTIFERRO_ple.gml,10637,Auto intersezione con anello
-Sardegna\I503_SCANO DI MONTIFERRO_ple.gml,11464,Auto intersezione con anello
-Sardegna\I564_SEDILO_ple.gml,13085,Troppi pochi punti nella geometria
-Sardegna\L088_TELTI_ple.gml,2617,Auto intersezione con anello
-Sardegna\L088_TELTI_ple.gml,4986,Auto intersezione
-Sardegna\L140_TERTENIA_ple.gml,16295,Auto intersezione
-Sardegna\L154_TEULADA_ple.gml,499,Auto intersezione
-Sardegna\L154_TEULADA_ple.gml,12568,Auto intersezione
-Sardegna\L463_TUILI_ple.gml,7779,Auto intersezione con anello
-Sardegna\L521_UTA_ple.gml,5403,Auto intersezione
-Sardegna\L521_UTA_ple.gml,14274,Auto intersezione
-Sardegna\L992_VILLANOVATULO_ple.gml,3617,Auto intersezione
-Sardegna\M275_LOIRI PORTO S. PAOLO_ple.gml,12500,Auto intersezione
-Sardegna\M276_S. ANTONIO DI GALLURA_ple.gml,6165,Auto intersezione
-Sicilia\A056_ADRANO_ple.gml,38321,Troppi pochi punti nella geometria
-Sicilia\A070_AGIRA_ple.gml,24527,Auto intersezione con anello
-Sicilia\A070_AGIRA_ple.gml,29845,Auto intersezione
-Sicilia\A089_AGRIGENTO_ple.gml,38881,Auto intersezione
-Sicilia\A351_ARAGONA_ple.gml,6421,Auto intersezione
-Sicilia\A351_ARAGONA_ple.gml,29603,Auto intersezione
-Sicilia\A351_ARAGONA_ple.gml,29604,Auto intersezione
-Sicilia\A351_ARAGONA_ple.gml,29823,Troppi pochi punti nella geometria
-Sicilia\A494_AUGUSTA_ple.gml,15944,Auto intersezione con anello
-Sicilia\A494_AUGUSTA_ple.gml,29910,Auto intersezione con anello
-Sicilia\A494_AUGUSTA_ple.gml,31086,Auto intersezione
-Sicilia\A494_AUGUSTA_ple.gml,39398,Auto intersezione
-Sicilia\A494_AUGUSTA_ple.gml,39559,Auto intersezione
-Sicilia\A592_BALESTRATE_ple.gml,6708,Auto intersezione
-Sicilia\A676_BARRAFRANCA_ple.gml,27104,Auto intersezione con anello
-Sicilia\A766_BELPASSO_ple.gml,42253,Auto intersezione con anello
-Sicilia\A841_BIANCAVILLA_ple.gml,31428,Troppi pochi punti nella geometria
-Sicilia\A896_BIVONA_ple.gml,7363,Auto intersezione con anello
-Sicilia\A991_BORGETTO_ple.gml,14548,Auto intersezione
-Sicilia\B202_BRONTE_ple.gml,11025,Troppi pochi punti nella geometria
-Sicilia\B287_BUSCEMI_ple.gml,12277,Auto intersezione
-Sicilia\B287_BUSCEMI_ple.gml,12392,Auto intersezione
-Sicilia\B288_BUSETO PALIZZOLO_ple.gml,284,Auto intersezione con anello
-Sicilia\B288_BUSETO PALIZZOLO_ple.gml,19581,Auto intersezione con anello
-Sicilia\B315_CACCAMO_ple.gml,47232,Troppi pochi punti nella geometria
-Sicilia\B315_CACCAMO_ple.gml,47654,Auto intersezione con anello
-Sicilia\B315_CACCAMO_ple.gml,47655,Auto intersezione con anello
-Sicilia\B385_CALATAFIMI SEGESTA_ple.gml,43959,Troppi pochi punti nella geometria
-Sicilia\B427_CALTABELLOTTA_ple.gml,31657,Troppi pochi punti nella geometria
-Sicilia\B428_CALTAGIRONE_ple.gml,196,Auto intersezione
-Sicilia\B428_CALTAGIRONE_ple.gml,25297,Auto intersezione con anello
-Sicilia\B428_CALTAGIRONE_ple.gml,36253,Auto intersezione
-Sicilia\B428_CALTAGIRONE_ple.gml,86620,Auto intersezione
-Sicilia\B428_CALTAGIRONE_ple.gml,87850,Auto intersezione con anello
-Sicilia\B428_CALTAGIRONE_ple.gml,87851,Auto intersezione
-Sicilia\B429_CALTANISSETTA_ple.gml,74828,Auto intersezione
-Sicilia\B429_CALTANISSETTA_ple.gml,77267,Auto intersezione con anello
-Sicilia\B429_CALTANISSETTA_ple.gml,78091,Troppi pochi punti nella geometria
-Sicilia\B429_CALTANISSETTA_ple.gml,78178,Troppi pochi punti nella geometria
-Sicilia\B430_CALTAVUTURO_ple.gml,17823,Auto intersezione
-Sicilia\B430_CALTAVUTURO_ple.gml,18446,Auto intersezione
-Sicilia\B486_CAMMARATA_ple.gml,27460,Auto intersezione con anello
-Sicilia\B520_CAMPOBELLO DI LICATA_ple.gml,961,Auto intersezione
-Sicilia\B521_CAMPOBELLO DI MAZARA_ple.gml,26171,Auto intersezione
-Sicilia\B521_CAMPOBELLO DI MAZARA_ple.gml,32352,Auto intersezione
-Sicilia\B602_CANICATTI`_ple.gml,21339,Auto intersezione
-Sicilia\B602_CANICATTI`_ple.gml,29479,Auto intersezione
-Sicilia\B602_CANICATTI`_ple.gml,43854,Auto intersezione
-Sicilia\B603_CANICATTINI BAGNI_ple.gml,8854,Troppi pochi punti nella geometria
-Sicilia\B787_CARLENTINI_ple.gml,23678,Auto intersezione con anello
-Sicilia\B787_CARLENTINI_ple.gml,35358,Auto intersezione
-Sicilia\C006_CASSARO_ple.gml,6307,Auto intersezione con anello
-Sicilia\C275_CASTELTERMINI_ple.gml,4165,Auto intersezione
-Sicilia\C275_CASTELTERMINI_ple.gml,16502,Auto intersezione
-Sicilia\C275_CASTELTERMINI_ple.gml,19188,Auto intersezione con anello
-Sicilia\C496_CERDA_ple.gml,8009,Auto intersezione
-Sicilia\C496_CERDA_ple.gml,9717,Auto intersezione
-Sicilia\C496_CERDA_ple.gml,10224,Auto intersezione
-Sicilia\C496_CERDA_ple.gml,13381,Auto intersezione
-Sicilia\C612_CHIARAMONTE GULFI_ple.gml,11275,Auto intersezione con anello
-Sicilia\C696_CIMINNA_ple.gml,232,Auto intersezione
-Sicilia\C696_CIMINNA_ple.gml,15300,Auto intersezione
-Sicilia\C696_CIMINNA_ple.gml,15334,Auto intersezione
-Sicilia\C968_CONTESSA ENTELLINA_ple.gml,6361,Auto intersezione
-Sicilia\C968_CONTESSA ENTELLINA_ple.gml,14434,Auto intersezione
-Sicilia\D009_CORLEONE_ple.gml,44794,Auto intersezione con anello
-Sicilia\D423_ERICE_ple.gml,20577,Troppi pochi punti nella geometria
-Sicilia\D514_FAVARA_ple.gml,37555,Auto intersezione
-Sicilia\D540_FERLA_ple.gml,222,Auto intersezione con anello
-Sicilia\D768_FRANCOFONTE_ple.gml,35606,Auto intersezione con anello
-Sicilia\D768_FRANCOFONTE_ple.gml,35687,Auto intersezione
-Sicilia\D977_GERACI SICULO_ple.gml,8494,Auto intersezione
-Sicilia\E023_GIBELLINA_ple.gml,8676,Auto intersezione
-Sicilia\E055_GIULIANA_ple.gml,6001,Auto intersezione
-Sicilia\E149_GRATTERI_ple.gml,6814,Auto intersezione
-Sicilia\E390_JOPPOLO GIANCAXIO_ple.gml,4997,Auto intersezione con anello
-Sicilia\E523_LENI_ple.gml,5236,Auto intersezione
-Sicilia\E532_LENTINI_ple.gml,21222,Auto intersezione
-Sicilia\E532_LENTINI_ple.gml,46947,Auto intersezione
-Sicilia\E541_LERCARA FRIDDI_ple.gml,5659,Auto intersezione
-Sicilia\E578_LICODIA EUBEA_ple.gml,11708,Auto intersezione
-Sicilia\E578_LICODIA EUBEA_ple.gml,15301,Auto intersezione
-Sicilia\E578_LICODIA EUBEA_ple.gml,16957,Auto intersezione
-Sicilia\E578_LICODIA EUBEA_ple.gml,21497,Auto intersezione
-Sicilia\E854_MALETTO_ple.gml,12168,Auto intersezione con anello
-Sicilia\E974_MARSALA_ple.gml,103118,Auto intersezione
-Sicilia\F065_MAZZARINO_ple.gml,2348,Auto intersezione con anello
-Sicilia\F065_MAZZARINO_ple.gml,9514,Auto intersezione
-Sicilia\F065_MAZZARINO_ple.gml,23840,Auto intersezione
-Sicilia\F065_MAZZARINO_ple.gml,37395,Auto intersezione
-Sicilia\F065_MAZZARINO_ple.gml,38545,Auto intersezione con anello
-Sicilia\F065_MAZZARINO_ple.gml,42505,Troppi pochi punti nella geometria
-Sicilia\F107_MELILLI_ple.gml,13740,Auto intersezione
-Sicilia\F107_MELILLI_ple.gml,24741,Auto intersezione
-Sicilia\F107_MELILLI_ple.gml,24882,Auto intersezione con anello
-Sicilia\F107_MELILLI_ple.gml,24883,Auto intersezione con anello
-Sicilia\F126_MENFI_ple.gml,25263,Auto intersezione
-Sicilia\F158_MESSINA_ple.gml,91535,Auto intersezione
-Sicilia\F158_MESSINA_ple.gml,176914,Auto intersezione con anello
-Sicilia\F158_MESSINA_ple.gml,176915,Auto intersezione con anello
-Sicilia\F246_MISILMERI_ple.gml,24444,Auto intersezione
-Sicilia\F377_MONREALE_ple.gml,16365,Auto intersezione con anello
-Sicilia\F377_MONREALE_ple.gml,17112,Auto intersezione con anello
-Sicilia\F377_MONREALE_ple.gml,95304,Troppi pochi punti nella geometria
-Sicilia\F377_MONREALE_ple.gml,95309,Auto intersezione
-Sicilia\F400_MONTALBANO ELICONA_ple.gml,24202,Troppi pochi punti nella geometria
-Sicilia\F414_MONTALLEGRO_ple.gml,5761,Auto intersezione con anello
-Sicilia\F489_MONTEDORO_ple.gml,1746,Auto intersezione con anello
-Sicilia\F655_MONTEVAGO_ple.gml,11132,Troppi pochi punti nella geometria
-Sicilia\F655_MONTEVAGO_ple.gml,11153,Troppi pochi punti nella geometria
-Sicilia\F830_MUSSOMELI_ple.gml,32639,Troppi pochi punti nella geometria
-Sicilia\F943_NOTO_ple.gml,98411,Troppi pochi punti nella geometria
-Sicilia\F943_NOTO_ple.gml,98412,Troppi pochi punti nella geometria
-Sicilia\G208_PACECO_ple.gml,8267,Auto intersezione
-Sicilia\G208_PACECO_ple.gml,20689,Auto intersezione
-Sicilia\G208_PACECO_ple.gml,20716,Troppi pochi punti nella geometria
-Sicilia\G267_PALAZZOLO ACREIDE_ple.gml,19166,Auto intersezione con anello
-Sicilia\G282_PALMA DI MONTECHIARO_ple.gml,20986,Auto intersezione
-Sicilia\G282_PALMA DI MONTECHIARO_ple.gml,22172,Auto intersezione
-Sicilia\G315_PANTELLERIA_ple.gml,46538,Troppi pochi punti nella geometria
-Sicilia\G348_PARTINICO_ple.gml,86252,Auto intersezione con anello
-Sicilia\G371_PATERNO`_ple.gml,44332,Troppi pochi punti nella geometria
-Sicilia\G511_PETRALIA SOTTANA_ple.gml,1759,Auto intersezione
-Sicilia\G511_PETRALIA SOTTANA_ple.gml,13073,Auto intersezione
-Sicilia\G543_PIANA DEGLI ALBANESI_ple.gml,4545,Auto intersezione
-Sicilia\G624_PIETRAPERZIA_ple.gml,21904,Auto intersezione
-Sicilia\G624_PIETRAPERZIA_ple.gml,22353,Troppi pochi punti nella geometria
-Sicilia\G767_POGGIOREALE_ple.gml,3268,Auto intersezione con anello
-Sicilia\H148_RACALMUTO_ple.gml,23641,Auto intersezione
-Sicilia\H148_RACALMUTO_ple.gml,25980,Auto intersezione
-Sicilia\H159_RAFFADALI_ple.gml,21052,Auto intersezione
-Sicilia\H159_RAFFADALI_ple.gml,21064,Troppi pochi punti nella geometria
-Sicilia\H163_RAGUSA_ple.gml,78421,Auto intersezione con anello
-Sicilia\H163_RAGUSA_ple.gml,87991,Auto intersezione con anello
-Sicilia\H168_RAMACCA_ple.gml,27836,Auto intersezione con anello
-Sicilia\H168_RAMACCA_ple.gml,29689,Auto intersezione con anello
-Sicilia\H175_RANDAZZO_ple.gml,1136,Auto intersezione
-Sicilia\H175_RANDAZZO_ple.gml,22341,Auto intersezione
-Sicilia\H175_RANDAZZO_ple.gml,26633,Auto intersezione
-Sicilia\H194_RAVANUSA_ple.gml,19053,Auto intersezione
-Sicilia\H221_REGALBUTO_ple.gml,30567,Auto intersezione con anello
-Sicilia\H221_REGALBUTO_ple.gml,30825,Troppi pochi punti nella geometria
-Sicilia\H245_RESUTTANO_ple.gml,6905,Auto intersezione
-Sicilia\H245_RESUTTANO_ple.gml,9288,Auto intersezione con anello
-Sicilia\H269_RIBERA_ple.gml,28481,Auto intersezione
-Sicilia\H281_RIESI_ple.gml,22047,Troppi pochi punti nella geometria
-Sicilia\H479_RODI` MILICI_ple.gml,13690,Auto intersezione
-Sicilia\H688_SALAPARUTA_ple.gml,8652,Auto intersezione con anello
-Sicilia\H700_SALEMI_ple.gml,22775,Auto intersezione
-Sicilia\H700_SALEMI_ple.gml,29975,Auto intersezione
-Sicilia\H700_SALEMI_ple.gml,53489,Auto intersezione
-Sicilia\H778_SAN BIAGIO PLATANI_ple.gml,14139,Troppi pochi punti nella geometria
-Sicilia\H792_SAN CATALDO_ple.gml,2901,Auto intersezione
-Sicilia\H792_SAN CATALDO_ple.gml,22964,Auto intersezione con anello
-Sicilia\H933_SAN GIUSEPPE IATO_ple.gml,11751,Auto intersezione
-Sicilia\H982_SAN MARCO D`ALUNZIO_ple.gml,10080,Auto intersezione con anello
-Sicilia\I086_SAN PIERO PATTI_ple.gml,22833,Troppi pochi punti nella geometria
-Sicilia\I169_S CATERINA VILLARMOSA_ple.gml,10033,Auto intersezione
-Sicilia\I174_SANTA CRISTINA GELA_ple.gml,13124,Auto intersezione
-Sicilia\I215_SANT`ALESSIO SICULO_ple.gml,1028,Auto intersezione
-Sicilia\I356_SANTO STEFANO QUISQUINA_ple.gml,10198,Auto intersezione
-Sicilia\I420_SAPONARA_ple.gml,15760,Troppi pochi punti nella geometria
-Sicilia\I420_SAPONARA_ple.gml,15763,Troppi pochi punti nella geometria
-Sicilia\I541_SCLAFANI BAGNI_ple.gml,6210,Auto intersezione
-Sicilia\I644_SERRADIFALCO_ple.gml,5901,Auto intersezione
-Sicilia\I644_SERRADIFALCO_ple.gml,14289,Troppi pochi punti nella geometria
-Sicilia\I754_SIRACUSA_ple.gml,67264,Auto intersezione con anello
-Sicilia\I754_SIRACUSA_ple.gml,67286,Auto intersezione
-Sicilia\I824_SOMMATINO_ple.gml,4898,Auto intersezione con anello
-Sicilia\I824_SOMMATINO_ple.gml,12108,Troppi pochi punti nella geometria
-Sicilia\I864_SORTINO_ple.gml,19908,Auto intersezione con anello
-Sicilia\L112_TERMINI IMERESE_ple.gml,19694,Auto intersezione con anello
-Sicilia\L331_TRAPANI_ple.gml,33145,Auto intersezione
-Sicilia\L448_TROINA_ple.gml,5,Auto intersezione con anello
-Sicilia\L448_TROINA_ple.gml,18514,Auto intersezione
-Sicilia\L916_VILLABATE_ple.gml,1675,Auto intersezione
-Sicilia\L950_VILLAFRANCA TIRRENA_ple.gml,13586,Auto intersezione con anello
-Sicilia\M100_VIZZINI_ple.gml,13533,Auto intersezione con anello
-Toscana\A541_BADIA TEDALDA_ple.gml,17480,Troppi pochi punti nella geometria
-Toscana\A560_BAGNI DI LUCCA_ple.gml,121,Auto intersezione
-Toscana\A560_BAGNI DI LUCCA_ple.gml,65312,Troppi pochi punti nella geometria
-Toscana\A562_SAN GIULIANO TERME_ple.gml,30803,Auto intersezione
-Toscana\A576_BAGNONE_ple.gml,17678,Auto intersezione
-Toscana\B007_BORGO A MOZZANO_ple.gml,38295,Auto intersezione con anello
-Toscana\B007_BORGO A MOZZANO_ple.gml,39229,Troppi pochi punti nella geometria
-Toscana\B007_BORGO A MOZZANO_ple.gml,39230,Auto intersezione con anello
-Toscana\B269_BUONCONVENTO_ple.gml,1309,Auto intersezione
-Toscana\B269_BUONCONVENTO_ple.gml,3018,Auto intersezione
-Toscana\B669_CAPOLIVERI_ple.gml,12456,Troppi pochi punti nella geometria
-Toscana\B832_CARRARA_ple.gml,665,Auto intersezione
-Toscana\B832_CARRARA_ple.gml,58318,Auto intersezione
-Toscana\B984_CASOLE D ELSA_ple.gml,9755,Auto intersezione
-Toscana\C102_CASTEL FOCOGNANO_ple.gml,3872,Auto intersezione
-Toscana\C174_CASTELLINA MARITTIMA_ple.gml,6905,Auto intersezione
-Toscana\C227_CASTELNUOVO BERARDENGA_ple.gml,3010,Auto intersezione
-Toscana\C227_CASTELNUOVO BERARDENGA_ple.gml,9102,Auto intersezione
-Toscana\C310_CASTIGLIONE D PESCAIA_ple.gml,21000,Auto intersezione
-Toscana\C319_CASTIGLION FIORENTINO_ple.gml,2411,Auto intersezione con anello
-Toscana\C319_CASTIGLION FIORENTINO_ple.gml,5811,Auto intersezione con anello
-Toscana\C319_CASTIGLION FIORENTINO_ple.gml,13804,Auto intersezione con anello
-Toscana\C319_CASTIGLION FIORENTINO_ple.gml,28382,Auto intersezione
-Toscana\C529_CERRETO GUIDI_ple.gml,16141,Auto intersezione con anello
-Toscana\C705_CINIGIANO_ple.gml,1965,Auto intersezione
-Toscana\C705_CINIGIANO_ple.gml,8709,Auto intersezione
-Toscana\C705_CINIGIANO_ple.gml,17331,Auto intersezione
-Toscana\C705_CINIGIANO_ple.gml,18260,Auto intersezione
-Toscana\C705_CINIGIANO_ple.gml,18299,Auto intersezione
-Toscana\C774_CIVITELLA VALDICHIANA_ple.gml,129,Auto intersezione con anello
-Toscana\C782_CIVITELLA PAGANICO_ple.gml,16390,Auto intersezione
-Toscana\D077_CORTONA_ple.gml,54817,Auto intersezione
-Toscana\D299_DICOMANO_ple.gml,593,Auto intersezione
-Toscana\D612_FIRENZE_ple.gml,110262,Troppi pochi punti nella geometria
-Toscana\D613_FIRENZUOLA_ple.gml,37917,Auto intersezione con anello
-Toscana\D613_FIRENZUOLA_ple.gml,39147,Auto intersezione con anello
-Toscana\D656_FOLLONICA_ple.gml,12225,Troppi pochi punti nella geometria
-Toscana\D948_GAVORRANO_ple.gml,1124,Auto intersezione
-Toscana\D948_GAVORRANO_ple.gml,15005,Auto intersezione
-Toscana\D948_GAVORRANO_ple.gml,18610,Auto intersezione
-Toscana\E202_GROSSETO_ple.gml,1266,Auto intersezione
-Toscana\E202_GROSSETO_ple.gml,21829,Auto intersezione
-Toscana\E202_GROSSETO_ple.gml,25947,Auto intersezione
-Toscana\E693_LORO CIUFFENNA_ple.gml,13460,Auto intersezione
-Toscana\E715_LUCCA_ple.gml,46638,Auto intersezione con anello
-Toscana\E715_LUCCA_ple.gml,122385,Troppi pochi punti nella geometria
-Toscana\E875_MANCIANO_ple.gml,2312,Auto intersezione
-Toscana\E930_MARCIANA_ple.gml,27395,Auto intersezione con anello
-Toscana\E960_MARLIANA_ple.gml,22219,Auto intersezione
-Toscana\E960_MARLIANA_ple.gml,22444,Troppi pochi punti nella geometria
-Toscana\F023_MASSA_ple.gml,13519,Auto intersezione
-Toscana\F023_MASSA_ple.gml,26912,Auto intersezione
-Toscana\F023_MASSA_ple.gml,54960,Auto intersezione
-Toscana\F592_MONTEPULCIANO_ple.gml,23737,Auto intersezione con anello
-Toscana\F592_MONTEPULCIANO_ple.gml,27819,Troppi pochi punti nella geometria
-Toscana\F598_MONTERIGGIONI_ple.gml,14033,Auto intersezione
-Toscana\F648_MONTESPERTOLI_ple.gml,23993,Auto intersezione
-Toscana\F656_MONTEVARCHI_ple.gml,5945,Auto intersezione
-Toscana\F656_MONTEVARCHI_ple.gml,12845,Auto intersezione
-Toscana\F656_MONTEVARCHI_ple.gml,14785,Auto intersezione
-Toscana\F677_MONTIERI_ple.gml,14059,Troppi pochi punti nella geometria
-Toscana\F679_MONTIGNOSO_ple.gml,3320,Auto intersezione
-Toscana\G088_ORBETELLO_ple.gml,1232,Auto intersezione
-Toscana\G088_ORBETELLO_ple.gml,9307,Auto intersezione
-Toscana\G088_ORBETELLO_ple.gml,19822,Auto intersezione
-Toscana\G395_PECCIOLI_ple.gml,2822,Auto intersezione
-Toscana\G420_PELAGO_ple.gml,12377,Auto intersezione
-Toscana\G420_PELAGO_ple.gml,12921,Auto intersezione con anello
-Toscana\G491_PESCIA_ple.gml,44990,Auto intersezione
-Toscana\G491_PESCIA_ple.gml,46692,Troppi pochi punti nella geometria
-Toscana\G491_PESCIA_ple.gml,47695,Troppi pochi punti nella geometria
-Toscana\G713_PISTOIA_ple.gml,111170,Auto intersezione con anello
-Toscana\G713_PISTOIA_ple.gml,113546,Troppi pochi punti nella geometria
-Toscana\G912_PORTOFERRAIO_ple.gml,17471,Auto intersezione con anello
-Toscana\G999_PRATO_ple.gml,20422,Auto intersezione
-Toscana\G999_PRATO_ple.gml,62660,Auto intersezione con anello
-Toscana\H109_QUARRATA_ple.gml,26264,Auto intersezione
-Toscana\H286_RIGNANO SULL ARNO_ple.gml,2680,Auto intersezione con anello
-Toscana\H286_RIGNANO SULL ARNO_ple.gml,12669,Troppi pochi punti nella geometria
-Toscana\H570_ROSIGNANO MARITTIMO_ple.gml,37340,Troppi pochi punti nella geometria
-Toscana\H744_SAMBUCA PISTOIESE_ple.gml,30969,Auto intersezione con anello
-Toscana\H790_SAN CASCIANO DEI BAGNI_ple.gml,7332,Auto intersezione
-Toscana\H790_SAN CASCIANO DEI BAGNI_ple.gml,7673,Auto intersezione
-Toscana\H790_SAN CASCIANO DEI BAGNI_ple.gml,9347,Auto intersezione
-Toscana\H875_SAN GIMIGNANO_ple.gml,18156,Auto intersezione
-Toscana\I135_SAN QUIRICO D ORCIA_ple.gml,3020,Auto intersezione con anello
-Toscana\I504_SCANSANO_ple.gml,13330,Auto intersezione
-Toscana\I504_SCANSANO_ple.gml,14309,Auto intersezione
-Toscana\I504_SCANSANO_ple.gml,30510,Auto intersezione
-Toscana\I504_SCANSANO_ple.gml,30747,Auto intersezione
-Toscana\I510_SCARLINO_ple.gml,7787,Auto intersezione
-Toscana\I510_SCARLINO_ple.gml,8036,Troppi pochi punti nella geometria
-Toscana\I571_SEGGIANO_ple.gml,5807,Auto intersezione
-Toscana\I571_SEGGIANO_ple.gml,12851,Auto intersezione
-Toscana\I991_SUBBIANO_ple.gml,12889,Auto intersezione
-Toscana\L138_TERRICCIOLA_ple.gml,12741,Auto intersezione con anello
-Toscana\L775_VERNIO_ple.gml,21396,Troppi pochi punti nella geometria
-Toscana\L833_VIAREGGIO_ple.gml,7928,Auto intersezione con anello
-Toscana\L833_VIAREGGIO_ple.gml,36271,Auto intersezione con anello
-Toscana\M327_CASCIANA TERME LARI_ple.gml,28428,Auto intersezione
-Toscana\M377_SAN MARCELLO PITEGLIO_ple.gml,27582,Auto intersezione
-Toscana\M377_SAN MARCELLO PITEGLIO_ple.gml,36923,Auto intersezione
-Toscana\M377_SAN MARCELLO PITEGLIO_ple.gml,36980,Auto intersezione
-Toscana\M378_MONTALCINO_ple.gml,20485,Auto intersezione
-Umbria\A262_AMELIA_ple.gml,23751,Troppi pochi punti nella geometria
-Umbria\A439_ARRONE_ple.gml,594,Auto intersezione
-Umbria\A475_ASSISI_ple.gml,27704,Auto intersezione
-Umbria\B504_CAMPELLO SUL CLITUNNO_ple.gml,5447,Auto intersezione
-Umbria\D570_FICULLE_ple.gml,9177,Auto intersezione
-Umbria\D653_FOLIGNO_ple.gml,22358,Auto intersezione
-Umbria\E256_GUBBIO_ple.gml,58881,Auto intersezione
-Umbria\E256_GUBBIO_ple.gml,60484,Auto intersezione con anello
-Umbria\F024_MASSA MARTANA_ple.gml,442,Auto intersezione
-Umbria\F844_NARNI_ple.gml,34662,Auto intersezione con anello
-Umbria\F844_NARNI_ple.gml,37340,Troppi pochi punti nella geometria
-Umbria\F844_NARNI_ple.gml,38129,Troppi pochi punti nella geometria
-Umbria\G148_ORVIETO_ple.gml,2395,Auto intersezione
-Umbria\G148_ORVIETO_ple.gml,27461,Auto intersezione
-Umbria\G478_PERUGIA_ple.gml,142516,Auto intersezione con anello
-Umbria\I381_SAN VENANZO_ple.gml,4912,Auto intersezione
-Umbria\I381_SAN VENANZO_ple.gml,8053,Auto intersezione
-Umbria\L117_TERNI_ple.gml,70145,Troppi pochi punti nella geometria
-Umbria\L117_TERNI_ple.gml,70885,Troppi pochi punti nella geometria
-Umbria\L216_TORGIANO_ple.gml,5737,Auto intersezione
-Valled'Aosta\C598_CHARVENSOD_ple.gml,7431,Auto intersezione
-Valled'Aosta\D537_FENIS_ple.gml,15972,Auto intersezione
-Valled'Aosta\D537_FENIS_ple.gml,22026,Auto intersezione
-Valled'Aosta\D839_GABY_ple.gml,7076,Auto intersezione
-Valled'Aosta\E371_ISSOGNE_ple.gml,452,Auto intersezione
-Valled'Aosta\F987_NUS_ple.gml,26717,Auto intersezione
-Valled'Aosta\H669_SAINT CHRISTOPHE_ple.gml,4567,Auto intersezione
-Valled'Aosta\H676_SAINT VINCENT_ple.gml,29557,Auto intersezione
-Valled'Aosta\L654_VALTOURNENCHE_ple.gml,17855,Auto intersezione
-Veneto\A093_AGUGLIARO_ple.gml,3607,Auto intersezione con anello
-Veneto\A377_ARCUGNANO_ple.gml,4846,Auto intersezione
-Veneto\A637_BARBONA_ple.gml,1848,Auto intersezione con anello
-Veneto\A757_BELLUNO_ple.gml,42390,Auto intersezione con anello
-Veneto\B154_BRENZONE_ple.gml,3553,Auto intersezione
-Veneto\B433_CALTRANO_ple.gml,2669,Auto intersezione con anello
-Veneto\B564_CAMPO SAN MARTINO_ple.gml,6785,Troppi pochi punti nella geometria
-Veneto\B795_CARMIGNANO DI BRENTA_ple.gml,7335,Auto intersezione con anello
-Veneto\C384_CAVASO DEL TOMBA_ple.gml,8827,Auto intersezione con anello
-Veneto\C388_JESOLO_ple.gml,21289,Troppi pochi punti nella geometria
-Veneto\C605_CHIAMPO_ple.gml,19619,Troppi pochi punti nella geometria
-Veneto\C824_COGOLLO DEL CENGIO_ple.gml,9958,Auto intersezione
-Veneto\C890_COLOGNA VENETA_ple.gml,12731,Auto intersezione
-Veneto\C919_SANTO STEFANO DI CADORE_ple.gml,8253,Auto intersezione
-Veneto\D105_COSTA DI ROVIGO_ple.gml,4769,Troppi pochi punti nella geometria
-Veneto\D107_COSTABISSARA_ple.gml,909,Auto intersezione con anello
-Veneto\D530_FELTRE_ple.gml,7993,Auto intersezione
-Veneto\D577_FIESSO UMBERTIANO_ple.gml,6502,Auto intersezione
-Veneto\D957_GAZZO VERONESE_ple.gml,11674,Troppi pochi punti nella geometria
-Veneto\E021_GIAVERA DEL MONTELLO_ple.gml,7800,Auto intersezione con anello
-Veneto\E226_GRUMOLO DELLE ABBADESSE_ple.gml,4541,Troppi pochi punti nella geometria
-Veneto\E240_GUARDA VENETA_ple.gml,2323,Troppi pochi punti nella geometria
-Veneto\E429_LAMON_ple.gml,10003,Auto intersezione
-Veneto\E588_LIMANA_ple.gml,13269,Auto intersezione con anello
-Veneto\E893_MANSUE`_ple.gml,5681,Auto intersezione
-Veneto\F218_MINERBE_ple.gml,531,Auto intersezione con anello
-Veneto\F332_MONASTIER DI TREVISO_ple.gml,5301,Troppi pochi punti nella geometria
-Veneto\F332_MONASTIER DI TREVISO_ple.gml,5302,Troppi pochi punti nella geometria
-Veneto\F332_MONASTIER DI TREVISO_ple.gml,5303,Troppi pochi punti nella geometria
-Veneto\F332_MONASTIER DI TREVISO_ple.gml,5304,Troppi pochi punti nella geometria
-Veneto\G167_OSPEDALETTO EUGANEO_ple.gml,7317,Troppi pochi punti nella geometria
-Veneto\G688_PIOMBINO DESE_ple.gml,7001,Auto intersezione
-Veneto\G776_POIANA MAGGIORE_ple.gml,7257,Auto intersezione con anello
-Veneto\H606_ROVERCHIARA_ple.gml,3999,Troppi pochi punti nella geometria
-Veneto\H608_ROVERE` VERONESE_ple.gml,4,Auto intersezione
-Veneto\H608_ROVERE` VERONESE_ple.gml,16453,Auto intersezione
-Veneto\I008_SAN MARTINO DI LUPARI_ple.gml,921,Auto intersezione con anello
-Veneto\I040_S MICHELE TAGLIAMENTO_ple.gml,17851,Auto intersezione
-Veneto\I259_S AMBROGIO VALPOLICELLA_ple.gml,892,Auto intersezione
-Veneto\I292_SANT`ANNA D`ALFAEDO_ple.gml,9101,Auto intersezione
-Veneto\I292_SANT`ANNA D`ALFAEDO_ple.gml,17371,Auto intersezione
-Veneto\I551_SCORZE`_ple.gml,1053,Auto intersezione con anello
-Veneto\I563_SEDICO_ple.gml,15367,Troppi pochi punti nella geometria
-Veneto\I626_SEREN DEL GRAPPA_ple.gml,2520,Auto intersezione con anello
-Veneto\L364_TREGNAGO_ple.gml,7959,Auto intersezione
-Veneto\L364_TREGNAGO_ple.gml,17633,Auto intersezione
-Veneto\L722_VELO VERONESE_ple.gml,7628,Auto intersezione
-Veneto\L781_VERONA_ple.gml,106786,Auto intersezione
-Veneto\L900_VIGONZA_ple.gml,17687,Troppi pochi punti nella geometria
-Veneto\L939_VILLADOSE_ple.gml,7790,Auto intersezione
-Veneto\M172_ZEVIO_ple.gml,13672,Auto intersezione
-Veneto\M374_VAL DI ZOLDO_ple.gml,25742,Auto intersezione
-Veneto\M375_ALPAGO_ple.gml,11076,Auto intersezione
-Veneto\M375_ALPAGO_ple.gml,23569,Auto intersezione
-Veneto\M401_BARBARANO MOSSANO_ple.gml,12509,Auto intersezione
-Veneto\M421_BORGO VALBELLUNA_ple.gml,36151,Auto intersezione
-Veneto\M421_BORGO VALBELLUNA_ple.gml,40216,Auto intersezione
+Regione,File,Feature ID,Messaggio di errore
+Abruzzo,A018_ACCIANO_ple.gml,20823,Troppi pochi punti nella geometria
+Abruzzo,A345_L`AQUILA_ple.gml,63645,Auto intersezione con anello
+Abruzzo,A345_L`AQUILA_ple.gml,132451,Auto intersezione
+Abruzzo,A398_ARI_ple.gml,8506,Auto intersezione con anello
+Abruzzo,A488_ATRI_ple.gml,13042,Auto intersezione con anello
+Abruzzo,A488_ATRI_ple.gml,20064,Auto intersezione con anello
+Abruzzo,A488_ATRI_ple.gml,20380,Troppi pochi punti nella geometria
+Abruzzo,A488_ATRI_ple.gml,20384,Auto intersezione
+Abruzzo,A667_BARISCIANO_ple.gml,42902,Auto intersezione con anello
+Abruzzo,A746_BELLANTE_ple.gml,13345,Auto intersezione con anello
+Abruzzo,A945_BOLOGNANO_ple.gml,8718,Auto intersezione
+Abruzzo,B294_BUSSI SUL TIRINO_ple.gml,8895,Troppi pochi punti nella geometria
+Abruzzo,B515_CAMPLI_ple.gml,15201,Auto intersezione con anello
+Abruzzo,B515_CAMPLI_ple.gml,28648,Auto intersezione
+Abruzzo,B526_CAMPO DI GIOVE_ple.gml,4412,Auto intersezione
+Abruzzo,B624_CANSANO_ple.gml,2428,Auto intersezione
+Abruzzo,B722_CARAMANICO TERME_ple.gml,30023,Auto intersezione
+Abruzzo,C517_CERMIGNANO_ple.gml,13654,Auto intersezione
+Abruzzo,C632_CHIETI_ple.gml,43668,Auto intersezione
+Abruzzo,C783_CIVITELLA ROVETO_ple.gml,8796,Auto intersezione
+Abruzzo,C856_COLLEDIMEZZO_ple.gml,5659,Troppi pochi punti nella geometria
+Abruzzo,D076_CORTINO_ple.gml,14942,Troppi pochi punti nella geometria
+Abruzzo,D736_FOSSA_ple.gml,4964,Auto intersezione
+Abruzzo,D738_FOSSACESIA_ple.gml,18933,Auto intersezione
+Abruzzo,D763_FRANCAVILLA AL MARE_ple.gml,25767,Auto intersezione con anello
+Abruzzo,E811_MAGLIANO DE` MARSI_ple.gml,2626,Auto intersezione con anello
+Abruzzo,F022_MASSA D`ALBE_ple.gml,11929,Troppi pochi punti nella geometria
+Abruzzo,F578_MONTENERODOMO_ple.gml,5409,Auto intersezione
+Abruzzo,F582_MONTEODORISIO_ple.gml,5100,Auto intersezione
+Abruzzo,F582_MONTEODORISIO_ple.gml,7487,Auto intersezione
+Abruzzo,F585_ROSETO DEGLI ABRUZZI_ple.gml,23332,Auto intersezione con anello
+Abruzzo,F690_MONTORIO AL VOMANO_ple.gml,25917,Troppi pochi punti nella geometria
+Abruzzo,F852_NAVELLI_ple.gml,31373,Auto intersezione con anello
+Abruzzo,G002_OFENA_ple.gml,15282,Auto intersezione con anello
+Abruzzo,G200_OVINDOLI_ple.gml,1659,Auto intersezione
+Abruzzo,G200_OVINDOLI_ple.gml,10449,Auto intersezione con anello
+Abruzzo,G237_PAGLIETA_ple.gml,9783,Auto intersezione
+Abruzzo,G290_PALMOLI_ple.gml,11619,Auto intersezione
+Abruzzo,G484_PESCASSEROLI_ple.gml,4251,Auto intersezione
+Abruzzo,G524_PETTORANO SUL GIZIO_ple.gml,4345,Auto intersezione
+Abruzzo,G524_PETTORANO SUL GIZIO_ple.gml,13854,Auto intersezione
+Abruzzo,G608_PIETRACAMELA_ple.gml,5282,Auto intersezione con anello
+Abruzzo,G608_PIETRACAMELA_ple.gml,5486,Auto intersezione con anello
+Abruzzo,G608_PIETRACAMELA_ple.gml,10466,Auto intersezione con anello
+Abruzzo,G760_POGGIOFIORITO_ple.gml,5592,Auto intersezione
+Abruzzo,H007_PRATOLA PELIGNA_ple.gml,9671,Auto intersezione
+Abruzzo,H007_PRATOLA PELIGNA_ple.gml,17182,Auto intersezione
+Abruzzo,H166_RAIANO_ple.gml,2650,Auto intersezione
+Abruzzo,H166_RAIANO_ple.gml,3704,Auto intersezione
+Abruzzo,H166_RAIANO_ple.gml,9524,Auto intersezione
+Abruzzo,H166_RAIANO_ple.gml,13972,Auto intersezione
+Abruzzo,H353_RIVISONDOLI_ple.gml,2335,Auto intersezione
+Abruzzo,H389_ROCCACASALE_ple.gml,4460,Auto intersezione
+Abruzzo,H402_ROCCA DI MEZZO_ple.gml,31462,Auto intersezione con anello
+Abruzzo,H819_S DEMETRIO NE` VESTINI_ple.gml,15623,Troppi pochi punti nella geometria
+Abruzzo,I394_SAN VITO CHIETINO_ple.gml,4254,Auto intersezione
+Abruzzo,I543_SCONTRONE_ple.gml,6762,Auto intersezione
+Abruzzo,I543_SCONTRONE_ple.gml,9215,Auto intersezione
+Abruzzo,I546_SCOPPITO_ple.gml,13648,Auto intersezione
+Abruzzo,L103_TERAMO_ple.gml,62928,Auto intersezione
+Abruzzo,L173_TIONE DEGLI ABRUZZI_ple.gml,9738,Auto intersezione
+Abruzzo,L227_TORNIMPARTE_ple.gml,22671,Auto intersezione
+Abruzzo,L227_TORNIMPARTE_ple.gml,23084,Auto intersezione
+Abruzzo,L253_TORREBRUNA_ple.gml,1995,Auto intersezione
+Abruzzo,L295_TORRICELLA SICURA_ple.gml,16619,Auto intersezione con anello
+Abruzzo,L295_TORRICELLA SICURA_ple.gml,17308,Troppi pochi punti nella geometria
+Abruzzo,L307_TORTORETO_ple.gml,14711,Troppi pochi punti nella geometria
+Abruzzo,L958_VILLALAGO_ple.gml,11426,Auto intersezione
+Basilicata,A131_ALBANO DI LUCANIA_ple.gml,8501,Auto intersezione
+Basilicata,A321_ANZI_ple.gml,7643,Auto intersezione
+Basilicata,A612_BANZI_ple.gml,3721,Auto intersezione
+Basilicata,A743_BELLA_ple.gml,328,Auto intersezione
+Basilicata,A743_BELLA_ple.gml,2987,Auto intersezione
+Basilicata,A743_BELLA_ple.gml,11459,Auto intersezione
+Basilicata,B173_BRIENZA_ple.gml,16568,Auto intersezione
+Basilicata,B173_BRIENZA_ple.gml,17741,Auto intersezione
+Basilicata,B173_BRIENZA_ple.gml,29448,Auto intersezione
+Basilicata,B173_BRIENZA_ple.gml,30426,Auto intersezione
+Basilicata,B173_BRIENZA_ple.gml,32067,Auto intersezione
+Basilicata,B580_CANCELLARA_ple.gml,1091,Auto intersezione
+Basilicata,B580_CANCELLARA_ple.gml,7816,Auto intersezione
+Basilicata,C345_CASTRONUOVO SANT`ANDREA_ple.gml,10829,Auto intersezione
+Basilicata,C619_CHIAROMONTE_ple.gml,4159,Auto intersezione
+Basilicata,C619_CHIAROMONTE_ple.gml,12673,Auto intersezione
+Basilicata,D766_FRANCAVILLA IN SINNI_ple.gml,4087,Auto intersezione
+Basilicata,E093_GORGOGLIONE_ple.gml,7160,Auto intersezione con anello
+Basilicata,E221_GRUMENTO NOVA_ple.gml,8563,Auto intersezione
+Basilicata,E246_GUARDIA PERTICARA_ple.gml,9578,Auto intersezione
+Basilicata,E976_MARSICO NUOVO_ple.gml,11752,Auto intersezione
+Basilicata,E977_MARSICOVETERE_ple.gml,15584,Auto intersezione
+Basilicata,F006_MASCHITO_ple.gml,4784,Auto intersezione
+Basilicata,F295_MOLITERNO_ple.gml,2727,Auto intersezione
+Basilicata,F295_MOLITERNO_ple.gml,6537,Auto intersezione
+Basilicata,F568_MONTEMILONE_ple.gml,2550,Auto intersezione
+Basilicata,F573_MONTEMURRO_ple.gml,367,Auto intersezione
+Basilicata,F573_MONTEMURRO_ple.gml,10589,Auto intersezione
+Basilicata,F637_MONTESCAGLIOSO_ple.gml,8169,Auto intersezione
+Basilicata,F637_MONTESCAGLIOSO_ple.gml,29509,Troppi pochi punti nella geometria
+Basilicata,F637_MONTESCAGLIOSO_ple.gml,29510,Troppi pochi punti nella geometria
+Basilicata,F917_NOEPOLI_ple.gml,2192,Auto intersezione
+Basilicata,F917_NOEPOLI_ple.gml,4524,Auto intersezione
+Basilicata,G037_OLIVETO LUCANO_ple.gml,6565,Troppi pochi punti nella geometria
+Basilicata,G623_PIETRAPERTOSA_ple.gml,12135,Auto intersezione
+Basilicata,G663_PIGNOLA_ple.gml,7620,Auto intersezione
+Basilicata,G806_POMARICO_ple.gml,2801,Auto intersezione
+Basilicata,H426_ROCCANOVA_ple.gml,1750,Auto intersezione
+Basilicata,H426_ROCCANOVA_ple.gml,9175,Auto intersezione
+Basilicata,H808_SAN COSTANTINO ALBANESE_ple.gml,6620,Auto intersezione
+Basilicata,H831_SAN FELE_ple.gml,987,Auto intersezione
+Basilicata,I157_SAN SEVERINO LUCANO_ple.gml,13140,Auto intersezione
+Basilicata,I305_SANT`ARCANGELO_ple.gml,5830,Auto intersezione
+Basilicata,I305_SANT`ARCANGELO_ple.gml,19168,Auto intersezione
+Basilicata,L181_TITO_ple.gml,2071,Auto intersezione
+Basilicata,L181_TITO_ple.gml,20094,Auto intersezione
+Basilicata,L326_TRAMUTOLA_ple.gml,9549,Auto intersezione
+Basilicata,L326_TRAMUTOLA_ple.gml,9963,Auto intersezione
+Basilicata,L418_TRICARICO_ple.gml,20050,Auto intersezione con anello
+Basilicata,L738_VENOSA_ple.gml,17248,Auto intersezione
+Basilicata,L859_VIETRI DI POTENZA_ple.gml,12274,Auto intersezione
+Basilicata,L873_VIGGIANELLO_ple.gml,32143,Auto intersezione con anello
+Calabria,A160_ALBIDONA_ple.gml,6889,Auto intersezione
+Calabria,A253_AMANTEA_ple.gml,18535,Auto intersezione
+Calabria,A340_APRIGLIANO_ple.gml,8512,Auto intersezione
+Calabria,A340_APRIGLIANO_ple.gml,10332,Auto intersezione
+Calabria,A912_BOCCHIGLIERO_ple.gml,205,Auto intersezione
+Calabria,B002_BORGIA_ple.gml,12150,Auto intersezione
+Calabria,B002_BORGIA_ple.gml,14127,Auto intersezione
+Calabria,B591_CANDIDONI_ple.gml,1275,Auto intersezione
+Calabria,B968_CASTELSILANO_ple.gml,N/A,"Errore nella lettura del file: not well-formed (invalid token): line 16, column 74"
+Calabria,C002_CASSANO ALLO IONIO_ple.gml,26146,Auto intersezione
+Calabria,C108_CASTROLIBERO_ple.gml,1490,Auto intersezione con anello
+Calabria,C108_CASTROLIBERO_ple.gml,6420,Auto intersezione con anello
+Calabria,C352_CATANZARO_ple.gml,6183,Auto intersezione
+Calabria,C352_CATANZARO_ple.gml,8133,Auto intersezione
+Calabria,C352_CATANZARO_ple.gml,15137,Auto intersezione
+Calabria,C352_CATANZARO_ple.gml,15241,Auto intersezione
+Calabria,C352_CATANZARO_ple.gml,20910,Auto intersezione con anello
+Calabria,C352_CATANZARO_ple.gml,32037,Auto intersezione
+Calabria,C352_CATANZARO_ple.gml,42203,Auto intersezione
+Calabria,C616_CHIARAVALLE CENTRALE_ple.gml,6853,Auto intersezione
+Calabria,C695_CIMINA`_ple.gml,2508,Auto intersezione
+Calabria,C726_CIRO` MARINA_ple.gml,16657,Troppi pochi punti nella geometria
+Calabria,C795_CLETO_ple.gml,2480,Auto intersezione
+Calabria,D049_CORTALE_ple.gml,4483,Auto intersezione
+Calabria,D086_COSENZA_ple.gml,14747,Auto intersezione
+Calabria,D086_COSENZA_ple.gml,27518,Auto intersezione
+Calabria,D189_CRUCOLI_ple.gml,8287,Troppi pochi punti nella geometria
+Calabria,D290_SCIGLIANO_ple.gml,5586,Auto intersezione
+Calabria,D464_FAGNANO CASTELLO_ple.gml,6555,Auto intersezione
+Calabria,D544_FEROLETO ANTICO_ple.gml,6137,Auto intersezione
+Calabria,D746_MONTEBELLO JONICO_ple.gml,2682,Auto intersezione
+Calabria,D746_MONTEBELLO JONICO_ple.gml,17889,Auto intersezione
+Calabria,D746_MONTEBELLO JONICO_ple.gml,21490,Auto intersezione
+Calabria,D828_FUSCALDO_ple.gml,16773,Auto intersezione
+Calabria,E068_GIZZERIA_ple.gml,14572,Auto intersezione
+Calabria,E212_GROTTERIA_ple.gml,7895,Auto intersezione
+Calabria,E212_GROTTERIA_ple.gml,11857,Auto intersezione
+Calabria,E407_LAGO_ple.gml,11374,Auto intersezione
+Calabria,E407_LAGO_ple.gml,14012,Auto intersezione
+Calabria,E419_LAINO CASTELLO_ple.gml,9460,Auto intersezione
+Calabria,E419_LAINO CASTELLO_ple.gml,10741,Auto intersezione
+Calabria,E479_LAUREANA DI BORRELLO_ple.gml,6137,Auto intersezione
+Calabria,E479_LAUREANA DI BORRELLO_ple.gml,8656,Auto intersezione
+Calabria,E479_LAUREANA DI BORRELLO_ple.gml,9352,Auto intersezione
+Calabria,E678_LONGOBUCCO_ple.gml,818,Auto intersezione
+Calabria,E745_LUNGRO_ple.gml,1189,Auto intersezione
+Calabria,E834_MAIDA_ple.gml,6445,Auto intersezione
+Calabria,E834_MAIDA_ple.gml,10827,Auto intersezione
+Calabria,E914_MARANO MARCHESATO_ple.gml,4047,Troppi pochi punti nella geometria
+Calabria,F207_MILETO_ple.gml,1863,Auto intersezione con anello
+Calabria,F207_MILETO_ple.gml,13721,Auto intersezione
+Calabria,F301_MOLOCHIO_ple.gml,74,Auto intersezione
+Calabria,F416_MONTALTO UFFUGO_ple.gml,10860,Auto intersezione
+Calabria,F519_MONTEGIORDANO_ple.gml,1865,Auto intersezione
+Calabria,F519_MONTEGIORDANO_ple.gml,5666,Auto intersezione
+Calabria,F519_MONTEGIORDANO_ple.gml,8536,Auto intersezione
+Calabria,F708_MORANO CALABRO_ple.gml,8783,Auto intersezione
+Calabria,F780_MOTTA SANTA LUCIA_ple.gml,6952,Auto intersezione
+Calabria,F910_NOCERA TERINESE_ple.gml,832,Auto intersezione con anello
+Calabria,G082_OPPIDO MAMERTINA_ple.gml,554,Auto intersezione
+Calabria,G082_OPPIDO MAMERTINA_ple.gml,13318,Auto intersezione
+Calabria,G082_OPPIDO MAMERTINA_ple.gml,14658,Auto intersezione
+Calabria,G129_ORSOMARSO_ple.gml,13200,Auto intersezione
+Calabria,G272_PALERMITI_ple.gml,676,Auto intersezione
+Calabria,G277_PALIZZI_ple.gml,2615,Auto intersezione
+Calabria,G288_PALMI_ple.gml,21185,Troppi pochi punti nella geometria
+Calabria,G733_PLATACI_ple.gml,5708,Auto intersezione
+Calabria,G734_PLATANIA_ple.gml,5290,Auto intersezione
+Calabria,H235_RENDE_ple.gml,18082,Auto intersezione
+Calabria,H265_RIACE_ple.gml,464,Auto intersezione
+Calabria,H572_ROSETO CAPO SPULICO_ple.gml,134,Auto intersezione
+Calabria,H825_SAN DONATO DI NINEA_ple.gml,4712,Auto intersezione
+Calabria,H877_SANGINETO_ple.gml,10400,Auto intersezione
+Calabria,H992_SAN MARTINO DI FINITA_ple.gml,3724,Auto intersezione
+Calabria,I139_SAN ROBERTO_ple.gml,4326,Auto intersezione
+Calabria,I139_SAN ROBERTO_ple.gml,11280,Auto intersezione
+Calabria,I165_SAN SOSTI_ple.gml,314,Auto intersezione
+Calabria,I165_SAN SOSTI_ple.gml,4757,Auto intersezione
+Calabria,I198_SANT`AGATA DEL BIANCO_ple.gml,220,Auto intersezione
+Calabria,I333_S EUFEMIA D`ASPROMONTE_ple.gml,250,Auto intersezione
+Calabria,I388_SAN VINCENZO LA COSTA_ple.gml,12,Auto intersezione
+Calabria,I536_SCIDO_ple.gml,2562,Auto intersezione
+Calabria,I537_SCILLA_ple.gml,3780,Troppi pochi punti nella geometria
+Calabria,I600_SEMINARA_ple.gml,12728,Auto intersezione
+Calabria,I655_SERRASTRETTA_ple.gml,12008,Auto intersezione
+Calabria,I955_STIGNANO_ple.gml,3450,Auto intersezione
+Calabria,I956_STILO_ple.gml,10341,Auto intersezione
+Calabria,L063_TAURIANOVA_ple.gml,18558,Auto intersezione con anello
+Calabria,L070_TAVERNA_ple.gml,4306,Auto intersezione
+Calabria,M403_CORIGLIANO-ROSSANO_ple.gml,13762,Auto intersezione
+Calabria,M403_CORIGLIANO-ROSSANO_ple.gml,57156,Auto intersezione
+Calabria,M403_CORIGLIANO-ROSSANO_ple.gml,69542,Auto intersezione
+Campania,A023_ACERNO_ple.gml,7847,Auto intersezione
+Campania,A091_AGROPOLI_ple.gml,10428,Auto intersezione
+Campania,A243_ALVIGNANO_ple.gml,8611,Auto intersezione
+Campania,A243_ALVIGNANO_ple.gml,11663,Auto intersezione
+Campania,A330_APOLLOSA_ple.gml,10623,Auto intersezione con anello
+Campania,A455_ARZANO_ple.gml,5438,Troppi pochi punti nella geometria
+Campania,A484_ATENA LUCANA_ple.gml,2466,Auto intersezione con anello
+Campania,A484_ATENA LUCANA_ple.gml,2484,Auto intersezione con anello
+Campania,A484_ATENA LUCANA_ple.gml,10909,Troppi pochi punti nella geometria
+Campania,A535_BACOLI_ple.gml,3357,Auto intersezione con anello
+Campania,A674_BARONISSI_ple.gml,4791,Auto intersezione
+Campania,A674_BARONISSI_ple.gml,9963,Auto intersezione
+Campania,A881_BISACCIA_ple.gml,27439,Auto intersezione
+Campania,B242_BUCCINO_ple.gml,25731,Auto intersezione
+Campania,B242_BUCCINO_ple.gml,29144,Auto intersezione
+Campania,B644_CAPACCIO_ple.gml,16865,Auto intersezione
+Campania,B644_CAPACCIO_ple.gml,21545,Auto intersezione
+Campania,B644_CAPACCIO_ple.gml,23383,Auto intersezione
+Campania,B866_CASALBORE_ple.gml,5691,Auto intersezione
+Campania,B888_CASALETTO SPARTANO_ple.gml,1953,Auto intersezione
+Campania,B895_CASAL VELINO_ple.gml,3547,Auto intersezione
+Campania,B895_CASAL VELINO_ple.gml,9113,Auto intersezione
+Campania,B959_CASELLE IN PITTARI_ple.gml,5971,Auto intersezione
+Campania,C058_CASTEL BARONIA_ple.gml,3732,Auto intersezione
+Campania,C069_CASTELCIVITA_ple.gml,1348,Auto intersezione
+Campania,C125_CASTELLABATE_ple.gml,7344,Auto intersezione
+Campania,C245_CASTELPAGANO_ple.gml,13400,Auto intersezione
+Campania,C262_CASTEL SAN LORENZO_ple.gml,2220,Auto intersezione
+Campania,C283_CASTELVETERE SUL CALORE_ple.gml,992,Auto intersezione
+Campania,C470_CENTOLA_ple.gml,1525,Auto intersezione
+Campania,C470_CENTOLA_ple.gml,3221,Auto intersezione
+Campania,C470_CENTOLA_ple.gml,9349,Auto intersezione
+Campania,C470_CENTOLA_ple.gml,19256,Auto intersezione
+Campania,C470_CENTOLA_ple.gml,23999,Auto intersezione
+Campania,C675_CICCIANO_ple.gml,6666,Auto intersezione con anello
+Campania,C676_CICERALE_ple.gml,5103,Auto intersezione
+Campania,C846_COLLE SANNITA_ple.gml,650,Auto intersezione
+Campania,C973_CONTRONE_ple.gml,1621,Auto intersezione
+Campania,C974_CONTURSI TERME_ple.gml,7319,Auto intersezione
+Campania,C974_CONTURSI TERME_ple.gml,9710,Auto intersezione
+Campania,C974_CONTURSI TERME_ple.gml,10241,Auto intersezione
+Campania,C974_CONTURSI TERME_ple.gml,12346,Auto intersezione
+Campania,D230_CUSANO MUTRI_ple.gml,8466,Auto intersezione
+Campania,D469_FAICCHIO_ple.gml,8444,Auto intersezione
+Campania,D527_FELITTO_ple.gml,2017,Auto intersezione
+Campania,D527_FELITTO_ple.gml,4696,Auto intersezione
+Campania,D638_FLUMERI_ple.gml,7369,Auto intersezione
+Campania,D755_FRAGNETO L`ABATE_ple.gml,994,Auto intersezione
+Campania,D784_FRASSO TELESINO_ple.gml,3208,Auto intersezione
+Campania,D886_GALLUCCIO_ple.gml,6474,Auto intersezione
+Campania,E026_GIFFONI SEI CASALI_ple.gml,1842,Auto intersezione
+Campania,E131_GRAGNANO_ple.gml,9240,Auto intersezione con anello
+Campania,E131_GRAGNANO_ple.gml,9242,Auto intersezione con anello
+Campania,E161_GRECI_ple.gml,8437,Auto intersezione
+Campania,E396_LACCO AMENO_ple.gml,4674,Auto intersezione con anello
+Campania,E485_LAURINO_ple.gml,7673,Auto intersezione
+Campania,E486_LAURITO_ple.gml,1579,Auto intersezione
+Campania,E605_LIONI_ple.gml,9797,Auto intersezione
+Campania,E814_MAGLIANO VETERE_ple.gml,2564,Auto intersezione
+Campania,E814_MAGLIANO VETERE_ple.gml,2735,Auto intersezione
+Campania,F397_MONTAGUTO_ple.gml,4113,Auto intersezione
+Campania,F426_MONTANO ANTILIA_ple.gml,5492,Auto intersezione
+Campania,F448_MONTECALVO IRPINO_ple.gml,11937,Auto intersezione
+Campania,F559_MONTEMARANO_ple.gml,2601,Auto intersezione
+Campania,F559_MONTEMARANO_ple.gml,12949,Auto intersezione
+Campania,F744_MORRA DE SANCTIS_ple.gml,8901,Auto intersezione
+Campania,F924_NOLA_ple.gml,16813,Auto intersezione con anello
+Campania,F924_NOLA_ple.gml,16848,Auto intersezione con anello
+Campania,G226_PADULA_ple.gml,2023,Auto intersezione
+Campania,G226_PADULA_ple.gml,18321,Auto intersezione
+Campania,G227_PADULI_ple.gml,19368,Auto intersezione con anello
+Campania,G227_PADULI_ple.gml,19369,Auto intersezione
+Campania,G311_PANNARANO_ple.gml,7055,Troppi pochi punti nella geometria
+Campania,G370_PATERNOPOLI_ple.gml,6863,Auto intersezione
+Campania,G370_PATERNOPOLI_ple.gml,9528,Auto intersezione
+Campania,G626_PIETRAROIA_ple.gml,2115,Auto intersezione
+Campania,G902_PORTICI_ple.gml,5667,Auto intersezione con anello
+Campania,G939_POSTIGLIONE_ple.gml,13571,Auto intersezione
+Campania,H045_PRESENZANO_ple.gml,3291,Auto intersezione
+Campania,H045_PRESENZANO_ple.gml,3339,Auto intersezione
+Campania,H114_QUARTO_ple.gml,11964,Auto intersezione con anello
+Campania,H128_QUINDICI_ple.gml,5689,Auto intersezione
+Campania,H227_REINO_ple.gml,6019,Auto intersezione
+Campania,H382_ROCCABASCERANA_ple.gml,12019,Auto intersezione
+Campania,H398_ROCCA D`EVANDRO_ple.gml,6089,Auto intersezione
+Campania,H423_ROCCAMONFINA_ple.gml,1754,Auto intersezione
+Campania,H423_ROCCAMONFINA_ple.gml,10873,Auto intersezione
+Campania,H438_ROCCA SAN FELICE_ple.gml,6000,Auto intersezione
+Campania,H764_SAN BARTOLOMEO IN GALDO_ple.gml,1219,Auto intersezione
+Campania,H860_SAN GENNARO VESUVIANO_ple.gml,8102,Troppi pochi punti nella geometria
+Campania,I089_SAN PIETRO AL TANAGRO_ple.gml,6616,Auto intersezione con anello
+Campania,I197_SANT`AGATA DE` GOTI_ple.gml,7477,Auto intersezione
+Campania,I281_S ANGELO DEI LOMBARDI_ple.gml,39351,Auto intersezione
+Campania,I469_SAVIANO_ple.gml,6133,Auto intersezione con anello
+Campania,I630_SERINO_ple.gml,5653,Auto intersezione
+Campania,I630_SERINO_ple.gml,8888,Auto intersezione
+Campania,I630_SERINO_ple.gml,12710,Auto intersezione
+Campania,L083_TEANO_ple.gml,7333,Auto intersezione
+Campania,L254_TORRECUSO_ple.gml,2717,Auto intersezione
+Campania,L254_TORRECUSO_ple.gml,7246,Auto intersezione
+Campania,L274_TORRE ORSAIA_ple.gml,5566,Auto intersezione
+Campania,L461_TUFO_ple.gml,5830,Troppi pochi punti nella geometria
+Campania,L589_VALLATA_ple.gml,319,Auto intersezione
+Campania,L589_VALLATA_ple.gml,524,Auto intersezione
+Campania,L589_VALLATA_ple.gml,13084,Auto intersezione
+Campania,M092_VITULAZIO_ple.gml,6749,Auto intersezione
+Campania,M093_VITULANO_ple.gml,11119,Auto intersezione
+Campania,M330_MONTORO_ple.gml,20266,Auto intersezione con anello
+Emilia-Romagna,A393_ARGENTA_ple.gml,22913,Auto intersezione
+Emilia-Romagna,A393_ARGENTA_ple.gml,26002,Auto intersezione
+Emilia-Romagna,A393_ARGENTA_ple.gml,30998,Auto intersezione
+Emilia-Romagna,A393_ARGENTA_ple.gml,33673,Auto intersezione con anello
+Emilia-Romagna,A393_ARGENTA_ple.gml,33674,Auto intersezione con anello
+Emilia-Romagna,A393_ARGENTA_ple.gml,33675,Auto intersezione con anello
+Emilia-Romagna,A393_ARGENTA_ple.gml,33676,Auto intersezione con anello
+Emilia-Romagna,A393_ARGENTA_ple.gml,33677,Auto intersezione con anello
+Emilia-Romagna,A393_ARGENTA_ple.gml,33678,Auto intersezione con anello
+Emilia-Romagna,A393_ARGENTA_ple.gml,33679,Auto intersezione
+Emilia-Romagna,A547_BAGNACAVALLO_ple.gml,9689,Auto intersezione con anello
+Emilia-Romagna,A785_BENTIVOGLIO_ple.gml,8173,Auto intersezione con anello
+Emilia-Romagna,A987_BORE_ple.gml,11883,Auto intersezione con anello
+Emilia-Romagna,B034_FIDENZA_ple.gml,758,Auto intersezione
+Emilia-Romagna,B034_FIDENZA_ple.gml,1503,Auto intersezione
+Emilia-Romagna,B034_FIDENZA_ple.gml,5765,Auto intersezione
+Emilia-Romagna,B188_BRISIGHELLA_ple.gml,25890,Troppi pochi punti nella geometria
+Emilia-Romagna,B188_BRISIGHELLA_ple.gml,26198,Auto intersezione con anello
+Emilia-Romagna,B188_BRISIGHELLA_ple.gml,26199,Auto intersezione con anello
+Emilia-Romagna,B332_CADEO_ple.gml,6192,Auto intersezione
+Emilia-Romagna,B405_CALENDASCO_ple.gml,5165,Troppi pochi punti nella geometria
+Emilia-Romagna,B408_CALESTANO_ple.gml,14739,Troppi pochi punti nella geometria
+Emilia-Romagna,B689_MARZABOTTO_ple.gml,7108,Auto intersezione con anello
+Emilia-Romagna,B825_CARPINETI_ple.gml,26897,Auto intersezione
+Emilia-Romagna,B982_CASOLA VALSENIO_ple.gml,12078,Auto intersezione
+Emilia-Romagna,C265_CASTEL SAN PIETRO TERME_ple.gml,23141,Auto intersezione
+Emilia-Romagna,C287_CASTELVETRO DI MODENA_ple.gml,11909,Auto intersezione
+Emilia-Romagna,C339_CASTROCARO TERME T SOLE_ple.gml,7518,Troppi pochi punti nella geometria
+Emilia-Romagna,C339_CASTROCARO TERME T SOLE_ple.gml,7519,Troppi pochi punti nella geometria
+Emilia-Romagna,C553_CERVIA_ple.gml,20643,Troppi pochi punti nella geometria
+Emilia-Romagna,C573_CESENA_ple.gml,68462,Auto intersezione
+Emilia-Romagna,C573_CESENA_ple.gml,91382,Auto intersezione
+Emilia-Romagna,C573_CESENA_ple.gml,91547,Troppi pochi punti nella geometria
+Emilia-Romagna,C574_CESENATICO_ple.gml,17956,Auto intersezione
+Emilia-Romagna,C852_COLLECCHIO_ple.gml,10829,Troppi pochi punti nella geometria
+Emilia-Romagna,C951_CONCORDIA SULLA SECCHIA_ple.gml,10185,Auto intersezione
+Emilia-Romagna,C980_COPPARO_ple.gml,22281,Auto intersezione con anello
+Emilia-Romagna,D037_CORREGGIO_ple.gml,16318,Auto intersezione con anello
+Emilia-Romagna,D450_FABBRICO_ple.gml,3550,Auto intersezione con anello
+Emilia-Romagna,D486_FANANO_ple.gml,22853,Auto intersezione con anello
+Emilia-Romagna,D526_FELINO_ple.gml,8814,Auto intersezione con anello
+Emilia-Romagna,D548_FERRARA_ple.gml,88162,Auto intersezione
+Emilia-Romagna,D704_FORLI_ple.gml,66600,Auto intersezione
+Emilia-Romagna,D728_FORNOVO DI TARO_ple.gml,11986,Auto intersezione con anello
+Emilia-Romagna,D783_FRASSINORO_ple.gml,32986,Troppi pochi punti nella geometria
+Emilia-Romagna,E289_IMOLA_ple.gml,47305,Auto intersezione con anello
+Emilia-Romagna,E438_LANGHIRANO_ple.gml,10419,Auto intersezione con anello
+Emilia-Romagna,E547_LESIGNANO DE` BAGNI_ple.gml,120,Auto intersezione
+Emilia-Romagna,F139_MERCATO SARACENO_ple.gml,19922,Auto intersezione
+Emilia-Romagna,F156_MESOLA_ple.gml,14671,Auto intersezione
+Emilia-Romagna,F240_MIRANDOLA_ple.gml,19609,Troppi pochi punti nella geometria
+Emilia-Romagna,F288_MOLINELLA_ple.gml,515,Auto intersezione con anello
+Emilia-Romagna,F288_MOLINELLA_ple.gml,15620,Troppi pochi punti nella geometria
+Emilia-Romagna,F288_MOLINELLA_ple.gml,15621,Auto intersezione
+Emilia-Romagna,F960_NOVELLARA_ple.gml,6586,Auto intersezione
+Emilia-Romagna,F966_NOVI DI MODENA_ple.gml,9415,Auto intersezione con anello
+Emilia-Romagna,G255_PALANZANO_ple.gml,12684,Auto intersezione
+Emilia-Romagna,G424_PELLEGRINO PARMENSE_ple.gml,6821,Auto intersezione
+Emilia-Romagna,G570_PIANORO_ple.gml,21008,Auto intersezione
+Emilia-Romagna,G916_PORTOMAGGIORE_ple.gml,12912,Auto intersezione con anello
+Emilia-Romagna,G916_PORTOMAGGIORE_ple.gml,17575,Troppi pochi punti nella geometria
+Emilia-Romagna,G972_SASSO MARCONI_ple.gml,22003,Auto intersezione
+Emilia-Romagna,H199_RAVENNA_ple.gml,90572,Auto intersezione
+Emilia-Romagna,H199_RAVENNA_ple.gml,90844,Troppi pochi punti nella geometria
+Emilia-Romagna,H199_RAVENNA_ple.gml,92563,Troppi pochi punti nella geometria
+Emilia-Romagna,H223_REGGIO NELL`EMILIA_ple.gml,11369,Auto intersezione
+Emilia-Romagna,H350_RIVERGARO_ple.gml,9459,Troppi pochi punti nella geometria
+Emilia-Romagna,H593_ROTTOFRENO_ple.gml,6529,Auto intersezione
+Emilia-Romagna,H720_SALSOMAGGIORE_ple.gml,15101,Auto intersezione
+Emilia-Romagna,H720_SALSOMAGGIORE_ple.gml,20008,Auto intersezione
+Emilia-Romagna,H887_SAN GIORGIO PIACENTINO_ple.gml,6225,Troppi pochi punti nella geometria
+Emilia-Romagna,H887_SAN GIORGIO PIACENTINO_ple.gml,6272,Auto intersezione
+Emilia-Romagna,I191_SANT`AGATA BOLOGNESE_ple.gml,3490,Auto intersezione con anello
+Emilia-Romagna,I496_SCANDIANO_ple.gml,15707,Auto intersezione con anello
+Emilia-Romagna,I903_SPILAMBERTO_ple.gml,7998,Auto intersezione con anello
+Emilia-Romagna,L034_TALAMELLO_ple.gml,724,Auto intersezione con anello
+Emilia-Romagna,L034_TALAMELLO_ple.gml,783,Auto intersezione con anello
+Emilia-Romagna,L299_TORRILE_ple.gml,1808,Auto intersezione
+Emilia-Romagna,L346_TRAVERSETOLO_ple.gml,2865,Auto intersezione
+Emilia-Romagna,L348_TRAVO_ple.gml,23172,Auto intersezione
+Emilia-Romagna,L361_TREDOZIO_ple.gml,4171,Auto intersezione
+Emilia-Romagna,L361_TREDOZIO_ple.gml,4273,Auto intersezione con anello
+Emilia-Romagna,L361_TREDOZIO_ple.gml,4830,Auto intersezione
+Emilia-Romagna,L361_TREDOZIO_ple.gml,7143,Auto intersezione con anello
+Emilia-Romagna,L689_VARSI_ple.gml,26773,Auto intersezione
+Emilia-Romagna,L764_VERGHERETO_ple.gml,1056,Auto intersezione
+Emilia-Romagna,L764_VERGHERETO_ple.gml,2102,Auto intersezione
+Emilia-Romagna,L764_VERGHERETO_ple.gml,5089,Auto intersezione
+Emilia-Romagna,L764_VERGHERETO_ple.gml,19226,Auto intersezione con anello
+Emilia-Romagna,L764_VERGHERETO_ple.gml,19579,Auto intersezione
+Emilia-Romagna,L772_VERNASCA_ple.gml,17826,Auto intersezione
+Emilia-Romagna,M110_VOGHIERA_ple.gml,234,Auto intersezione
+Emilia-Romagna,M323_FISCAGLIA_ple.gml,6404,Auto intersezione
+Emilia-Romagna,M386_ALTA VAL TIDONE_ple.gml,17233,Auto intersezione
+Friuli-VeneziaGiulia,A267_AMPEZZO_ple.gml,10527,Auto intersezione con anello
+Friuli-VeneziaGiulia,A491_ATTIMIS_ple.gml,14880,Auto intersezione con anello
+Friuli-VeneziaGiulia,A553_BAGNARIA ARSA_ple.gml,324,Auto intersezione
+Friuli-VeneziaGiulia,A855_BICINICCO_ple.gml,693,Auto intersezione
+Friuli-VeneziaGiulia,A855_BICINICCO_ple.gml,2355,Auto intersezione
+Friuli-VeneziaGiulia,B483_CAMINO AL TAGLIAMENTO_ple.gml,3567,Auto intersezione
+Friuli-VeneziaGiulia,B940_CASARSA DELLA DELIZIA_ple.gml,7699,Auto intersezione con anello
+Friuli-VeneziaGiulia,C817_CODROIPO_ple.gml,7507,Auto intersezione
+Friuli-VeneziaGiulia,C817_CODROIPO_ple.gml,13245,Auto intersezione
+Friuli-VeneziaGiulia,D085_COSEANO_ple.gml,4502,Auto intersezione
+Friuli-VeneziaGiulia,D455_FAEDIS_ple.gml,20424,Troppi pochi punti nella geometria
+Friuli-VeneziaGiulia,D804_FRISANCO_ple.gml,12153,Auto intersezione con anello
+Friuli-VeneziaGiulia,G966_POZZUOLO DEL FRIULI_ple.gml,12682,Troppi pochi punti nella geometria
+Friuli-VeneziaGiulia,H040_PREPOTTO_ple.gml,5482,Auto intersezione
+Friuli-VeneziaGiulia,H206_REANA DEL ROIALE_ple.gml,6822,Auto intersezione
+Friuli-VeneziaGiulia,H242_RESIA_ple.gml,5240,Auto intersezione con anello
+Friuli-VeneziaGiulia,I479_SAVOGNA D`ISONZO_ple.gml,6538,Auto intersezione
+Friuli-VeneziaGiulia,I621_SEQUALS_ple.gml,1234,Auto intersezione con anello
+Friuli-VeneziaGiulia,L424_TRIESTE_ple.gml,54699,Auto intersezione con anello
+Friuli-VeneziaGiulia,L686_VARMO_ple.gml,7706,Auto intersezione
+Friuli-VeneziaGiulia,M317_RIVIGNANO TEOR_ple.gml,12141,Auto intersezione
+Friuli-VeneziaGiulia,M317_RIVIGNANO TEOR_ple.gml,12224,Troppi pochi punti nella geometria
+Lazio,A123_ALATRI_ple.gml,19508,Auto intersezione
+Lazio,A123_ALATRI_ple.gml,29912,Auto intersezione
+Lazio,A123_ALATRI_ple.gml,47515,Auto intersezione
+Lazio,A244_ALVITO_ple.gml,5355,Auto intersezione
+Lazio,A256_AMASENO_ple.gml,4691,Auto intersezione
+Lazio,A315_ANTRODOCO_ple.gml,557,Auto intersezione
+Lazio,A341_APRILIA_ple.gml,10452,Auto intersezione con anello
+Lazio,A341_APRILIA_ple.gml,46769,Auto intersezione
+Lazio,A341_APRILIA_ple.gml,46854,Auto intersezione
+Lazio,A401_ARICCIA_ple.gml,3233,Auto intersezione
+Lazio,A449_ARTENA_ple.gml,2239,Auto intersezione
+Lazio,A449_ARTENA_ple.gml,8324,Auto intersezione
+Lazio,A704_BASSANO ROMANO_ple.gml,895,Auto intersezione
+Lazio,A707_BASSIANO_ple.gml,4123,Auto intersezione con anello
+Lazio,A707_BASSIANO_ple.gml,4207,Auto intersezione con anello
+Lazio,A765_BELMONTE IN SABINA_ple.gml,3395,Auto intersezione
+Lazio,A996_BORGO VELINO_ple.gml,5954,Auto intersezione
+Lazio,B008_BORGOROSE_ple.gml,10571,Auto intersezione
+Lazio,B496_CAMPAGNANO DI ROMA_ple.gml,6157,Auto intersezione
+Lazio,B527_CAMPODIMELE_ple.gml,4675,Troppi pochi punti nella geometria
+Lazio,B604_CANINO_ple.gml,2390,Auto intersezione
+Lazio,B828_CARPINETO ROMANO_ple.gml,9701,Auto intersezione
+Lazio,C340_CASTROCIELO_ple.gml,8087,Auto intersezione
+Lazio,C552_CERVETERI_ple.gml,11146,Auto intersezione
+Lazio,C740_CISTERNA DI LATINA_ple.gml,7270,Auto intersezione
+Lazio,C740_CISTERNA DI LATINA_ple.gml,11936,Auto intersezione
+Lazio,C740_CISTERNA DI LATINA_ple.gml,21373,Auto intersezione
+Lazio,C740_CISTERNA DI LATINA_ple.gml,24323,Auto intersezione
+Lazio,C740_CISTERNA DI LATINA_ple.gml,27218,Auto intersezione
+Lazio,C746_CITTADUCALE_ple.gml,8162,Auto intersezione
+Lazio,C746_CITTADUCALE_ple.gml,16931,Auto intersezione
+Lazio,C773_CIVITAVECCHIA_ple.gml,2685,Auto intersezione
+Lazio,C773_CIVITAVECCHIA_ple.gml,3799,Auto intersezione
+Lazio,C773_CIVITAVECCHIA_ple.gml,9372,Auto intersezione
+Lazio,C836_COLFELICE_ple.gml,6492,Auto intersezione con anello
+Lazio,C841_COLLALTO SABINO_ple.gml,9430,Troppi pochi punti nella geometria
+Lazio,C857_COLLE DI TORA_ple.gml,1831,Auto intersezione
+Lazio,C864_COLLEPARDO_ple.gml,1687,Auto intersezione
+Lazio,C876_COLLEVECCHIO_ple.gml,4386,Auto intersezione
+Lazio,C946_CONCERVIANO_ple.gml,5287,Auto intersezione
+Lazio,C998_CORENO AUSONIO_ple.gml,10221,Auto intersezione
+Lazio,D539_FERENTINO_ple.gml,3592,Auto intersezione
+Lazio,D539_FERENTINO_ple.gml,24487,Auto intersezione
+Lazio,D662_FONDI_ple.gml,4723,Auto intersezione
+Lazio,D682_FONTECHIARI_ple.gml,3050,Auto intersezione
+Lazio,D682_FONTECHIARI_ple.gml,3369,Auto intersezione
+Lazio,D682_FONTECHIARI_ple.gml,4744,Auto intersezione
+Lazio,D945_GAVIGNANO_ple.gml,4127,Auto intersezione
+Lazio,D972_GENZANO DI ROMA_ple.gml,9600,Auto intersezione
+Lazio,E057_GIULIANO DI ROMA_ple.gml,7203,Auto intersezione
+Lazio,E057_GIULIANO DI ROMA_ple.gml,7596,Auto intersezione
+Lazio,E091_GORGA_ple.gml,1377,Auto intersezione
+Lazio,E091_GORGA_ple.gml,1879,Auto intersezione
+Lazio,E091_GORGA_ple.gml,1956,Auto intersezione
+Lazio,E128_GRAFFIGNANO_ple.gml,5863,Auto intersezione
+Lazio,E204_GROTTAFERRATA_ple.gml,5687,Auto intersezione
+Lazio,E204_GROTTAFERRATA_ple.gml,7646,Auto intersezione
+Lazio,E236_GUARCINO_ple.gml,3850,Auto intersezione
+Lazio,E263_GUIDONIA MONTECELIO_ple.gml,25323,Auto intersezione con anello
+Lazio,E535_LEONESSA_ple.gml,15260,Auto intersezione con anello
+Lazio,E535_LEONESSA_ple.gml,23854,Auto intersezione con anello
+Lazio,E798_MAENZA_ple.gml,5370,Auto intersezione
+Lazio,E924_MARCELLINA_ple.gml,8904,Auto intersezione
+Lazio,F064_MAZZANO ROMANO_ple.gml,2023,Auto intersezione
+Lazio,F064_MAZZANO ROMANO_ple.gml,3661,Auto intersezione
+Lazio,F064_MAZZANO ROMANO_ple.gml,6784,Auto intersezione
+Lazio,F064_MAZZANO ROMANO_ple.gml,8064,Auto intersezione
+Lazio,F064_MAZZANO ROMANO_ple.gml,8067,Auto intersezione
+Lazio,F064_MAZZANO ROMANO_ple.gml,8148,Auto intersezione
+Lazio,F419_MONTALTO DI CASTRO_ple.gml,2977,Auto intersezione
+Lazio,F477_MONTECOMPATRI_ple.gml,8059,Auto intersezione
+Lazio,F499_MONTEFIASCONE_ple.gml,2000,Auto intersezione con anello
+Lazio,F499_MONTEFIASCONE_ple.gml,21715,Auto intersezione con anello
+Lazio,F619_MONTE S GIOVANNI SABINA_ple.gml,1448,Auto intersezione
+Lazio,F619_MONTE S GIOVANNI SABINA_ple.gml,4541,Auto intersezione
+Lazio,F619_MONTE S GIOVANNI SABINA_ple.gml,4543,Auto intersezione
+Lazio,F687_MONTOPOLI DI SABINA_ple.gml,3605,Auto intersezione
+Lazio,F740_MOROLO_ple.gml,103,Auto intersezione
+Lazio,F880_NETTUNO_ple.gml,26122,Auto intersezione con anello
+Lazio,G135_ORTE_ple.gml,2666,Auto intersezione
+Lazio,G135_ORTE_ple.gml,3742,Auto intersezione
+Lazio,G135_ORTE_ple.gml,8996,Auto intersezione
+Lazio,G811_POMEZIA_ple.gml,19876,Troppi pochi punti nella geometria
+Lazio,G934_POSTA_ple.gml,4526,Auto intersezione
+Lazio,H421_ROCCAMASSIMA_ple.gml,4637,Auto intersezione con anello
+Lazio,H446_ROCCA SINIBALDA_ple.gml,5757,Auto intersezione
+Lazio,H501_ROMA_ple.gml,86899,Auto intersezione
+Lazio,H501_ROMA_ple.gml,493300,Auto intersezione
+Lazio,H501_ROMA_ple.gml,493302,Auto intersezione
+Lazio,H647_SABAUDIA_ple.gml,10759,Auto intersezione
+Lazio,I408_SAN VITTORE DEL LAZIO_ple.gml,5519,Auto intersezione
+Lazio,L286_TORRI IN SABINA_ple.gml,3482,Auto intersezione
+Lazio,L398_TREVI NEL LAZIO_ple.gml,6279,Auto intersezione
+Lazio,L614_VALLEROTONDA_ple.gml,23535,Auto intersezione
+Lazio,L614_VALLEROTONDA_ple.gml,23624,Auto intersezione
+Lazio,L719_VELLETRI_ple.gml,58057,Auto intersezione
+Lazio,L814_VETRALLA_ple.gml,9116,Auto intersezione
+Lazio,M213_ARDEA_ple.gml,23938,Auto intersezione con anello
+Liguria,A422_ARNASCO_ple.gml,3791,Auto intersezione con anello
+Liguria,A931_BOISSANO_ple.gml,3005,Auto intersezione
+Liguria,B020_BORGOMARO_ple.gml,1078,Auto intersezione
+Liguria,C657_CHIUSANICO_ple.gml,9472,Auto intersezione
+Liguria,D522_ORCO FEGLINO_ple.gml,9246,Auto intersezione
+Liguria,D969_GENOVA_ple.gml,178999,Auto intersezione
+Liguria,E064_GIUSTENICE_ple.gml,5303,Auto intersezione
+Liguria,E463_LA SPEZIA_ple.gml,63206,Auto intersezione con anello
+Liguria,E542_LERICI_ple.gml,17083,Auto intersezione con anello
+Liguria,E695_LORSICA_ple.gml,3045,Auto intersezione
+Liguria,F445_MONTEBRUNO_ple.gml,13344,Auto intersezione
+Liguria,F813_MURIALDO_ple.gml,3242,Auto intersezione
+Liguria,G093_ORERO_ple.gml,5702,Auto intersezione
+Liguria,G093_ORERO_ple.gml,7971,Auto intersezione
+Liguria,H126_QUILIANO_ple.gml,3139,Auto intersezione
+Liguria,H180_RANZO_ple.gml,9639,Auto intersezione
+Liguria,H581_ROSSIGLIONE_ple.gml,4111,Auto intersezione
+Liguria,I368_SANTO STEFANO D`AVETO_ple.gml,761,Auto intersezione
+Liguria,I368_SANTO STEFANO D`AVETO_ple.gml,24590,Auto intersezione
+Liguria,L681_VARESE LIGURE_ple.gml,33689,Troppi pochi punti nella geometria
+Liguria,L681_VARESE LIGURE_ple.gml,34093,Troppi pochi punti nella geometria
+Liguria,M177_ZIGNAGO_ple.gml,7912,Auto intersezione
+Lombardia,A087_AGRATE BRIANZA_ple.gml,3362,Auto intersezione
+Lombardia,A087_AGRATE BRIANZA_ple.gml,3710,Auto intersezione
+Lombardia,A172_ALBOSAGGIA_ple.gml,1103,Auto intersezione
+Lombardia,A375_ARCONATE_ple.gml,5330,Auto intersezione con anello
+Lombardia,A634_BARBIANELLO_ple.gml,2473,Auto intersezione
+Lombardia,A668_BARLASSINA_ple.gml,2671,Auto intersezione
+Lombardia,A712_BASTIDA PANCARANA_ple.gml,2082,Auto intersezione con anello
+Lombardia,A759_BELLUSCO_ple.gml,4032,Auto intersezione
+Lombardia,A804_BERNATE TICINO_ple.gml,995,Auto intersezione
+Lombardia,A811_BERTONICO_ple.gml,1596,Auto intersezione
+Lombardia,A940_BOLLATE_ple.gml,7538,Auto intersezione
+Lombardia,A995_BORGHETTO LODIGIANO_ple.gml,5343,Auto intersezione
+Lombardia,B162_BRESSO_ple.gml,309,Auto intersezione
+Lombardia,B162_BRESSO_ple.gml,1393,Auto intersezione
+Lombardia,B240_BUCCINASCO_ple.gml,5576,Auto intersezione
+Lombardia,B272_BURAGO DI MOLGORA_ple.gml,1186,Auto intersezione
+Lombardia,C157_CASTELLETTO BRANDUZZO_ple.gml,2272,Auto intersezione
+Lombardia,C523_CERNUSCO SUL NAVIGLIO_ple.gml,9938,Auto intersezione con anello
+Lombardia,C585_CETO_ple.gml,5683,Auto intersezione con anello
+Lombardia,C751_CITTIGLIO_ple.gml,6005,Auto intersezione con anello
+Lombardia,C894_COLOGNO AL SERIO_ple.gml,6634,Troppi pochi punti nella geometria
+Lombardia,C911_COMABBIO_ple.gml,1888,Auto intersezione
+Lombardia,D266_DELEBIO_ple.gml,3270,Auto intersezione
+Lombardia,D352_DOSSENA_ple.gml,4245,Auto intersezione con anello
+Lombardia,D901_GAMBOLO_ple.gml,18218,Auto intersezione
+Lombardia,D925_GARLASCO_ple.gml,7791,Auto intersezione
+Lombardia,D999_GHEDI_ple.gml,2193,Auto intersezione con anello
+Lombardia,D999_GHEDI_ple.gml,11577,Auto intersezione con anello
+Lombardia,E072_GODIASCO_ple.gml,7458,Auto intersezione
+Lombardia,E090_GORDONA_ple.gml,5172,Auto intersezione
+Lombardia,E090_GORDONA_ple.gml,6856,Auto intersezione
+Lombardia,E090_GORDONA_ple.gml,6886,Auto intersezione
+Lombardia,E090_GORDONA_ple.gml,29195,Auto intersezione
+Lombardia,E342_MADESIMO_ple.gml,15507,Auto intersezione
+Lombardia,E342_MADESIMO_ple.gml,21753,Auto intersezione
+Lombardia,E627_LIVRAGA_ple.gml,3180,Auto intersezione
+Lombardia,E896_MANTELLO_ple.gml,3998,Auto intersezione
+Lombardia,E896_MANTELLO_ple.gml,4115,Auto intersezione
+Lombardia,F028_MASSALENGO_ple.gml,1094,Auto intersezione con anello
+Lombardia,F122_MENCONICO_ple.gml,9008,Auto intersezione
+Lombardia,F170_MEZZANA BIGLI_ple.gml,3342,Auto intersezione
+Lombardia,F205_MILANO_ple.gml,61532,Auto intersezione con anello
+Lombardia,F393_MONTAGNA IN VALTELLINA_ple.gml,4820,Auto intersezione
+Lombardia,F440_MONTEBELLO BATTAGLIA_ple.gml,3271,Auto intersezione
+Lombardia,F704_MONZA_ple.gml,23837,Auto intersezione con anello
+Lombardia,G025_OLGIATE COMASCO_ple.gml,7617,Auto intersezione con anello
+Lombardia,G275_PALESTRO_ple.gml,5371,Auto intersezione
+Lombardia,G342_PARONA_ple.gml,2810,Auto intersezione
+Lombardia,G350_PARZANICA_ple.gml,2110,Auto intersezione con anello
+Lombardia,G407_SAN PAOLO_ple.gml,210,Auto intersezione
+Lombardia,G407_SAN PAOLO_ple.gml,3854,Auto intersezione
+Lombardia,G412_PEDRENGO_ple.gml,2195,Auto intersezione con anello
+Lombardia,G469_PERSICO DOSIMO_ple.gml,347,Auto intersezione con anello
+Lombardia,G469_PERSICO DOSIMO_ple.gml,3543,Auto intersezione con anello
+Lombardia,G993_PRATA CAMPORTACCIO_ple.gml,12670,Auto intersezione
+Lombardia,H259_VAL REZZO_ple.gml,2536,Auto intersezione con anello
+Lombardia,H752_SAMOLACO_ple.gml,14728,Auto intersezione
+Lombardia,H868_SAN GIACOMO FILIPPO_ple.gml,23656,Auto intersezione
+Lombardia,I274_SANT`ANGELO LODIGIANO_ple.gml,8232,Auto intersezione
+Lombardia,I632_SERMIDE E FELONICA_ple.gml,14663,Auto intersezione con anello
+Lombardia,I683_SESTO ED UNITI_ple.gml,4406,Auto intersezione con anello
+Lombardia,I815_SOMAGLIA_ple.gml,4699,Auto intersezione
+Lombardia,I828_SONDALO_ple.gml,29474,Auto intersezione
+Lombardia,I906_SPINADESCO_ple.gml,2131,Auto intersezione
+Lombardia,I914_SPINO D`ADDA_ple.gml,5011,Auto intersezione
+Lombardia,I935_STAGNO LOMBARDO_ple.gml,370,Auto intersezione
+Lombardia,L175_TIRANO_ple.gml,7151,Auto intersezione
+Lombardia,L563_VALDISOTTO_ple.gml,21442,Auto intersezione
+Lombardia,L576_VALFURVA_ple.gml,3907,Auto intersezione
+Lombardia,L576_VALFURVA_ple.gml,9590,Auto intersezione
+Lombardia,L593_VALLE LOMELLINA_ple.gml,4064,Troppi pochi punti nella geometria
+Lombardia,L799_VERVIO_ple.gml,7854,Auto intersezione
+Lombardia,L872_VIGEVANO_ple.gml,591,Auto intersezione
+Lombardia,L872_VIGEVANO_ple.gml,32268,Troppi pochi punti nella geometria
+Lombardia,L872_VIGEVANO_ple.gml,32934,Auto intersezione
+Lombardia,M180_ZINASCO_ple.gml,257,Auto intersezione
+Lombardia,M180_ZINASCO_ple.gml,6383,Auto intersezione
+Lombardia,M396_BORGO MANTOVANO_ple.gml,5622,Auto intersezione con anello
+Marche,A044_ACQUASANTA TERME_ple.gml,10441,Auto intersezione con anello
+Marche,A044_ACQUASANTA TERME_ple.gml,19613,Auto intersezione
+Marche,A044_ACQUASANTA TERME_ple.gml,39375,Auto intersezione
+Marche,A044_ACQUASANTA TERME_ple.gml,40082,Auto intersezione
+Marche,A044_ACQUASANTA TERME_ple.gml,40418,Auto intersezione con anello
+Marche,A252_AMANDOLA_ple.gml,24674,Troppi pochi punti nella geometria
+Marche,A252_AMANDOLA_ple.gml,24689,Troppi pochi punti nella geometria
+Marche,A252_AMANDOLA_ple.gml,25001,Auto intersezione con anello
+Marche,A252_AMANDOLA_ple.gml,25010,Auto intersezione con anello
+Marche,A334_APPIGNANO_ple.gml,4892,Auto intersezione con anello
+Marche,A437_ARQUATA DEL TRONTO_ple.gml,10130,Auto intersezione
+Marche,A437_ARQUATA DEL TRONTO_ple.gml,14320,Auto intersezione con anello
+Marche,A462_ASCOLI PICENO_ple.gml,12804,Auto intersezione con anello
+Marche,A462_ASCOLI PICENO_ple.gml,32360,Auto intersezione
+Marche,A462_ASCOLI PICENO_ple.gml,61366,Auto intersezione con anello
+Marche,A462_ASCOLI PICENO_ple.gml,61535,Auto intersezione con anello
+Marche,B562_CAMPOROTONDO FIASTRONE_ple.gml,419,Auto intersezione
+Marche,C251_CASTELRAIMONDO_ple.gml,2128,Auto intersezione
+Marche,C251_CASTELRAIMONDO_ple.gml,8110,Auto intersezione
+Marche,C770_CIVITANOVA MARCHE_ple.gml,18232,Auto intersezione
+Marche,C935_COMUNANZA_ple.gml,23663,Auto intersezione
+Marche,D541_FERMIGNANO_ple.gml,11598,Auto intersezione
+Marche,D542_FERMO_ple.gml,7969,Auto intersezione
+Marche,D542_FERMO_ple.gml,37109,Auto intersezione
+Marche,D564_FIASTRA_ple.gml,5750,Auto intersezione
+Marche,E351_ISOLA DEL PIANO_ple.gml,4720,Auto intersezione con anello
+Marche,E694_LORO PICENO_ple.gml,239,Auto intersezione
+Marche,E783_MACERATA_ple.gml,25854,Auto intersezione con anello
+Marche,E785_MACERATA FELTRIA_ple.gml,3967,Auto intersezione
+Marche,F044_MASSIGNANO_ple.gml,5203,Auto intersezione
+Marche,F454_MONTECASSIANO_ple.gml,7401,Auto intersezione
+Marche,F493_MONTEFALCONE APPENNINO_ple.gml,7041,Auto intersezione con anello
+Marche,F496_MONTEFANO_ple.gml,5157,Troppi pochi punti nella geometria
+Marche,F509_MONTEFORTINO_ple.gml,18777,Auto intersezione
+Marche,F516_MONTEGALLO_ple.gml,16125,Auto intersezione con anello
+Marche,F567_POLLENZA_ple.gml,6306,Auto intersezione
+Marche,F591_MONTEPRANDONE_ple.gml,6,Auto intersezione
+Marche,F621_MONTE SAN GIUSTO_ple.gml,1465,Auto intersezione con anello
+Marche,G137_ORTEZZANO_ple.gml,2631,Auto intersezione
+Marche,G479_PESARO_ple.gml,61917,Auto intersezione
+Marche,G479_PESARO_ple.gml,62338,Troppi pochi punti nella geometria
+Marche,G921_PORTO SANT`ELPIDIO_ple.gml,13178,Auto intersezione
+Marche,H211_RECANATI_ple.gml,4844,Auto intersezione
+Marche,H211_RECANATI_ple.gml,8520,Auto intersezione
+Marche,H809_SAN COSTANZO_ple.gml,4037,Auto intersezione con anello
+Marche,I324_SANT`ELPIDIO A MARE_ple.gml,16830,Auto intersezione con anello
+Marche,I324_SANT`ELPIDIO A MARE_ple.gml,17227,Auto intersezione con anello
+Marche,I461_SASSOFERRATO_ple.gml,43906,Auto intersezione con anello
+Marche,I569_SEFRO_ple.gml,4867,Auto intersezione
+Marche,I774_SMERILLO_ple.gml,7,Auto intersezione con anello
+Marche,I912_SPINETOLI_ple.gml,6643,Auto intersezione con anello
+Marche,L500_URBINO_ple.gml,49765,Troppi pochi punti nella geometria
+Marche,L517_USSITA_ple.gml,2331,Auto intersezione
+Marche,L517_USSITA_ple.gml,10262,Auto intersezione
+Marche,M380_COLLI AL METAURO_ple.gml,14700,Auto intersezione
+Molise,A080_AGNONE_ple.gml,52111,Troppi pochi punti nella geometria
+Molise,C246_CASTELPETROSO_ple.gml,24790,Auto intersezione
+Molise,F495_MONTEFALCONE NEL SANNIO_ple.gml,15694,Troppi pochi punti nella geometria
+Molise,H420_ROCCAMANDOLFI_ple.gml,4357,Auto intersezione
+Molise,H589_ROTELLO_ple.gml,2938,Auto intersezione
+Molise,I096_SAN PIETRO AVELLANA_ple.gml,15,Auto intersezione
+Molise,I096_SAN PIETRO AVELLANA_ple.gml,1506,Auto intersezione
+Molise,I282_SANT`ANGELO DEL PESCO_ple.gml,963,Auto intersezione
+Molise,L725_VENAFRO_ple.gml,7829,Auto intersezione
+Piemonte,A405_ARIGNANO_ple.gml,2974,Auto intersezione
+Piemonte,B058_BORRIANA_ple.gml,2250,Auto intersezione
+Piemonte,B280_BURONZO_ple.gml,1148,Auto intersezione
+Piemonte,B285_BUSCA_ple.gml,8331,Auto intersezione
+Piemonte,B285_BUSCA_ple.gml,14823,Auto intersezione
+Piemonte,B425_CALOSSO_ple.gml,6566,Auto intersezione
+Piemonte,B425_CALOSSO_ple.gml,6581,Auto intersezione con anello
+Piemonte,B431_CALTIGNAGA_ple.gml,2461,Auto intersezione con anello
+Piemonte,B482_CAMINO_ple.gml,2392,Auto intersezione
+Piemonte,B752_CARCOFORO_ple.gml,2021,Auto intersezione
+Piemonte,B782_CARISIO_ple.gml,1609,Auto intersezione
+Piemonte,B823_CARPIGNANO SESIA_ple.gml,6737,Auto intersezione
+Piemonte,C047_CASTAGNOLE MONFERRATO_ple.gml,1745,Auto intersezione con anello
+Piemonte,C049_CASTAGNOLE LANZE_ple.gml,11420,Troppi pochi punti nella geometria
+Piemonte,C166_CASTELLETTO TICINO_ple.gml,11578,Troppi pochi punti nella geometria
+Piemonte,C550_CERVERE_ple.gml,1117,Auto intersezione
+Piemonte,C792_CLAVESANA_ple.gml,4205,Auto intersezione
+Piemonte,C819_COGGIOLA_ple.gml,10654,Auto intersezione
+Piemonte,D119_COSTIGLIOLE D`ASTI_ple.gml,17588,Troppi pochi punti nella geometria
+Piemonte,D120_COSTIGLIOLE SALUZZO_ple.gml,813,Auto intersezione
+Piemonte,D207_CUNICO_ple.gml,3414,Troppi pochi punti nella geometria
+Piemonte,D332_DOMODOSSOLA_ple.gml,10962,Auto intersezione
+Piemonte,D332_DOMODOSSOLA_ple.gml,30891,Troppi pochi punti nella geometria
+Piemonte,D332_DOMODOSSOLA_ple.gml,30894,Troppi pochi punti nella geometria
+Piemonte,D332_DOMODOSSOLA_ple.gml,30904,Troppi pochi punti nella geometria
+Piemonte,D332_DOMODOSSOLA_ple.gml,30906,Troppi pochi punti nella geometria
+Piemonte,D492_FARA NOVARESE_ple.gml,3938,Auto intersezione con anello
+Piemonte,D528_FELIZZANO_ple.gml,920,Auto intersezione
+Piemonte,D528_FELIZZANO_ple.gml,5042,Auto intersezione
+Piemonte,D675_FONTANETO D`AGOGNA_ple.gml,14709,Auto intersezione
+Piemonte,D706_FORMAZZA_ple.gml,3880,Auto intersezione
+Piemonte,D706_FORMAZZA_ple.gml,5486,Auto intersezione
+Piemonte,D706_FORMAZZA_ple.gml,9074,Troppi pochi punti nella geometria
+Piemonte,D712_FORMIGLIANA_ple.gml,431,Auto intersezione
+Piemonte,D781_FRASSINETTO_ple.gml,14098,Auto intersezione
+Piemonte,D872_GALLIATE_ple.gml,23058,Auto intersezione con anello
+Piemonte,D944_GAVI_ple.gml,13859,Auto intersezione
+Piemonte,D944_GAVI_ple.gml,15843,Auto intersezione
+Piemonte,E020_GIAVENO_ple.gml,24160,Auto intersezione
+Piemonte,E130_GRAGLIA_ple.gml,7967,Troppi pochi punti nella geometria
+Piemonte,E130_GRAGLIA_ple.gml,7968,Auto intersezione
+Piemonte,E191_GRONDONA_ple.gml,6741,Auto intersezione
+Piemonte,E314_INVORIO_ple.gml,15016,Auto intersezione
+Piemonte,E338_ISOLA D`ASTI_ple.gml,4997,Auto intersezione
+Piemonte,E583_LIGNANA_ple.gml,427,Auto intersezione
+Piemonte,E790_MACUGNAGA_ple.gml,6589,Auto intersezione
+Piemonte,E790_MACUGNAGA_ple.gml,8339,Auto intersezione
+Piemonte,E808_MAGLIANO ALPI_ple.gml,818,Auto intersezione
+Piemonte,F015_MASIO_ple.gml,6360,Auto intersezione
+Piemonte,F281_MOLARE_ple.gml,1868,Auto intersezione
+Piemonte,F281_MOLARE_ple.gml,4165,Auto intersezione
+Piemonte,F351_MONDOVI`_ple.gml,15864,Auto intersezione
+Piemonte,F351_MONDOVI`_ple.gml,26472,Auto intersezione
+Piemonte,F369_MONGRANDO_ple.gml,13485,Auto intersezione
+Piemonte,F385_MONTA_ple.gml,2412,Auto intersezione con anello
+Piemonte,F527_MONTEGROSSO D`ASTI_ple.gml,2853,Auto intersezione con anello
+Piemonte,F556_MONTEMAGNO MONFERRATO_ple.gml,7676,Troppi pochi punti nella geometria
+Piemonte,F707_MORANO SUL PO_ple.gml,1786,Auto intersezione
+Piemonte,F774_MOTTA DEI CONTI_ple.gml,3395,Auto intersezione
+Piemonte,F814_MURISENGO_ple.gml,6186,Auto intersezione
+Piemonte,F846_NARZOLE_ple.gml,10181,Auto intersezione con anello
+Piemonte,F952_NOVARA_ple.gml,19137,Auto intersezione
+Piemonte,F965_NOVI LIGURE_ple.gml,16039,Auto intersezione con anello
+Piemonte,F972_NUCETTO_ple.gml,322,Auto intersezione
+Piemonte,F997_ODALENGO GRANDE_ple.gml,2738,Auto intersezione
+Piemonte,G087_ORBASSANO_ple.gml,9258,Auto intersezione con anello
+Piemonte,G528_PEZZANA_ple.gml,1848,Auto intersezione
+Piemonte,G960_POZZOL GROPPO_ple.gml,3380,Auto intersezione
+Piemonte,G970_PRADLEVES_ple.gml,394,Auto intersezione con anello
+Piemonte,H085_PRUNETTO_ple.gml,167,Auto intersezione
+Piemonte,H367_ROBASSOMERO_ple.gml,21,Auto intersezione
+Piemonte,H386_ROCCA CANAVESE_ple.gml,16731,Auto intersezione
+Piemonte,H465_ROCCHETTA LIGURE_ple.gml,3011,Auto intersezione
+Piemonte,H538_RONCO BIELLESE_ple.gml,5312,Troppi pochi punti nella geometria
+Piemonte,H900_SAN GIORIO DI SUSA_ple.gml,933,Auto intersezione con anello
+Piemonte,I076_SAN PAOLO SOLBRITO_ple.gml,4160,Auto intersezione
+Piemonte,I144_S SALVATORE MONFERRATO_ple.gml,2317,Auto intersezione
+Piemonte,I144_S SALVATORE MONFERRATO_ple.gml,9738,Auto intersezione
+Piemonte,I249_SANTA MARIA MAGGIORE_ple.gml,8773,Auto intersezione con anello
+Piemonte,I466_SAUZE D`OULX_ple.gml,10533,Auto intersezione
+Piemonte,I470_SAVIGLIANO_ple.gml,18137,Auto intersezione con anello
+Piemonte,I545_SCOPELLO_ple.gml,1212,Auto intersezione
+Piemonte,I678_SESSAME_ple.gml,3437,Troppi pochi punti nella geometria
+Piemonte,I847_SORDEVOLO_ple.gml,2749,Auto intersezione con anello
+Piemonte,I880_SOZZAGO_ple.gml,341,Auto intersezione con anello
+Piemonte,I970_STRAMBINO_ple.gml,14896,Auto intersezione
+Piemonte,I984_STROPPIANA_ple.gml,4141,Auto intersezione
+Piemonte,L165_TICINETO_ple.gml,3422,Auto intersezione
+Piemonte,L356_TRECATE_ple.gml,2208,Auto intersezione con anello
+Piemonte,L516_USSEGLIO_ple.gml,8504,Auto intersezione con anello
+Piemonte,L556_VALDENGO_ple.gml,3582,Auto intersezione
+Piemonte,L580_VALGRANA_ple.gml,7068,Auto intersezione con anello
+Piemonte,L727_VENARIA_ple.gml,6280,Auto intersezione con anello
+Piemonte,M094_VIU`_ple.gml,27279,Auto intersezione
+Piemonte,M123_VOLTAGGIO_ple.gml,650,Auto intersezione
+Piemonte,M133_VOLVERA_ple.gml,3987,Auto intersezione con anello
+Piemonte,M373_CAMPIGLIA CERVO_ple.gml,17076,Troppi pochi punti nella geometria
+Piemonte,M373_CAMPIGLIA CERVO_ple.gml,17077,Troppi pochi punti nella geometria
+Piemonte,M417_VALDILANA_ple.gml,14159,Auto intersezione
+Piemonte,M417_VALDILANA_ple.gml,34863,Auto intersezione
+Piemonte,M417_VALDILANA_ple.gml,35388,Troppi pochi punti nella geometria
+Piemonte,M417_VALDILANA_ple.gml,35670,Auto intersezione
+Piemonte,M417_VALDILANA_ple.gml,35702,Troppi pochi punti nella geometria
+Puglia,A055_ADELFIA_ple.gml,16306,Auto intersezione con anello
+Puglia,A185_ALEZIO_ple.gml,9586,Troppi pochi punti nella geometria
+Puglia,A339_APRICENA_ple.gml,3344,Auto intersezione
+Puglia,A339_APRICENA_ple.gml,6940,Auto intersezione
+Puglia,A339_APRICENA_ple.gml,8990,Auto intersezione
+Puglia,A463_ASCOLI SATRIANO_ple.gml,2494,Auto intersezione con anello
+Puglia,A463_ASCOLI SATRIANO_ple.gml,6268,Auto intersezione con anello
+Puglia,A463_ASCOLI SATRIANO_ple.gml,18113,Auto intersezione
+Puglia,A669_BARLETTA_ple.gml,2625,Auto intersezione
+Puglia,A669_BARLETTA_ple.gml,2881,Auto intersezione
+Puglia,A669_BARLETTA_ple.gml,3131,Auto intersezione
+Puglia,A669_BARLETTA_ple.gml,35191,Auto intersezione
+Puglia,A669_BARLETTA_ple.gml,79935,Auto intersezione
+Puglia,B180_BRINDISI_ple.gml,52815,Auto intersezione con anello
+Puglia,B357_CAGNANO VARANO_ple.gml,10798,Auto intersezione
+Puglia,B357_CAGNANO VARANO_ple.gml,14020,Auto intersezione
+Puglia,B616_CANNOLE_ple.gml,911,Auto intersezione con anello
+Puglia,B822_CARPIGNANO SALENTINO_ple.gml,9627,Auto intersezione con anello
+Puglia,B917_CASALVECCHIO DI PUGLIA_ple.gml,7859,Auto intersezione
+Puglia,B923_CASAMASSIMA_ple.gml,2962,Auto intersezione con anello
+Puglia,C134_CASTELLANA GROTTE_ple.gml,16915,Auto intersezione
+Puglia,C134_CASTELLANA GROTTE_ple.gml,18061,Auto intersezione
+Puglia,C136_CASTELLANETA_ple.gml,31789,Troppi pochi punti nella geometria
+Puglia,C514_CERIGNOLA_ple.gml,57835,Auto intersezione
+Puglia,C514_CERIGNOLA_ple.gml,72082,Auto intersezione
+Puglia,C514_CERIGNOLA_ple.gml,91340,Auto intersezione
+Puglia,C975_CONVERSANO_ple.gml,12330,Auto intersezione
+Puglia,C983_CORATO_ple.gml,11707,Auto intersezione
+Puglia,C983_CORATO_ple.gml,12065,Auto intersezione
+Puglia,C983_CORATO_ple.gml,15468,Auto intersezione
+Puglia,C983_CORATO_ple.gml,39953,Auto intersezione
+Puglia,C983_CORATO_ple.gml,46645,Auto intersezione
+Puglia,D237_CUTROFIANO_ple.gml,12342,Auto intersezione con anello
+Puglia,D237_CUTROFIANO_ple.gml,25887,Troppi pochi punti nella geometria
+Puglia,D754_FRAGAGNANO_ple.gml,6141,Auto intersezione con anello
+Puglia,D761_FRANCAVILLA FONTANA_ple.gml,47448,Auto intersezione
+Puglia,E036_GINOSA_ple.gml,48350,Troppi pochi punti nella geometria
+Puglia,E205_GROTTAGLIE_ple.gml,30657,Auto intersezione con anello
+Puglia,E223_GRUMO APPULA_ple.gml,4662,Auto intersezione
+Puglia,E469_LATERZA_ple.gml,29363,Auto intersezione con anello
+Puglia,E549_LESINA_ple.gml,2681,Auto intersezione
+Puglia,E716_LUCERA_ple.gml,4268,Auto intersezione
+Puglia,E716_LUCERA_ple.gml,37989,Auto intersezione con anello
+Puglia,E716_LUCERA_ple.gml,38002,Auto intersezione con anello
+Puglia,E882_MANDURIA_ple.gml,59112,Troppi pochi punti nella geometria
+Puglia,E882_MANDURIA_ple.gml,59188,Auto intersezione
+Puglia,E946_MARGHERITA DI SAVOIA_ple.gml,3564,Auto intersezione
+Puglia,F027_MASSAFRA_ple.gml,17102,Auto intersezione con anello
+Puglia,F027_MASSAFRA_ple.gml,26366,Troppi pochi punti nella geometria
+Puglia,F027_MASSAFRA_ple.gml,26380,Auto intersezione con anello
+Puglia,F059_MATTINATA_ple.gml,10770,Auto intersezione
+Puglia,F059_MATTINATA_ple.gml,13922,Auto intersezione
+Puglia,F784_MOTTOLA_ple.gml,13087,Auto intersezione con anello
+Puglia,F784_MOTTOLA_ple.gml,27038,Troppi pochi punti nella geometria
+Puglia,F784_MOTTOLA_ple.gml,27039,Auto intersezione con anello
+Puglia,F784_MOTTOLA_ple.gml,27040,Troppi pochi punti nella geometria
+Puglia,F816_MURO LECCESE_ple.gml,4164,Auto intersezione
+Puglia,F842_NARDO`_ple.gml,16577,Auto intersezione
+Puglia,F842_NARDO`_ple.gml,38199,Auto intersezione con anello
+Puglia,F915_NOCI_ple.gml,13039,Auto intersezione
+Puglia,G098_ORIA_ple.gml,26426,Auto intersezione
+Puglia,G098_ORIA_ple.gml,26603,Troppi pochi punti nella geometria
+Puglia,G136_ORTELLE_ple.gml,674,Auto intersezione
+Puglia,G136_ORTELLE_ple.gml,946,Auto intersezione
+Puglia,G188_OTRANTO_ple.gml,13865,Auto intersezione
+Puglia,G487_PESCHICI_ple.gml,5379,Auto intersezione
+Puglia,G604_PIETRAMONTECORVINO_ple.gml,10162,Auto intersezione con anello
+Puglia,H096_PUTIGNANO_ple.gml,250,Auto intersezione
+Puglia,H096_PUTIGNANO_ple.gml,8950,Auto intersezione
+Puglia,H632_RUFFANO_ple.gml,5559,Auto intersezione
+Puglia,H632_RUFFANO_ple.gml,6719,Auto intersezione
+Puglia,H708_SALICE SALENTINO_ple.gml,11,Auto intersezione
+Puglia,H749_SAMMICHELE DI BARI_ple.gml,2199,Auto intersezione con anello
+Puglia,H757_SANARICA_ple.gml,5361,Auto intersezione
+Puglia,H926_SAN GIOVANNI ROTONDO_ple.gml,24718,Auto intersezione
+Puglia,H926_SAN GIOVANNI ROTONDO_ple.gml,26083,Auto intersezione
+Puglia,H926_SAN GIOVANNI ROTONDO_ple.gml,37167,Auto intersezione
+Puglia,I054_SANNICANDRO GARGANICO_ple.gml,3150,Auto intersezione
+Puglia,I054_SANNICANDRO GARGANICO_ple.gml,17940,Auto intersezione
+Puglia,I158_SAN SEVERO_ple.gml,792,Auto intersezione
+Puglia,I158_SAN SEVERO_ple.gml,7092,Auto intersezione
+Puglia,I158_SAN SEVERO_ple.gml,49754,Troppi pochi punti nella geometria
+Puglia,I172_SANTA CESAREA TERME_ple.gml,1426,Auto intersezione
+Puglia,I172_SANTA CESAREA TERME_ple.gml,6786,Auto intersezione
+Puglia,I172_SANTA CESAREA TERME_ple.gml,10173,Auto intersezione
+Puglia,I193_SANT`AGATA DI PUGLIA_ple.gml,4768,Auto intersezione
+Puglia,I193_SANT`AGATA DI PUGLIA_ple.gml,16424,Auto intersezione
+Puglia,I193_SANT`AGATA DI PUGLIA_ple.gml,21176,Auto intersezione
+Puglia,I193_SANT`AGATA DI PUGLIA_ple.gml,24225,Auto intersezione
+Puglia,I396_SAN VITO DEI NORMANNI_ple.gml,2372,Auto intersezione
+Puglia,I907_SPINAZZOLA_ple.gml,1172,Auto intersezione
+Puglia,I907_SPINAZZOLA_ple.gml,4960,Auto intersezione
+Puglia,I907_SPINAZZOLA_ple.gml,8327,Auto intersezione
+Puglia,L049_TARANTO_ple.gml,52554,Auto intersezione
+Puglia,L064_TAURISANO_ple.gml,16847,Auto intersezione
+Puglia,L109_TERLIZZI_ple.gml,20142,Auto intersezione
+Puglia,L213_TORCHIAROLO_ple.gml,7870,Auto intersezione
+Puglia,L273_TORREMAGGIORE_ple.gml,6061,Auto intersezione con anello
+Puglia,L273_TORREMAGGIORE_ple.gml,14367,Auto intersezione
+Puglia,L273_TORREMAGGIORE_ple.gml,26966,Auto intersezione
+Puglia,L273_TORREMAGGIORE_ple.gml,29604,Auto intersezione
+Puglia,L328_TRANI_ple.gml,20510,Auto intersezione
+Puglia,L383_TREPUZZI_ple.gml,15221,Auto intersezione
+Puglia,L425_TRIGGIANO_ple.gml,16618,Auto intersezione con anello
+Puglia,L842_VICO DEL GARGANO_ple.gml,20857,Auto intersezione
+Puglia,L842_VICO DEL GARGANO_ple.gml,23854,Auto intersezione
+Puglia,L842_VICO DEL GARGANO_ple.gml,24382,Auto intersezione con anello
+Puglia,L920_VILLA CASTELLI_ple.gml,14543,Auto intersezione con anello
+Puglia,L920_VILLA CASTELLI_ple.gml,14544,Auto intersezione con anello
+Puglia,M298_STATTE_ple.gml,8973,Troppi pochi punti nella geometria
+Puglia,M298_STATTE_ple.gml,9034,Auto intersezione con anello
+Puglia,M298_STATTE_ple.gml,9035,Auto intersezione con anello
+Sardegna,A180_ALES_ple.gml,5957,Auto intersezione con anello
+Sardegna,A379_ARDARA_ple.gml,2345,Auto intersezione
+Sardegna,A477_ASSOLO_ple.gml,3766,Troppi pochi punti nella geometria
+Sardegna,A621_BARATILI SAN PIETRO_ple.gml,5867,Auto intersezione
+Sardegna,A895_BITTI_ple.gml,872,Auto intersezione
+Sardegna,D287_DESULO_ple.gml,7884,Auto intersezione
+Sardegna,E252_GUASILA_ple.gml,9391,Auto intersezione
+Sardegna,E270_GUSPINI_ple.gml,8535,Auto intersezione
+Sardegna,E270_GUSPINI_ple.gml,8617,Auto intersezione
+Sardegna,E387_JERZU_ple.gml,6651,Auto intersezione
+Sardegna,E747_LUOGOSANTO_ple.gml,3508,Auto intersezione
+Sardegna,E903_MARACALAGONIS_ple.gml,6564,Auto intersezione
+Sardegna,E903_MARACALAGONIS_ple.gml,19544,Auto intersezione
+Sardegna,E903_MARACALAGONIS_ple.gml,22007,Auto intersezione
+Sardegna,E972_MARRUBIU_ple.gml,27158,Auto intersezione con anello
+Sardegna,E972_MARRUBIU_ple.gml,27415,Troppi pochi punti nella geometria
+Sardegna,F208_MILIS_ple.gml,2973,Auto intersezione con anello
+Sardegna,F667_MONTI_ple.gml,5038,Auto intersezione
+Sardegna,F727_MORGONGIORI_ple.gml,5068,Troppi pochi punti nella geometria
+Sardegna,F841_NARCAO_ple.gml,13341,Auto intersezione
+Sardegna,F980_NURACHI_ple.gml,12103,Troppi pochi punti nella geometria
+Sardegna,F983_NURAMINIS_ple.gml,5145,Auto intersezione
+Sardegna,F983_NURAMINIS_ple.gml,6371,Auto intersezione
+Sardegna,F986_NURRI_ple.gml,8259,Auto intersezione con anello
+Sardegna,G156_OSILO_ple.gml,14654,Auto intersezione con anello
+Sardegna,G191_OTTANA_ple.gml,6159,Auto intersezione
+Sardegna,G191_OTTANA_ple.gml,8876,Auto intersezione
+Sardegna,G207_PABILLONIS_ple.gml,2873,Auto intersezione
+Sardegna,G207_PABILLONIS_ple.gml,6856,Auto intersezione
+Sardegna,G207_PABILLONIS_ple.gml,10949,Auto intersezione
+Sardegna,G287_SAN GIOVANNI SUERGIU_ple.gml,991,Auto intersezione
+Sardegna,G287_SAN GIOVANNI SUERGIU_ple.gml,25507,Auto intersezione
+Sardegna,G379_PAU_ple.gml,3163,Auto intersezione con anello
+Sardegna,G384_PAULILATINO_ple.gml,13164,Troppi pochi punti nella geometria
+Sardegna,G450_PERFUGAS_ple.gml,8414,Auto intersezione con anello
+Sardegna,G929_POSADA_ple.gml,4162,Auto intersezione
+Sardegna,G929_POSADA_ple.gml,4669,Auto intersezione
+Sardegna,H659_SADALI_ple.gml,2113,Auto intersezione
+Sardegna,H756_SAMUGHEO_ple.gml,12912,Troppi pochi punti nella geometria
+Sardegna,I205_SANTA GIUSTA_ple.gml,13024,Auto intersezione con anello
+Sardegna,I374_SANTU LUSSURGIU_ple.gml,1687,Auto intersezione con anello
+Sardegna,I452_SASSARI_ple.gml,88737,Troppi pochi punti nella geometria
+Sardegna,I503_SCANO DI MONTIFERRO_ple.gml,10637,Auto intersezione con anello
+Sardegna,I503_SCANO DI MONTIFERRO_ple.gml,11464,Auto intersezione con anello
+Sardegna,I564_SEDILO_ple.gml,13085,Troppi pochi punti nella geometria
+Sardegna,L088_TELTI_ple.gml,2617,Auto intersezione con anello
+Sardegna,L088_TELTI_ple.gml,4986,Auto intersezione
+Sardegna,L140_TERTENIA_ple.gml,16295,Auto intersezione
+Sardegna,L154_TEULADA_ple.gml,499,Auto intersezione
+Sardegna,L154_TEULADA_ple.gml,12568,Auto intersezione
+Sardegna,L463_TUILI_ple.gml,7779,Auto intersezione con anello
+Sardegna,L521_UTA_ple.gml,5403,Auto intersezione
+Sardegna,L521_UTA_ple.gml,14274,Auto intersezione
+Sardegna,L992_VILLANOVATULO_ple.gml,3617,Auto intersezione
+Sardegna,M275_LOIRI PORTO S. PAOLO_ple.gml,12500,Auto intersezione
+Sardegna,M276_S. ANTONIO DI GALLURA_ple.gml,6165,Auto intersezione
+Sicilia,A056_ADRANO_ple.gml,38321,Troppi pochi punti nella geometria
+Sicilia,A070_AGIRA_ple.gml,24527,Auto intersezione con anello
+Sicilia,A070_AGIRA_ple.gml,29845,Auto intersezione
+Sicilia,A089_AGRIGENTO_ple.gml,38881,Auto intersezione
+Sicilia,A351_ARAGONA_ple.gml,6421,Auto intersezione
+Sicilia,A351_ARAGONA_ple.gml,29603,Auto intersezione
+Sicilia,A351_ARAGONA_ple.gml,29604,Auto intersezione
+Sicilia,A351_ARAGONA_ple.gml,29823,Troppi pochi punti nella geometria
+Sicilia,A494_AUGUSTA_ple.gml,15944,Auto intersezione con anello
+Sicilia,A494_AUGUSTA_ple.gml,29910,Auto intersezione con anello
+Sicilia,A494_AUGUSTA_ple.gml,31086,Auto intersezione
+Sicilia,A494_AUGUSTA_ple.gml,39398,Auto intersezione
+Sicilia,A494_AUGUSTA_ple.gml,39559,Auto intersezione
+Sicilia,A592_BALESTRATE_ple.gml,6708,Auto intersezione
+Sicilia,A676_BARRAFRANCA_ple.gml,27104,Auto intersezione con anello
+Sicilia,A766_BELPASSO_ple.gml,42253,Auto intersezione con anello
+Sicilia,A841_BIANCAVILLA_ple.gml,31428,Troppi pochi punti nella geometria
+Sicilia,A896_BIVONA_ple.gml,7363,Auto intersezione con anello
+Sicilia,A991_BORGETTO_ple.gml,14548,Auto intersezione
+Sicilia,B202_BRONTE_ple.gml,11025,Troppi pochi punti nella geometria
+Sicilia,B287_BUSCEMI_ple.gml,12277,Auto intersezione
+Sicilia,B287_BUSCEMI_ple.gml,12392,Auto intersezione
+Sicilia,B288_BUSETO PALIZZOLO_ple.gml,284,Auto intersezione con anello
+Sicilia,B288_BUSETO PALIZZOLO_ple.gml,19581,Auto intersezione con anello
+Sicilia,B315_CACCAMO_ple.gml,47232,Troppi pochi punti nella geometria
+Sicilia,B315_CACCAMO_ple.gml,47654,Auto intersezione con anello
+Sicilia,B315_CACCAMO_ple.gml,47655,Auto intersezione con anello
+Sicilia,B385_CALATAFIMI SEGESTA_ple.gml,43959,Troppi pochi punti nella geometria
+Sicilia,B427_CALTABELLOTTA_ple.gml,31657,Troppi pochi punti nella geometria
+Sicilia,B428_CALTAGIRONE_ple.gml,196,Auto intersezione
+Sicilia,B428_CALTAGIRONE_ple.gml,25297,Auto intersezione con anello
+Sicilia,B428_CALTAGIRONE_ple.gml,36253,Auto intersezione
+Sicilia,B428_CALTAGIRONE_ple.gml,86620,Auto intersezione
+Sicilia,B428_CALTAGIRONE_ple.gml,87850,Auto intersezione con anello
+Sicilia,B428_CALTAGIRONE_ple.gml,87851,Auto intersezione
+Sicilia,B429_CALTANISSETTA_ple.gml,74828,Auto intersezione
+Sicilia,B429_CALTANISSETTA_ple.gml,77267,Auto intersezione con anello
+Sicilia,B429_CALTANISSETTA_ple.gml,78091,Troppi pochi punti nella geometria
+Sicilia,B429_CALTANISSETTA_ple.gml,78178,Troppi pochi punti nella geometria
+Sicilia,B430_CALTAVUTURO_ple.gml,17823,Auto intersezione
+Sicilia,B430_CALTAVUTURO_ple.gml,18446,Auto intersezione
+Sicilia,B486_CAMMARATA_ple.gml,27460,Auto intersezione con anello
+Sicilia,B520_CAMPOBELLO DI LICATA_ple.gml,961,Auto intersezione
+Sicilia,B521_CAMPOBELLO DI MAZARA_ple.gml,26171,Auto intersezione
+Sicilia,B521_CAMPOBELLO DI MAZARA_ple.gml,32352,Auto intersezione
+Sicilia,B602_CANICATTI`_ple.gml,21339,Auto intersezione
+Sicilia,B602_CANICATTI`_ple.gml,29479,Auto intersezione
+Sicilia,B602_CANICATTI`_ple.gml,43854,Auto intersezione
+Sicilia,B603_CANICATTINI BAGNI_ple.gml,8854,Troppi pochi punti nella geometria
+Sicilia,B787_CARLENTINI_ple.gml,23678,Auto intersezione con anello
+Sicilia,B787_CARLENTINI_ple.gml,35358,Auto intersezione
+Sicilia,C006_CASSARO_ple.gml,6307,Auto intersezione con anello
+Sicilia,C275_CASTELTERMINI_ple.gml,4165,Auto intersezione
+Sicilia,C275_CASTELTERMINI_ple.gml,16502,Auto intersezione
+Sicilia,C275_CASTELTERMINI_ple.gml,19188,Auto intersezione con anello
+Sicilia,C496_CERDA_ple.gml,8009,Auto intersezione
+Sicilia,C496_CERDA_ple.gml,9717,Auto intersezione
+Sicilia,C496_CERDA_ple.gml,10224,Auto intersezione
+Sicilia,C496_CERDA_ple.gml,13381,Auto intersezione
+Sicilia,C612_CHIARAMONTE GULFI_ple.gml,11275,Auto intersezione con anello
+Sicilia,C696_CIMINNA_ple.gml,232,Auto intersezione
+Sicilia,C696_CIMINNA_ple.gml,15300,Auto intersezione
+Sicilia,C696_CIMINNA_ple.gml,15334,Auto intersezione
+Sicilia,C968_CONTESSA ENTELLINA_ple.gml,6361,Auto intersezione
+Sicilia,C968_CONTESSA ENTELLINA_ple.gml,14434,Auto intersezione
+Sicilia,D009_CORLEONE_ple.gml,44794,Auto intersezione con anello
+Sicilia,D423_ERICE_ple.gml,20577,Troppi pochi punti nella geometria
+Sicilia,D514_FAVARA_ple.gml,37555,Auto intersezione
+Sicilia,D540_FERLA_ple.gml,222,Auto intersezione con anello
+Sicilia,D768_FRANCOFONTE_ple.gml,35606,Auto intersezione con anello
+Sicilia,D768_FRANCOFONTE_ple.gml,35687,Auto intersezione
+Sicilia,D977_GERACI SICULO_ple.gml,8494,Auto intersezione
+Sicilia,E023_GIBELLINA_ple.gml,8676,Auto intersezione
+Sicilia,E055_GIULIANA_ple.gml,6001,Auto intersezione
+Sicilia,E149_GRATTERI_ple.gml,6814,Auto intersezione
+Sicilia,E390_JOPPOLO GIANCAXIO_ple.gml,4997,Auto intersezione con anello
+Sicilia,E523_LENI_ple.gml,5236,Auto intersezione
+Sicilia,E532_LENTINI_ple.gml,21222,Auto intersezione
+Sicilia,E532_LENTINI_ple.gml,46947,Auto intersezione
+Sicilia,E541_LERCARA FRIDDI_ple.gml,5659,Auto intersezione
+Sicilia,E578_LICODIA EUBEA_ple.gml,11708,Auto intersezione
+Sicilia,E578_LICODIA EUBEA_ple.gml,15301,Auto intersezione
+Sicilia,E578_LICODIA EUBEA_ple.gml,16957,Auto intersezione
+Sicilia,E578_LICODIA EUBEA_ple.gml,21497,Auto intersezione
+Sicilia,E854_MALETTO_ple.gml,12168,Auto intersezione con anello
+Sicilia,E974_MARSALA_ple.gml,103118,Auto intersezione
+Sicilia,F065_MAZZARINO_ple.gml,2348,Auto intersezione con anello
+Sicilia,F065_MAZZARINO_ple.gml,9514,Auto intersezione
+Sicilia,F065_MAZZARINO_ple.gml,23840,Auto intersezione
+Sicilia,F065_MAZZARINO_ple.gml,37395,Auto intersezione
+Sicilia,F065_MAZZARINO_ple.gml,38545,Auto intersezione con anello
+Sicilia,F065_MAZZARINO_ple.gml,42505,Troppi pochi punti nella geometria
+Sicilia,F107_MELILLI_ple.gml,13740,Auto intersezione
+Sicilia,F107_MELILLI_ple.gml,24741,Auto intersezione
+Sicilia,F107_MELILLI_ple.gml,24882,Auto intersezione con anello
+Sicilia,F107_MELILLI_ple.gml,24883,Auto intersezione con anello
+Sicilia,F126_MENFI_ple.gml,25263,Auto intersezione
+Sicilia,F158_MESSINA_ple.gml,91535,Auto intersezione
+Sicilia,F158_MESSINA_ple.gml,176914,Auto intersezione con anello
+Sicilia,F158_MESSINA_ple.gml,176915,Auto intersezione con anello
+Sicilia,F246_MISILMERI_ple.gml,24444,Auto intersezione
+Sicilia,F377_MONREALE_ple.gml,16365,Auto intersezione con anello
+Sicilia,F377_MONREALE_ple.gml,17112,Auto intersezione con anello
+Sicilia,F377_MONREALE_ple.gml,95304,Troppi pochi punti nella geometria
+Sicilia,F377_MONREALE_ple.gml,95309,Auto intersezione
+Sicilia,F400_MONTALBANO ELICONA_ple.gml,24202,Troppi pochi punti nella geometria
+Sicilia,F414_MONTALLEGRO_ple.gml,5761,Auto intersezione con anello
+Sicilia,F489_MONTEDORO_ple.gml,1746,Auto intersezione con anello
+Sicilia,F655_MONTEVAGO_ple.gml,11132,Troppi pochi punti nella geometria
+Sicilia,F655_MONTEVAGO_ple.gml,11153,Troppi pochi punti nella geometria
+Sicilia,F830_MUSSOMELI_ple.gml,32639,Troppi pochi punti nella geometria
+Sicilia,F943_NOTO_ple.gml,98411,Troppi pochi punti nella geometria
+Sicilia,F943_NOTO_ple.gml,98412,Troppi pochi punti nella geometria
+Sicilia,G208_PACECO_ple.gml,8267,Auto intersezione
+Sicilia,G208_PACECO_ple.gml,20689,Auto intersezione
+Sicilia,G208_PACECO_ple.gml,20716,Troppi pochi punti nella geometria
+Sicilia,G267_PALAZZOLO ACREIDE_ple.gml,19166,Auto intersezione con anello
+Sicilia,G282_PALMA DI MONTECHIARO_ple.gml,20986,Auto intersezione
+Sicilia,G282_PALMA DI MONTECHIARO_ple.gml,22172,Auto intersezione
+Sicilia,G315_PANTELLERIA_ple.gml,46538,Troppi pochi punti nella geometria
+Sicilia,G348_PARTINICO_ple.gml,86252,Auto intersezione con anello
+Sicilia,G371_PATERNO`_ple.gml,44332,Troppi pochi punti nella geometria
+Sicilia,G511_PETRALIA SOTTANA_ple.gml,1759,Auto intersezione
+Sicilia,G511_PETRALIA SOTTANA_ple.gml,13073,Auto intersezione
+Sicilia,G543_PIANA DEGLI ALBANESI_ple.gml,4545,Auto intersezione
+Sicilia,G624_PIETRAPERZIA_ple.gml,21904,Auto intersezione
+Sicilia,G624_PIETRAPERZIA_ple.gml,22353,Troppi pochi punti nella geometria
+Sicilia,G767_POGGIOREALE_ple.gml,3268,Auto intersezione con anello
+Sicilia,H148_RACALMUTO_ple.gml,23641,Auto intersezione
+Sicilia,H148_RACALMUTO_ple.gml,25980,Auto intersezione
+Sicilia,H159_RAFFADALI_ple.gml,21052,Auto intersezione
+Sicilia,H159_RAFFADALI_ple.gml,21064,Troppi pochi punti nella geometria
+Sicilia,H163_RAGUSA_ple.gml,78421,Auto intersezione con anello
+Sicilia,H163_RAGUSA_ple.gml,87991,Auto intersezione con anello
+Sicilia,H168_RAMACCA_ple.gml,27836,Auto intersezione con anello
+Sicilia,H168_RAMACCA_ple.gml,29689,Auto intersezione con anello
+Sicilia,H175_RANDAZZO_ple.gml,1136,Auto intersezione
+Sicilia,H175_RANDAZZO_ple.gml,22341,Auto intersezione
+Sicilia,H175_RANDAZZO_ple.gml,26633,Auto intersezione
+Sicilia,H194_RAVANUSA_ple.gml,19053,Auto intersezione
+Sicilia,H221_REGALBUTO_ple.gml,30567,Auto intersezione con anello
+Sicilia,H221_REGALBUTO_ple.gml,30825,Troppi pochi punti nella geometria
+Sicilia,H245_RESUTTANO_ple.gml,6905,Auto intersezione
+Sicilia,H245_RESUTTANO_ple.gml,9288,Auto intersezione con anello
+Sicilia,H269_RIBERA_ple.gml,28481,Auto intersezione
+Sicilia,H281_RIESI_ple.gml,22047,Troppi pochi punti nella geometria
+Sicilia,H479_RODI` MILICI_ple.gml,13690,Auto intersezione
+Sicilia,H688_SALAPARUTA_ple.gml,8652,Auto intersezione con anello
+Sicilia,H700_SALEMI_ple.gml,22775,Auto intersezione
+Sicilia,H700_SALEMI_ple.gml,29975,Auto intersezione
+Sicilia,H700_SALEMI_ple.gml,53489,Auto intersezione
+Sicilia,H778_SAN BIAGIO PLATANI_ple.gml,14139,Troppi pochi punti nella geometria
+Sicilia,H792_SAN CATALDO_ple.gml,2901,Auto intersezione
+Sicilia,H792_SAN CATALDO_ple.gml,22964,Auto intersezione con anello
+Sicilia,H933_SAN GIUSEPPE IATO_ple.gml,11751,Auto intersezione
+Sicilia,H982_SAN MARCO D`ALUNZIO_ple.gml,10080,Auto intersezione con anello
+Sicilia,I086_SAN PIERO PATTI_ple.gml,22833,Troppi pochi punti nella geometria
+Sicilia,I169_S CATERINA VILLARMOSA_ple.gml,10033,Auto intersezione
+Sicilia,I174_SANTA CRISTINA GELA_ple.gml,13124,Auto intersezione
+Sicilia,I215_SANT`ALESSIO SICULO_ple.gml,1028,Auto intersezione
+Sicilia,I356_SANTO STEFANO QUISQUINA_ple.gml,10198,Auto intersezione
+Sicilia,I420_SAPONARA_ple.gml,15760,Troppi pochi punti nella geometria
+Sicilia,I420_SAPONARA_ple.gml,15763,Troppi pochi punti nella geometria
+Sicilia,I541_SCLAFANI BAGNI_ple.gml,6210,Auto intersezione
+Sicilia,I644_SERRADIFALCO_ple.gml,5901,Auto intersezione
+Sicilia,I644_SERRADIFALCO_ple.gml,14289,Troppi pochi punti nella geometria
+Sicilia,I754_SIRACUSA_ple.gml,67264,Auto intersezione con anello
+Sicilia,I754_SIRACUSA_ple.gml,67286,Auto intersezione
+Sicilia,I824_SOMMATINO_ple.gml,4898,Auto intersezione con anello
+Sicilia,I824_SOMMATINO_ple.gml,12108,Troppi pochi punti nella geometria
+Sicilia,I864_SORTINO_ple.gml,19908,Auto intersezione con anello
+Sicilia,L112_TERMINI IMERESE_ple.gml,19694,Auto intersezione con anello
+Sicilia,L331_TRAPANI_ple.gml,33145,Auto intersezione
+Sicilia,L448_TROINA_ple.gml,5,Auto intersezione con anello
+Sicilia,L448_TROINA_ple.gml,18514,Auto intersezione
+Sicilia,L916_VILLABATE_ple.gml,1675,Auto intersezione
+Sicilia,L950_VILLAFRANCA TIRRENA_ple.gml,13586,Auto intersezione con anello
+Sicilia,M100_VIZZINI_ple.gml,13533,Auto intersezione con anello
+Toscana,A541_BADIA TEDALDA_ple.gml,17480,Troppi pochi punti nella geometria
+Toscana,A560_BAGNI DI LUCCA_ple.gml,121,Auto intersezione
+Toscana,A560_BAGNI DI LUCCA_ple.gml,65312,Troppi pochi punti nella geometria
+Toscana,A562_SAN GIULIANO TERME_ple.gml,30803,Auto intersezione
+Toscana,A576_BAGNONE_ple.gml,17678,Auto intersezione
+Toscana,B007_BORGO A MOZZANO_ple.gml,38295,Auto intersezione con anello
+Toscana,B007_BORGO A MOZZANO_ple.gml,39229,Troppi pochi punti nella geometria
+Toscana,B007_BORGO A MOZZANO_ple.gml,39230,Auto intersezione con anello
+Toscana,B269_BUONCONVENTO_ple.gml,1309,Auto intersezione
+Toscana,B269_BUONCONVENTO_ple.gml,3018,Auto intersezione
+Toscana,B669_CAPOLIVERI_ple.gml,12456,Troppi pochi punti nella geometria
+Toscana,B832_CARRARA_ple.gml,665,Auto intersezione
+Toscana,B832_CARRARA_ple.gml,58318,Auto intersezione
+Toscana,B984_CASOLE D ELSA_ple.gml,9755,Auto intersezione
+Toscana,C102_CASTEL FOCOGNANO_ple.gml,3872,Auto intersezione
+Toscana,C174_CASTELLINA MARITTIMA_ple.gml,6905,Auto intersezione
+Toscana,C227_CASTELNUOVO BERARDENGA_ple.gml,3010,Auto intersezione
+Toscana,C227_CASTELNUOVO BERARDENGA_ple.gml,9102,Auto intersezione
+Toscana,C310_CASTIGLIONE D PESCAIA_ple.gml,21000,Auto intersezione
+Toscana,C319_CASTIGLION FIORENTINO_ple.gml,2411,Auto intersezione con anello
+Toscana,C319_CASTIGLION FIORENTINO_ple.gml,5811,Auto intersezione con anello
+Toscana,C319_CASTIGLION FIORENTINO_ple.gml,13804,Auto intersezione con anello
+Toscana,C319_CASTIGLION FIORENTINO_ple.gml,28382,Auto intersezione
+Toscana,C529_CERRETO GUIDI_ple.gml,16141,Auto intersezione con anello
+Toscana,C705_CINIGIANO_ple.gml,1965,Auto intersezione
+Toscana,C705_CINIGIANO_ple.gml,8709,Auto intersezione
+Toscana,C705_CINIGIANO_ple.gml,17331,Auto intersezione
+Toscana,C705_CINIGIANO_ple.gml,18260,Auto intersezione
+Toscana,C705_CINIGIANO_ple.gml,18299,Auto intersezione
+Toscana,C774_CIVITELLA VALDICHIANA_ple.gml,129,Auto intersezione con anello
+Toscana,C782_CIVITELLA PAGANICO_ple.gml,16390,Auto intersezione
+Toscana,D077_CORTONA_ple.gml,54817,Auto intersezione
+Toscana,D299_DICOMANO_ple.gml,593,Auto intersezione
+Toscana,D612_FIRENZE_ple.gml,110262,Troppi pochi punti nella geometria
+Toscana,D613_FIRENZUOLA_ple.gml,37917,Auto intersezione con anello
+Toscana,D613_FIRENZUOLA_ple.gml,39147,Auto intersezione con anello
+Toscana,D656_FOLLONICA_ple.gml,12225,Troppi pochi punti nella geometria
+Toscana,D948_GAVORRANO_ple.gml,1124,Auto intersezione
+Toscana,D948_GAVORRANO_ple.gml,15005,Auto intersezione
+Toscana,D948_GAVORRANO_ple.gml,18610,Auto intersezione
+Toscana,E202_GROSSETO_ple.gml,1266,Auto intersezione
+Toscana,E202_GROSSETO_ple.gml,21829,Auto intersezione
+Toscana,E202_GROSSETO_ple.gml,25947,Auto intersezione
+Toscana,E693_LORO CIUFFENNA_ple.gml,13460,Auto intersezione
+Toscana,E715_LUCCA_ple.gml,46638,Auto intersezione con anello
+Toscana,E715_LUCCA_ple.gml,122385,Troppi pochi punti nella geometria
+Toscana,E875_MANCIANO_ple.gml,2312,Auto intersezione
+Toscana,E930_MARCIANA_ple.gml,27395,Auto intersezione con anello
+Toscana,E960_MARLIANA_ple.gml,22219,Auto intersezione
+Toscana,E960_MARLIANA_ple.gml,22444,Troppi pochi punti nella geometria
+Toscana,F023_MASSA_ple.gml,13519,Auto intersezione
+Toscana,F023_MASSA_ple.gml,26912,Auto intersezione
+Toscana,F023_MASSA_ple.gml,54960,Auto intersezione
+Toscana,F592_MONTEPULCIANO_ple.gml,23737,Auto intersezione con anello
+Toscana,F592_MONTEPULCIANO_ple.gml,27819,Troppi pochi punti nella geometria
+Toscana,F598_MONTERIGGIONI_ple.gml,14033,Auto intersezione
+Toscana,F648_MONTESPERTOLI_ple.gml,23993,Auto intersezione
+Toscana,F656_MONTEVARCHI_ple.gml,5945,Auto intersezione
+Toscana,F656_MONTEVARCHI_ple.gml,12845,Auto intersezione
+Toscana,F656_MONTEVARCHI_ple.gml,14785,Auto intersezione
+Toscana,F677_MONTIERI_ple.gml,14059,Troppi pochi punti nella geometria
+Toscana,F679_MONTIGNOSO_ple.gml,3320,Auto intersezione
+Toscana,G088_ORBETELLO_ple.gml,1232,Auto intersezione
+Toscana,G088_ORBETELLO_ple.gml,9307,Auto intersezione
+Toscana,G088_ORBETELLO_ple.gml,19822,Auto intersezione
+Toscana,G395_PECCIOLI_ple.gml,2822,Auto intersezione
+Toscana,G420_PELAGO_ple.gml,12377,Auto intersezione
+Toscana,G420_PELAGO_ple.gml,12921,Auto intersezione con anello
+Toscana,G491_PESCIA_ple.gml,44990,Auto intersezione
+Toscana,G491_PESCIA_ple.gml,46692,Troppi pochi punti nella geometria
+Toscana,G491_PESCIA_ple.gml,47695,Troppi pochi punti nella geometria
+Toscana,G713_PISTOIA_ple.gml,111170,Auto intersezione con anello
+Toscana,G713_PISTOIA_ple.gml,113546,Troppi pochi punti nella geometria
+Toscana,G912_PORTOFERRAIO_ple.gml,17471,Auto intersezione con anello
+Toscana,G999_PRATO_ple.gml,20422,Auto intersezione
+Toscana,G999_PRATO_ple.gml,62660,Auto intersezione con anello
+Toscana,H109_QUARRATA_ple.gml,26264,Auto intersezione
+Toscana,H286_RIGNANO SULL ARNO_ple.gml,2680,Auto intersezione con anello
+Toscana,H286_RIGNANO SULL ARNO_ple.gml,12669,Troppi pochi punti nella geometria
+Toscana,H570_ROSIGNANO MARITTIMO_ple.gml,37340,Troppi pochi punti nella geometria
+Toscana,H744_SAMBUCA PISTOIESE_ple.gml,30969,Auto intersezione con anello
+Toscana,H790_SAN CASCIANO DEI BAGNI_ple.gml,7332,Auto intersezione
+Toscana,H790_SAN CASCIANO DEI BAGNI_ple.gml,7673,Auto intersezione
+Toscana,H790_SAN CASCIANO DEI BAGNI_ple.gml,9347,Auto intersezione
+Toscana,H875_SAN GIMIGNANO_ple.gml,18156,Auto intersezione
+Toscana,I135_SAN QUIRICO D ORCIA_ple.gml,3020,Auto intersezione con anello
+Toscana,I504_SCANSANO_ple.gml,13330,Auto intersezione
+Toscana,I504_SCANSANO_ple.gml,14309,Auto intersezione
+Toscana,I504_SCANSANO_ple.gml,30510,Auto intersezione
+Toscana,I504_SCANSANO_ple.gml,30747,Auto intersezione
+Toscana,I510_SCARLINO_ple.gml,7787,Auto intersezione
+Toscana,I510_SCARLINO_ple.gml,8036,Troppi pochi punti nella geometria
+Toscana,I571_SEGGIANO_ple.gml,5807,Auto intersezione
+Toscana,I571_SEGGIANO_ple.gml,12851,Auto intersezione
+Toscana,I991_SUBBIANO_ple.gml,12889,Auto intersezione
+Toscana,L138_TERRICCIOLA_ple.gml,12741,Auto intersezione con anello
+Toscana,L775_VERNIO_ple.gml,21396,Troppi pochi punti nella geometria
+Toscana,L833_VIAREGGIO_ple.gml,7928,Auto intersezione con anello
+Toscana,L833_VIAREGGIO_ple.gml,36271,Auto intersezione con anello
+Toscana,M327_CASCIANA TERME LARI_ple.gml,28428,Auto intersezione
+Toscana,M377_SAN MARCELLO PITEGLIO_ple.gml,27582,Auto intersezione
+Toscana,M377_SAN MARCELLO PITEGLIO_ple.gml,36923,Auto intersezione
+Toscana,M377_SAN MARCELLO PITEGLIO_ple.gml,36980,Auto intersezione
+Toscana,M378_MONTALCINO_ple.gml,20485,Auto intersezione
+Umbria,A262_AMELIA_ple.gml,23751,Troppi pochi punti nella geometria
+Umbria,A439_ARRONE_ple.gml,594,Auto intersezione
+Umbria,A475_ASSISI_ple.gml,27704,Auto intersezione
+Umbria,B504_CAMPELLO SUL CLITUNNO_ple.gml,5447,Auto intersezione
+Umbria,D570_FICULLE_ple.gml,9177,Auto intersezione
+Umbria,D653_FOLIGNO_ple.gml,22358,Auto intersezione
+Umbria,E256_GUBBIO_ple.gml,58881,Auto intersezione
+Umbria,E256_GUBBIO_ple.gml,60484,Auto intersezione con anello
+Umbria,F024_MASSA MARTANA_ple.gml,442,Auto intersezione
+Umbria,F844_NARNI_ple.gml,34662,Auto intersezione con anello
+Umbria,F844_NARNI_ple.gml,37340,Troppi pochi punti nella geometria
+Umbria,F844_NARNI_ple.gml,38129,Troppi pochi punti nella geometria
+Umbria,G148_ORVIETO_ple.gml,2395,Auto intersezione
+Umbria,G148_ORVIETO_ple.gml,27461,Auto intersezione
+Umbria,G478_PERUGIA_ple.gml,142516,Auto intersezione con anello
+Umbria,I381_SAN VENANZO_ple.gml,4912,Auto intersezione
+Umbria,I381_SAN VENANZO_ple.gml,8053,Auto intersezione
+Umbria,L117_TERNI_ple.gml,70145,Troppi pochi punti nella geometria
+Umbria,L117_TERNI_ple.gml,70885,Troppi pochi punti nella geometria
+Umbria,L216_TORGIANO_ple.gml,5737,Auto intersezione
+Valled'Aosta,C598_CHARVENSOD_ple.gml,7431,Auto intersezione
+Valled'Aosta,D537_FENIS_ple.gml,15972,Auto intersezione
+Valled'Aosta,D537_FENIS_ple.gml,22026,Auto intersezione
+Valled'Aosta,D839_GABY_ple.gml,7076,Auto intersezione
+Valled'Aosta,E371_ISSOGNE_ple.gml,452,Auto intersezione
+Valled'Aosta,F987_NUS_ple.gml,26717,Auto intersezione
+Valled'Aosta,H669_SAINT CHRISTOPHE_ple.gml,4567,Auto intersezione
+Valled'Aosta,H676_SAINT VINCENT_ple.gml,29557,Auto intersezione
+Valled'Aosta,L654_VALTOURNENCHE_ple.gml,17855,Auto intersezione
+Veneto,A093_AGUGLIARO_ple.gml,3607,Auto intersezione con anello
+Veneto,A377_ARCUGNANO_ple.gml,4846,Auto intersezione
+Veneto,A637_BARBONA_ple.gml,1848,Auto intersezione con anello
+Veneto,A757_BELLUNO_ple.gml,42390,Auto intersezione con anello
+Veneto,B154_BRENZONE_ple.gml,3553,Auto intersezione
+Veneto,B433_CALTRANO_ple.gml,2669,Auto intersezione con anello
+Veneto,B564_CAMPO SAN MARTINO_ple.gml,6785,Troppi pochi punti nella geometria
+Veneto,B795_CARMIGNANO DI BRENTA_ple.gml,7335,Auto intersezione con anello
+Veneto,C384_CAVASO DEL TOMBA_ple.gml,8827,Auto intersezione con anello
+Veneto,C388_JESOLO_ple.gml,21289,Troppi pochi punti nella geometria
+Veneto,C605_CHIAMPO_ple.gml,19619,Troppi pochi punti nella geometria
+Veneto,C824_COGOLLO DEL CENGIO_ple.gml,9958,Auto intersezione
+Veneto,C890_COLOGNA VENETA_ple.gml,12731,Auto intersezione
+Veneto,C919_SANTO STEFANO DI CADORE_ple.gml,8253,Auto intersezione
+Veneto,D105_COSTA DI ROVIGO_ple.gml,4769,Troppi pochi punti nella geometria
+Veneto,D107_COSTABISSARA_ple.gml,909,Auto intersezione con anello
+Veneto,D530_FELTRE_ple.gml,7993,Auto intersezione
+Veneto,D577_FIESSO UMBERTIANO_ple.gml,6502,Auto intersezione
+Veneto,D957_GAZZO VERONESE_ple.gml,11674,Troppi pochi punti nella geometria
+Veneto,E021_GIAVERA DEL MONTELLO_ple.gml,7800,Auto intersezione con anello
+Veneto,E226_GRUMOLO DELLE ABBADESSE_ple.gml,4541,Troppi pochi punti nella geometria
+Veneto,E240_GUARDA VENETA_ple.gml,2323,Troppi pochi punti nella geometria
+Veneto,E429_LAMON_ple.gml,10003,Auto intersezione
+Veneto,E588_LIMANA_ple.gml,13269,Auto intersezione con anello
+Veneto,E893_MANSUE`_ple.gml,5681,Auto intersezione
+Veneto,F218_MINERBE_ple.gml,531,Auto intersezione con anello
+Veneto,F332_MONASTIER DI TREVISO_ple.gml,5301,Troppi pochi punti nella geometria
+Veneto,F332_MONASTIER DI TREVISO_ple.gml,5302,Troppi pochi punti nella geometria
+Veneto,F332_MONASTIER DI TREVISO_ple.gml,5303,Troppi pochi punti nella geometria
+Veneto,F332_MONASTIER DI TREVISO_ple.gml,5304,Troppi pochi punti nella geometria
+Veneto,G167_OSPEDALETTO EUGANEO_ple.gml,7317,Troppi pochi punti nella geometria
+Veneto,G688_PIOMBINO DESE_ple.gml,7001,Auto intersezione
+Veneto,G776_POIANA MAGGIORE_ple.gml,7257,Auto intersezione con anello
+Veneto,H606_ROVERCHIARA_ple.gml,3999,Troppi pochi punti nella geometria
+Veneto,H608_ROVERE` VERONESE_ple.gml,4,Auto intersezione
+Veneto,H608_ROVERE` VERONESE_ple.gml,16453,Auto intersezione
+Veneto,I008_SAN MARTINO DI LUPARI_ple.gml,921,Auto intersezione con anello
+Veneto,I040_S MICHELE TAGLIAMENTO_ple.gml,17851,Auto intersezione
+Veneto,I259_S AMBROGIO VALPOLICELLA_ple.gml,892,Auto intersezione
+Veneto,I292_SANT`ANNA D`ALFAEDO_ple.gml,9101,Auto intersezione
+Veneto,I292_SANT`ANNA D`ALFAEDO_ple.gml,17371,Auto intersezione
+Veneto,I551_SCORZE`_ple.gml,1053,Auto intersezione con anello
+Veneto,I563_SEDICO_ple.gml,15367,Troppi pochi punti nella geometria
+Veneto,I626_SEREN DEL GRAPPA_ple.gml,2520,Auto intersezione con anello
+Veneto,L364_TREGNAGO_ple.gml,7959,Auto intersezione
+Veneto,L364_TREGNAGO_ple.gml,17633,Auto intersezione
+Veneto,L722_VELO VERONESE_ple.gml,7628,Auto intersezione
+Veneto,L781_VERONA_ple.gml,106786,Auto intersezione
+Veneto,L900_VIGONZA_ple.gml,17687,Troppi pochi punti nella geometria
+Veneto,L939_VILLADOSE_ple.gml,7790,Auto intersezione
+Veneto,M172_ZEVIO_ple.gml,13672,Auto intersezione
+Veneto,M374_VAL DI ZOLDO_ple.gml,25742,Auto intersezione
+Veneto,M375_ALPAGO_ple.gml,11076,Auto intersezione
+Veneto,M375_ALPAGO_ple.gml,23569,Auto intersezione
+Veneto,M401_BARBARANO MOSSANO_ple.gml,12509,Auto intersezione
+Veneto,M421_BORGO VALBELLUNA_ple.gml,36151,Auto intersezione
+Veneto,M421_BORGO VALBELLUNA_ple.gml,40216,Auto intersezione
