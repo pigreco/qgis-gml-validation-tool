@@ -1,6 +1,23 @@
 # Report Analisi
 
-# Distribuzione file (ple e map) per regione
+<!-- TOC -->
+
+- [Report Analisi](#report-analisi)
+  - [Distribuzione file (ple e map) per regione](#distribuzione-file-ple-e-map-per-regione)
+  - [Messaggio di errore per Ple e Map e numero di casi](#messaggio-di-errore-per-ple-e-map-e-numero-di-casi)
+  - [Invalidità file (Ple e Map) per Regione](#invalidità-file-ple-e-map-per-regione)
+  - [Stato dei file per Ple e Map](#stato-dei-file-per-ple-e-map)
+  - [Feature Invalide per Ple e Map](#feature-invalide-per-ple-e-map)
+  - [Invalidità Particelle](#invalidità-particelle)
+    - [Auto intersezione - Self-intersection](#auto-intersezione---self-intersection)
+    - [Auto intersezione con anelli - Ring self-intersection](#auto-intersezione-con-anelli---ring-self-intersection)
+    - [Troppi pochi punti nella geometria - Too few points](#troppi-pochi-punti-nella-geometria---too-few-points)
+    - [Errore nella lettura del file: not well-formed](#errore-nella-lettura-del-file-not-well-formed)
+    - [Invalidità Mappe](#invalidità-mappe)
+
+<!-- /TOC -->
+
+## Distribuzione file (ple e map) per regione
 
 | Regione               | Count Ple | Count Map |
 | --------------------- | --------: | --------: |
@@ -25,7 +42,7 @@
 | Valle d'Aosta         |        74 |        74 |
 
 
-# Messaggio di errore per Ple e Map e numero di casi
+## Messaggio di errore per Ple e Map e numero di casi
 
 | Messaggio di errore                            | Count Ple | Percent Ple | Count Map | Percent Map |
 | ---------------------------------------------- | --------: | ----------: | --------: | ----------: |
@@ -36,7 +53,7 @@
 | Il buco si trova all'esterno del confine       |         - |           - |         1 |        2.86 |
 
 
-# Invalidità file (Ple e Map) per Regione
+## Invalidità file (Ple e Map) per Regione
 
 | Regione               | Count Ple | Percent Ple | Count Map | Percent Map |
 | --------------------- | --------: | ----------: | --------: | ----------: |
@@ -62,7 +79,7 @@
 
 
 
-# Stato dei file per Ple e Map
+## Stato dei file per Ple e Map
 
 | Stato                       | Count Ple | Percent Ple | Count Map | Percent Map |
 | --------------------------- | --------- | ----------- | --------- | ----------- |
@@ -70,7 +87,7 @@
 | Contiene geometrie invalide | 925       | 12.16       | 35        | 0.46        |
 | XML malformato              | 1         | 0.01        | -         | -           |
 
-# Feature Invalide per Ple e Map
+## Feature Invalide per Ple e Map
 
 | Feature invalidate | Count Ple | Percent Ple | Count Map | Percent Map |
 | ------------------ | --------: | ----------: | --------: | ----------: |
@@ -88,7 +105,7 @@
 
 ##  Invalidità Particelle
 
-## Auto intersezione - Self-intersection
+### Auto intersezione - Self-intersection
 
 | Regione               | count | percent% |
 | --------------------- | ----: | -------: |
@@ -116,7 +133,7 @@
 
 Questo errore si verifica quando una geometria tocca se stessa.
 
-## Auto intersezione con anelli - Ring self-intersection
+### Auto intersezione con anelli - Ring self-intersection
 
 | Regione               | count | percent% |
 | --------------------- | ----: | -------: |
@@ -142,7 +159,7 @@ Questo errore si verifica quando una geometria tocca se stessa.
 
 Questo errore si verifica quando una geometria tocca se stessa e genera un anello.
 
-## Troppi pochi punti nella geometria - Too few points
+### Troppi pochi punti nella geometria - Too few points
 
 | Regione               | count | percent% |
 | --------------------- | ----: | -------: |
@@ -165,7 +182,7 @@ Questo errore si verifica quando una geometria tocca se stessa e genera un anell
 | Liguria               |     2 |     1.23 |
 | Molise                |     2 |     1.23 |
 
-## Errore nella lettura del file: not well-formed
+### Errore nella lettura del file: not well-formed
 
 | Regione  | File                      | Feature ID | Messaggio di errore                                                                |
 | -------- | ------------------------- | ---------- | ---------------------------------------------------------------------------------- |
@@ -173,7 +190,7 @@ Questo errore si verifica quando una geometria tocca se stessa e genera un anell
 
 
 
-##  Invalidità Mappe
+###  Invalidità Mappe
 
 | Regione | File                     | Feature ID | Messaggio di errore                                                |
 | ------- | ------------------------ | ---------- | ------------------------------------------------------------------ |
