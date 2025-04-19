@@ -10,28 +10,27 @@ L'obiettivo di questo repository è quello di raccogliere le problematiche risco
 
 ## Tabella Errori di Validazione per Regione
 
-| Regione               | Auto intersezione | Auto intersezione con anello | Troppi pochi punti nella geometria | Altri errori |   Totale |
-| --------------------- | ----------------: | ---------------------------: | ---------------------------------: | -----------: | -------: |
-| Sicilia               |                94 |                           52 |                                 32 |            0 |      178 |
-| Puglia                |                74 |                           27 |                                 11 |            0 |      112 |
-| Campania              |                87 |                           16 |                                  5 |            0 |      108 |
-| Toscana               |                65 |                           22 |                                 17 |            0 |      104 |
-| Piemonte              |                65 |                           21 |                                 17 |            0 |      103 |
-| Lazio                 |                83 |                           12 |                                  3 |            0 |       98 |
-| Emilia-Romagna        |                47 |                           31 |                                 16 |            0 |       94 |
-| Calabria              |                80 |                            6 |                                  5 |            1 |       92 |
-| Lombardia             |                55 |                           20 |                                  3 |            0 |       78 |
-| Abruzzo               |                40 |                           18 |                                 10 |            0 |       68 |
-| Veneto                |                28 |                           14 |                                 15 |            0 |       57 |
-| Sardegna              |                35 |                           13 |                                  8 |            0 |       56 |
-| Marche                |                30 |                           20 |                                  5 |            0 |       55 |
-| Basilicata            |                46 |                            3 |                                  3 |            0 |       52 |
-| Friuli-Venezia Giulia |                12 |                            7 |                                  3 |            0 |       22 |
-| Liguria               |                17 |                            3 |                                  2 |            0 |       22 |
-| Umbria                |                12 |                            3 |                                  5 |            0 |       20 |
-| Molise                |                 7 |                            0 |                                  2 |            0 |        9 |
-| Valle d'Aosta         |                 9 |                            0 |                                  0 |            0 |        9 |
-| **Totale**            |           **886** |                      **288** |                            **162** |        **1** | **1337** |
+| Regione               | Auto intersezione | Auto intersezione con anello | Troppi pochi punti nella geometria | Altri errori | Totale Errori | Totale Feature |
+| --------------------- | ----------------: | ---------------------------: | ---------------------------------: | -----------: | ------------: | -------------: |
+| Sicilia               |                94 |                           52 |                                 32 |            0 |           178 |        8245350 |
+| Puglia                |                74 |                           27 |                                 11 |            0 |           112 |        4967384 |
+| Campania              |                87 |                           16 |                                  5 |            0 |           108 |        5699625 |
+| Toscana               |                65 |                           22 |                                 17 |            0 |           104 |        5656713 |
+| Piemonte              |                65 |                           21 |                                 17 |            0 |           103 |        9684097 |
+| Lazio                 |                83 |                           12 |                                  3 |            0 |            98 |        5220631 |
+| Emilia-Romagna        |                47 |                           31 |                                 16 |            0 |            94 |        5418463 |
+| Calabria              |                80 |                            6 |                                  5 |            1 |            92 |        4265976 |
+| Lombardia             |                55 |                           20 |                                  3 |            0 |            78 |        8755919 |
+| Abruzzo               |                40 |                           18 |                                 10 |            0 |            68 |        4499754 |
+| Veneto                |                28 |                           14 |                                 15 |            0 |            57 |        6016158 |
+| Sardegna              |                35 |                           13 |                                  8 |            0 |            56 |        3771226 |
+| Marche                |                30 |                           20 |                                  5 |            0 |            55 |        2539760 |
+| Basilicata            |                46 |                            3 |                                  3 |            0 |            52 |        2125499 |
+| Friuli-Venezia Giulia |                12 |                            7 |                                  3 |            0 |            22 |        2250598 |
+| Liguria               |                17 |                            3 |                                  2 |            0 |            22 |        3143566 |
+| Umbria                |                12 |                            3 |                                  5 |            0 |            20 |        1833292 |
+| Molise                |                 7 |                            0 |                                  2 |            0 |             9 |        1749587 |
+| Valle d'Aosta         |                 9 |                            0 |                                  0 |            0 |             9 |         909967 |
 
 ## Descrizione
 
