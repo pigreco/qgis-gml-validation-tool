@@ -188,7 +188,7 @@ Questo errore si verifica quando una geometria tocca se stessa e genera un anell
 | -------- | ------------------------- | ---------- | ---------------------------------------------------------------------------------- |
 | Calabria | B968_CASTELSILANO_ple.gml | N/A        | Errore nella lettura del file: not well-formed (invalid token): line 16, column 74 |
 
-
+Questo errore è bloccante, QGIS non riesce a leggerlo.
 
 ###  Invalidità Mappe
 
