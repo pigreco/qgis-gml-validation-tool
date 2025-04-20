@@ -131,3 +131,5 @@ Lo strumento produce due file CSV:
 
 - [VisiData](https://www.visidata.org/)
 - [QGIS](https://www.qgis.org/)
+- [Copilot GhitHub con Claude AI](https://github.com/features/copilot)
+
